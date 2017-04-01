@@ -1,0 +1,73 @@
+ Autodesk (R) Simulation Thermal Decoder for AGSDB
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+
+** Model [C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink V1.1.ds_data\1\ds] opened
+
+   --- 44204 nodes
+   --- 48 element parts ...
+   --- Part(47): 317 type 39 elements, done.
+   --- Part(46): 317 type 39 elements, done.
+   --- Part(45): 1422 type 39 elements, done.
+   --- Part(44): 1060 type 39 elements, done.
+   --- Part(43): 1087 type 39 elements, done.
+   --- Part(42): 1036 type 39 elements, done.
+   --- Part(41): 1080 type 39 elements, done.
+   --- Part(40): 1059 type 39 elements, done.
+   --- Part(39): 1068 type 39 elements, done.
+   --- Part(38): 1060 type 39 elements, done.
+   --- Part(37): 996 type 39 elements, done.
+   --- Part(36): 2120 type 39 elements, done.
+   --- Part(35): 2088 type 39 elements, done.
+   --- Part(34): 2086 type 39 elements, done.
+   --- Part(33): 2106 type 39 elements, done.
+   --- Part(32): 2232 type 39 elements, done.
+   --- Part(31): 2632 type 39 elements, done.
+   --- Part(30): 2515 type 39 elements, done.
+   --- Part(29): 2498 type 39 elements, done.
+   --- Part(28): 2522 type 39 elements, done.
+   --- Part(27): 2510 type 39 elements, done.
+   --- Part(26): 2504 type 39 elements, done.
+   --- Part(25): 2496 type 39 elements, done.
+   --- Part(24): 2544 type 39 elements, done.
+   --- Part(23): 2510 type 39 elements, done.
+   --- Part(22): 2528 type 39 elements, done.
+   --- Part(21): 2502 type 39 elements, done.
+   --- Part(20): 2515 type 39 elements, done.
+   --- Part(19): 2510 type 39 elements, done.
+   --- Part(18): 2558 type 39 elements, done.
+   --- Part(17): 2520 type 39 elements, done.
+   --- Part(16): 2776 type 39 elements, done.
+   --- Part(15): 2198 type 39 elements, done.
+   --- Part(14): 2159 type 39 elements, done.
+   --- Part(13): 2142 type 39 elements, done.
+   --- Part(12): 2154 type 39 elements, done.
+   --- Part(11): 2134 type 39 elements, done.
+   --- Part(10): 2498 type 39 elements, done.
+   --- Part(9): 2494 type 39 elements, done.
+   --- Part(8): 2490 type 39 elements, done.
+   --- Part(7): 2494 type 39 elements, done.
+   --- Part(6): 2482 type 39 elements, done.
+   --- Part(5): 2477 type 39 elements, done.
+   --- Part(4): 2827 type 39 elements, done.
+   --- Part(3): 2488 type 39 elements, done.
+   --- Part(2): 5176 type 39 elements, done.
+   --- Part(1): 5076 type 39 elements, done.
+   --- Part(48): 3388 type 35 boundary elements, done.
+
+** Model [C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink V1.1.ds_data\1\ds] done
+
+ Autodesk (R) Simulation Fluid Flow Analysis Decoder for AGSDB
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved. 
+
+ Invalid analysis type definition. id = 0 
+ Autodesk (R) Simulation Surface-to-Surface Radiation Management
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+ Model [C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink V1.1.ds_data\1\ds] opened for checking/generating radiation data...
+
+ No Body-to-Body radiation enclosure enabled.
+

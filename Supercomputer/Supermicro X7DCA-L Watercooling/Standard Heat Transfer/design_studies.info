@@ -1,0 +1,7 @@
+<cfd_design_studies version="15.2.20140731" user_name="Kyle">
+ <design_study instance_id="id_not_defined" name="Standard Heat Transfer" folder="C:/Users/Kyle/Documents/Project documentation/Supermicro X7DCA-L Watercooling/Standard Heat Transfer" study_id="d9c81c10-8070-4e49-8a63-4508528282f5">
+  <design launcher_type="CP_ASM_INVENTOR_IMPORT" name="Design 1" model_id="LGA 771 Passive Heatsink.sat" lock_status="false">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>

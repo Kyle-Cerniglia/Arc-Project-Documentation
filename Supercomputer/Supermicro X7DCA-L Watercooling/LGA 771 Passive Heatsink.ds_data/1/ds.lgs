@@ -1,0 +1,260 @@
+
+
+Autodesk (R) Simulation Steady-State Heat Transfer
+Version 2016.00.00.3017-W64/X64 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+ **** Memory Dynamically Allocated =   4164856 KB
+ **** Steady-State Heat Transfer Analysis
+ 
+ ----------------------------------------------------------------
+      DATE: AUGUST 24, 2015               
+      TIME: 08:46 PM
+      Input Model: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.ds_data\1\ds
+
+
+                        PROGRAM VERSION: 201600003017
+                alg-win-x64.dll VERSION: 201600003017
+          algconfig-win-x64.dll VERSION: 201600003017
+           agsdb_ar-win-x64.dll VERSION: 201600003017
+     solvercallback-win-x64.dll VERSION: 201600003017
+                   amgsolve.exe VERSION:   0360000000
+ 
+  
+      Options executed are: 
+      NOMIN
+      SUPSTR
+  
+  
+      processing ... 
+  
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+ **** OPENING TEMPORARY FILES
+      NDYN = 10 
+ **** BEGIN NODAL DATA INPUT
+      Node     number=     53514
+      Equation number=     53514
+ **** END   NODAL DATA INPUT
+
+ WARNING: Model has non-linearity through radiation on boundary
+          face of element. Nonlinear flag has not been set by 
+          user. The current settings for non-linear iteration
+          control are used. This may lead to inaccurate results.
+
+          The "Advanced" tab of the "Global" data screen
+          sets up the nonlinear analyses.
+
+ **** HARD DISK FILE SIZE INFORMATION FOR PROCESSOR:
+
+      Available hard disk space on C drive = 560331.809 megabytes
+
+ **** BEGIN NODAL HEAT FLOW INPUT
+ **** END   NODAL HEAT FLOW INPUT
+
+ **** 
+ **** Invoking BCSLIB-EXT Sparse Solver ...
+ **** 
+
+
+ **** BEGIN NON-LINEAR ITERATIONS
+
+      Nonlin Iter.  Incr. Norm(T)  Rel. Norm(T)
+      -----------   ------------   -----------
+                1   5.404E+01      5.909E-01
+                3   1.305E-03      1.429E-05
+
+ **** END   NON-LINEAR ITERATIONS
+  
+ **** CONVERGED SOLUTION OBTAINED
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      5207 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      5432 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      4195 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2700 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2424 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2424 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2424 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2423 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2451 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2460 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1788 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1802 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1754 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1806 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1981 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2699 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2611 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2595 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2581 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2585 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2592 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2585 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2585 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2624 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2556 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2596 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2560 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2604 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2637 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2586 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      2725 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1955 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1811 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1810 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1807 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1802 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      966 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1051 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1102 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1096 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1104 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1087 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1086 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1127 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1469 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      11067 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      600 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      9404 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      566 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+
+ **** Table for actual hard disk space used:
+      ds.t7  =     418.086 kilobytes
+      ds.t8  =    2341.875 kilobytes
+      ds.t9  =      41.250 kilobytes
+      ds.t10 =      41.250 kilobytes
+      ds.t11 =  190211.664 kilobytes
+      ds.t12 =       0.000 kilobytes
+      ds.t13 =      41.250 kilobytes
+      ds.t14 =       3.125 kilobytes
+      ds.t15 =      41.250 kilobytes
+      ds.t18 =      41.250 kilobytes
+      ds.t65 =     418.086 kilobytes
+      ds.t67 =   60404.164 kilobytes
+ 
+      total temporary disk storage (megabytes) = 248.050 
+ 
+ **** BEGIN DELETING TEMPORARY FILES
+ **** TEMPORARY FILES DELETED
+ **** END OF SUCCESSFUL EXECUTION
+ 
+ Processing completed for model C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.ds_data\1\ds
+ 
+      ds.l10   =       5.216 kilobytes
+      ds.to    =    2508.516 kilobytes
+      ds.hfo   =    4356.742 kilobytes
+
+      Total actual hard disk space used    =    259.014 megabytes
+
+      Total elapsed time                   =      0.654 minutes
+

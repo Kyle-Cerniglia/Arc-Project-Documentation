@@ -1,0 +1,1518 @@
+﻿
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=-1 -zg=1:49 -m=47 -Td=1 -Tl=0.115883 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 47
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 600  ( 325, 129, 0, 146 )
+    Volume (4,5,6,8 noded %): 0.125359 (  17.65,  12.86,   0.00,  69.49 )
+    Number of nodes: 621
+    Length ratios (avg)     2.9,     2.8,     0.0,     2.9
+    Length ratios (max)    10.3,     9.5,     0.0,     3.5
+    Aspect ratio: unconstrained (   1.7,   2.7,   0.0,   1.2 )
+    Average aspect ratios:      (   1.2,   1.2,   0.0,   1.1 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=-1 -zg=1:49 -m=49 -Td=1 -Tl=0.115871 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 49
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 566  ( 243, 89, 63, 171 )
+    Volume (4,5,6,8 noded %): 0.125184 (   8.30,   6.75,   8.80,  76.16 )
+    Number of nodes: 661
+    Length ratios (avg)     5.4,     4.5,     2.3,     2.8
+    Length ratios (max)    47.8,    16.0,     3.2,     3.4
+    Aspect ratio: unconstrained (   2.9,   3.2,   1.2,   1.1 )
+    Average aspect ratios:      (   1.3,   1.4,   1.1,   1.1 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=45 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 45
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1469  ( 1019, 279, 12, 159 )
+    Volume (4,5,6,8 noded %): 0.059206 (  29.33,  14.90,   0.51,  55.27 )
+    Number of nodes: 1123
+    Length ratios (avg)    13.2,    12.5,    10.2,     8.7
+    Length ratios (max)    70.6,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.0,   3.0,   1.4,   1.4 )
+    Average aspect ratios:      (   1.6,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=44 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 44
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1127  ( 707, 215, 26, 179 )
+    Volume (4,5,6,8 noded %): 0.059206 (  25.89,  13.94,   0.79,  59.39 )
+    Number of nodes: 1042
+    Length ratios (avg)    14.6,    11.3,    10.7,     8.6
+    Length ratios (max)    63.1,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.1,   2.6,   1.4,   1.4 )
+    Average aspect ratios:      (   1.7,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=43 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 43
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1086  ( 666, 215, 26, 179 )
+    Volume (4,5,6,8 noded %): 0.059206 (  25.89,  13.94,   0.79,  59.39 )
+    Number of nodes: 1032
+    Length ratios (avg)    13.8,    11.3,    10.7,     8.6
+    Length ratios (max)    63.1,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.0,   2.6,   1.4,   1.4 )
+    Average aspect ratios:      (   1.7,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=42 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 42
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1087  ( 667, 215, 26, 179 )
+    Volume (4,5,6,8 noded %): 0.059206 (  25.89,  13.94,   0.79,  59.39 )
+    Number of nodes: 1032
+    Length ratios (avg)    13.2,    11.3,    10.7,     8.6
+    Length ratios (max)    63.1,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.1,   2.6,   1.4,   1.4 )
+    Average aspect ratios:      (   1.6,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=41 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 41
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1104  ( 684, 215, 26, 179 )
+    Volume (4,5,6,8 noded %): 0.059206 (  25.89,  13.94,   0.79,  59.39 )
+    Number of nodes: 1040
+    Length ratios (avg)    14.0,    11.3,    10.7,     8.6
+    Length ratios (max)    63.1,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.1,   2.6,   1.4,   1.4 )
+    Average aspect ratios:      (   1.7,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=39 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 39
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1102  ( 682, 215, 26, 179 )
+    Volume (4,5,6,8 noded %): 0.059206 (  25.89,  13.94,   0.79,  59.39 )
+    Number of nodes: 1038
+    Length ratios (avg)    13.8,    11.3,    10.7,     8.6
+    Length ratios (max)    63.1,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.1,   2.6,   1.4,   1.4 )
+    Average aspect ratios:      (   1.7,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=40 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 40
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1096  ( 676, 215, 26, 179 )
+    Volume (4,5,6,8 noded %): 0.059206 (  25.89,  13.94,   0.79,  59.39 )
+    Number of nodes: 1035
+    Length ratios (avg)    14.0,    11.3,    10.7,     8.6
+    Length ratios (max)    63.1,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.1,   2.6,   1.4,   1.4 )
+    Average aspect ratios:      (   1.7,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=38 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 38
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1051  ( 631, 215, 26, 179 )
+    Volume (4,5,6,8 noded %): 0.059206 (  25.89,  13.94,   0.79,  59.39 )
+    Number of nodes: 1027
+    Length ratios (avg)    13.2,    11.3,    10.7,     8.6
+    Length ratios (max)    63.1,    33.3,    10.9,    11.5
+    Aspect ratio: unconstrained (   3.0,   2.6,   1.4,   1.4 )
+    Average aspect ratios:      (   1.6,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=37 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 37
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 966  ( 528, 260, 1, 177 )
+    Volume (4,5,6,8 noded %): 0.059224 (  23.44,  16.31,   0.11,  60.18 )
+    Number of nodes: 967
+    Length ratios (avg)    11.2,    11.5,     8.0,     8.7
+    Length ratios (max)    51.5,    23.0,     8.0,    11.6
+    Aspect ratio: unconstrained (   2.6,   2.4,   1.2,   1.4 )
+    Average aspect ratios:      (   1.6,   1.7,   1.2,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=35 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 35
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1807  ( 1335, 381, 11, 80 )
+    Volume (4,5,6,8 noded %): 0.071742 (  54.53,  23.23,   0.19,  22.06 )
+    Number of nodes: 1216
+    Length ratios (avg)    14.2,    12.0,     9.1,     8.4
+    Length ratios (max)    78.3,    69.9,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.4,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=36 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 36
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1802  ( 1326, 385, 11, 80 )
+    Volume (4,5,6,8 noded %): 0.071741 (  54.39,  23.37,   0.19,  22.06 )
+    Number of nodes: 1214
+    Length ratios (avg)    14.2,    12.0,     8.8,     8.4
+    Length ratios (max)    78.3,    69.9,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.4,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=34 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 34
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1810  ( 1330, 390, 11, 79 )
+    Volume (4,5,6,8 noded %): 0.071742 (  54.43,  23.47,   0.19,  21.92 )
+    Number of nodes: 1216
+    Length ratios (avg)    14.3,    11.9,     9.1,     8.4
+    Length ratios (max)    78.8,    69.9,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.7,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=-1 -zg=1:49 -m=46 -Td=1 -Tl=0.0869293 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 46
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 11067  ( 7183, 2857, 263, 764 )
+    Volume (4,5,6,8 noded %): 0.160672 (  36.37,  34.79,   2.98,  25.84 )
+    Number of nodes: 5469
+    Length ratios (avg)     8.7,     5.5,     2.6,     4.0
+    Length ratios (max)   991.6,    27.0,     5.9,     6.0
+    Aspect ratio: unconstrained (   7.1,   3.1,   1.3,   1.1 )
+    Average aspect ratios:      (   1.4,   1.4,   1.1,   1.1 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 11 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=32 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 32
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1955  ( 1514, 381, 3, 57 )
+    Volume (4,5,6,8 noded %): 0.071743 (  57.19,  26.51,   0.05,  16.27 )
+    Number of nodes: 1294
+    Length ratios (avg)    14.3,    12.0,     8.1,     8.4
+    Length ratios (max)    82.5,    38.0,     8.1,    10.7
+    Aspect ratio: unconstrained (   3.7,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.8,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=33 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 33
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1811  ( 1335, 385, 11, 80 )
+    Volume (4,5,6,8 noded %): 0.071741 (  54.39,  23.38,   0.19,  22.06 )
+    Number of nodes: 1216
+    Length ratios (avg)    14.2,    12.0,     9.1,     8.4
+    Length ratios (max)    78.3,    69.9,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.4,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=31 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 31
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2725  ( 2040, 598, 9, 78 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.84,  28.42,   0.13,  17.63 )
+    Number of nodes: 1694
+    Length ratios (avg)    14.3,    12.4,    10.4,     8.4
+    Length ratios (max)    98.5,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.8,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=-1 -zg=1:49 -m=48 -Td=1 -Tl=0.0834037 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 48
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 9404  ( 5253, 2650, 388, 1113 )
+    Volume (4,5,6,8 noded %): 0.164450 (  32.57,  36.47,   3.09,  27.87 )
+    Number of nodes: 6607
+    Length ratios (avg)     8.3,     4.8,     3.1,     3.2
+    Length ratios (max)   300.4,    28.6,     7.2,     6.5
+    Aspect ratio: unconstrained (   4.6,   3.4,   1.3,   1.1 )
+    Average aspect ratios:      (   1.4,   1.4,   1.2,   1.1 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 14 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=30 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 30
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2586  ( 1898, 587, 17, 84 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.02,  28.42,   0.24,  18.34 )
+    Number of nodes: 1668
+    Length ratios (avg)    14.1,    11.9,    10.3,     8.4
+    Length ratios (max)   103.3,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.5,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=29 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 29
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2637  ( 1946, 591, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.07,  28.47,   0.24,  18.23 )
+    Number of nodes: 1684
+    Length ratios (avg)    14.4,    11.9,    10.5,     8.5
+    Length ratios (max)   162.2,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.9,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=28 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 28
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2604  ( 1916, 588, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.14,  28.40,   0.24,  18.23 )
+    Number of nodes: 1676
+    Length ratios (avg)    14.2,    11.9,    10.5,     8.5
+    Length ratios (max)    98.2,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.8,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=26 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 26
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2596  ( 1908, 587, 17, 84 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.02,  28.42,   0.24,  18.34 )
+    Number of nodes: 1673
+    Length ratios (avg)    14.3,    11.9,    10.5,     8.4
+    Length ratios (max)   110.3,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.7,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=1 -zg=1:49 -m=27 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 27
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2560  ( 1873, 586, 17, 84 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.02,  28.42,   0.24,  18.34 )
+    Number of nodes: 1667
+    Length ratios (avg)    14.5,    11.9,    10.1,     8.4
+    Length ratios (max)   258.8,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   4.9,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=24 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 24
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2624  ( 1934, 590, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.06,  28.48,   0.24,  18.23 )
+    Number of nodes: 1681
+    Length ratios (avg)    14.5,    11.9,    10.5,     8.5
+    Length ratios (max)    98.3,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.6,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=25 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 25
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2556  ( 1867, 589, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.11,  28.43,   0.24,  18.23 )
+    Number of nodes: 1665
+    Length ratios (avg)    14.0,    11.9,     9.9,     8.5
+    Length ratios (max)   258.8,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   4.9,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=23 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 23
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2585  ( 1897, 587, 17, 84 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.02,  28.42,   0.24,  18.34 )
+    Number of nodes: 1668
+    Length ratios (avg)    14.0,    11.9,    10.7,     8.4
+    Length ratios (max)   103.3,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.5,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=21 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 21
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2592  ( 1905, 587, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.12,  28.42,   0.24,  18.23 )
+    Number of nodes: 1671
+    Length ratios (avg)    14.5,    11.9,    10.1,     8.5
+    Length ratios (max)   258.8,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   4.9,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=1 -zg=1:49 -m=22 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 22
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2585  ( 1897, 588, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.14,  28.40,   0.24,  18.23 )
+    Number of nodes: 1671
+    Length ratios (avg)    14.3,    11.9,    10.5,     8.5
+    Length ratios (max)   103.3,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.5,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=19 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 19
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2581  ( 1893, 587, 17, 84 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.02,  28.42,   0.24,  18.34 )
+    Number of nodes: 1668
+    Length ratios (avg)    14.0,    11.9,    10.7,     8.4
+    Length ratios (max)   103.3,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.5,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=20 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 20
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2585  ( 1897, 587, 17, 84 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.02,  28.42,   0.24,  18.34 )
+    Number of nodes: 1668
+    Length ratios (avg)    14.1,    11.9,    10.3,     8.4
+    Length ratios (max)   103.3,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.5,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=18 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 18
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2595  ( 1907, 588, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.14,  28.41,   0.24,  18.23 )
+    Number of nodes: 1673
+    Length ratios (avg)    14.1,    11.9,    10.1,     8.5
+    Length ratios (max)    97.8,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.8,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=15 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 15
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1981  ( 1515, 387, 4, 75 )
+    Volume (4,5,6,8 noded %): 0.071741 (  56.12,  23.41,   0.09,  20.40 )
+    Number of nodes: 1280
+    Length ratios (avg)    15.4,    12.0,     7.9,     8.3
+    Length ratios (max)   112.5,    69.9,     9.2,    10.7
+    Aspect ratio: unconstrained (   4.0,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=1 -zg=1:49 -m=17 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 17
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2611  ( 1923, 588, 17, 83 )
+    Volume (4,5,6,8 noded %): 0.093639 (  53.13,  28.41,   0.24,  18.23 )
+    Number of nodes: 1677
+    Length ratios (avg)    14.4,    11.9,    10.3,     8.5
+    Length ratios (max)    98.5,    42.4,    13.0,    10.3
+    Aspect ratio: unconstrained (   3.8,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=14 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 14
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1806  ( 1330, 385, 11, 80 )
+    Volume (4,5,6,8 noded %): 0.071741 (  54.39,  23.37,   0.19,  22.06 )
+    Number of nodes: 1215
+    Length ratios (avg)    14.2,    12.0,     9.1,     8.4
+    Length ratios (max)    78.3,    69.9,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.4,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=13 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 13
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1754  ( 1278, 385, 11, 80 )
+    Volume (4,5,6,8 noded %): 0.071741 (  54.39,  23.37,   0.19,  22.06 )
+    Number of nodes: 1202
+    Length ratios (avg)    14.0,    12.0,     9.1,     8.4
+    Length ratios (max)    78.3,    69.9,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.4,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=1 -zg=1:49 -m=12 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 12
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1802  ( 1322, 390, 11, 79 )
+    Volume (4,5,6,8 noded %): 0.071742 (  54.42,  23.47,   0.19,  21.92 )
+    Number of nodes: 1214
+    Length ratios (avg)    14.3,    12.0,     9.4,     8.4
+    Length ratios (max)    78.8,    69.9,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.7,   3.2,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=16 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 16
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2699  ( 2079, 543, 2, 75 )
+    Volume (4,5,6,8 noded %): 0.093639 (  56.18,  28.59,   0.07,  15.17 )
+    Number of nodes: 1767
+    Length ratios (avg)    14.7,    11.9,     6.9,     8.4
+    Length ratios (max)    98.4,    47.3,     7.1,    10.4
+    Aspect ratio: unconstrained (   3.7,   3.0,   1.3,   1.3 )
+    Average aspect ratios:      (   1.7,   1.8,   1.2,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=11 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 11
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 1788  ( 1334, 367, 11, 76 )
+    Volume (4,5,6,8 noded %): 0.071742 (  56.13,  22.63,   0.19,  21.07 )
+    Number of nodes: 1218
+    Length ratios (avg)    13.7,    11.7,     8.8,     8.4
+    Length ratios (max)    85.8,    35.8,    11.0,    10.7
+    Aspect ratio: unconstrained (   3.5,   2.9,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=8 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 8
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2423  ( 1778, 551, 13, 81 )
+    Volume (4,5,6,8 noded %): 0.093641 (  55.02,  27.53,   0.18,  17.25 )
+    Number of nodes: 1634
+    Length ratios (avg)    13.5,    12.1,    10.5,     8.3
+    Length ratios (max)    89.4,    59.6,    11.4,    10.5
+    Aspect ratio: unconstrained (   3.8,   2.8,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=10 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 10
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2460  ( 1815, 551, 13, 81 )
+    Volume (4,5,6,8 noded %): 0.093641 (  55.02,  27.53,   0.18,  17.25 )
+    Number of nodes: 1642
+    Length ratios (avg)    13.6,    12.1,    10.0,     8.3
+    Length ratios (max)    89.4,    42.7,    11.4,    10.5
+    Aspect ratio: unconstrained (   3.8,   2.8,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=1 -zg=1:49 -m=9 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 9
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2451  ( 1806, 551, 13, 81 )
+    Volume (4,5,6,8 noded %): 0.093641 (  55.02,  27.53,   0.18,  17.25 )
+    Number of nodes: 1638
+    Length ratios (avg)    13.6,    12.1,    10.3,     8.3
+    Length ratios (max)    89.4,    42.6,    11.4,    10.5
+    Aspect ratio: unconstrained (   3.6,   2.8,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=6 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 6
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2424  ( 1779, 551, 13, 81 )
+    Volume (4,5,6,8 noded %): 0.093641 (  55.02,  27.53,   0.18,  17.25 )
+    Number of nodes: 1633
+    Length ratios (avg)    13.5,    12.1,    10.0,     8.3
+    Length ratios (max)    89.4,    59.6,    11.4,    10.5
+    Aspect ratio: unconstrained (   3.8,   2.8,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=7 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 7
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2424  ( 1779, 551, 13, 81 )
+    Volume (4,5,6,8 noded %): 0.093641 (  55.02,  27.53,   0.18,  17.25 )
+    Number of nodes: 1634
+    Length ratios (avg)    13.5,    12.1,    10.3,     8.3
+    Length ratios (max)    89.4,    59.6,    11.4,    10.5
+    Aspect ratio: unconstrained (   3.8,   2.8,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 2 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=5 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 5
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2424  ( 1779, 551, 13, 81 )
+    Volume (4,5,6,8 noded %): 0.093641 (  55.02,  27.53,   0.18,  17.25 )
+    Number of nodes: 1634
+    Length ratios (avg)    13.5,    12.1,    10.0,     8.3
+    Length ratios (max)    89.4,    42.7,    11.4,    10.5
+    Aspect ratio: unconstrained (   3.8,   2.8,   1.4,   1.3 )
+    Average aspect ratios:      (   1.7,   1.7,   1.4,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=1 -zg=1:49 -m=4 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 4
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 2700  ( 2126, 493, 4, 77 )
+    Volume (4,5,6,8 noded %): 0.093641 (  55.98,  27.90,   0.18,  15.94 )
+    Number of nodes: 1834
+    Length ratios (avg)    15.4,    11.9,     7.5,     8.4
+    Length ratios (max)   116.1,    35.2,     8.1,    10.4
+    Aspect ratio: unconstrained (   3.8,   2.8,   1.4,   1.4 )
+    Average aspect ratios:      (   1.7,   1.8,   1.3,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:49 -m=3 -Td=1 -Tl=0.118333 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 3
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 4195  ( 2954, 1123, 23, 95 )
+    Volume (4,5,6,8 noded %): 0.093624 (  56.13,  29.29,   0.41,  14.16 )
+    Number of nodes: 1904
+    Length ratios (avg)    21.9,    43.0,    28.9,    25.3
+    Length ratios (max)   186.8,   171.9,    79.8,    80.6
+    Aspect ratio: unconstrained (   4.7,   4.0,   2.2,   2.4 )
+    Average aspect ratios:      (   1.8,   2.3,   1.6,   1.6 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=1 -zg=1:49 -m=2 -Td=1 -Tl=0.0994621 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 2
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 5432  ( 2411, 1182, 234, 1605 )
+    Volume (4,5,6,8 noded %): 1.415968 (   6.37,   8.43,   4.74,  80.45 )
+    Number of nodes: 3973
+    Length ratios (avg)     6.9,     3.6,     2.2,     1.4
+    Length ratios (max)   146.3,    42.3,    11.2,     4.3
+    Aspect ratio: unconstrained (   3.8,   3.8,   1.6,   1.2 )
+    Average aspect ratios:      (   1.3,   1.3,   1.1,   1.0 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 5 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=1 -zg=1:49 -m=1 -Td=1 -Tl=0.16287 -Tg=1.2 -Tq=100 -jobid:4fe9_894c_9adfc468c753 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 1
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 5207  ( 2924, 1555, 245, 483 )
+    Volume (4,5,6,8 noded %): 0.990863 (  17.89,  26.56,   9.18,  46.30 )
+    Number of nodes: 2871
+    Length ratios (avg)     6.1,     4.1,     2.5,     2.2
+    Length ratios (max)   106.4,    49.5,     4.2,     3.4
+    Aspect ratio: unconstrained (   3.5,   3.2,   1.6,   1.2 )
+    Average aspect ratios:      (   1.3,   1.3,   1.1,   1.0 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 6 seconds
+

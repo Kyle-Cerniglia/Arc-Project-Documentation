@@ -1,0 +1,61 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	08/24/15 21:33:26
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink V1.1.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink V1.1.fem
+
+    Command Line: "-a=100" -t=-0.00436278 C:\Users\Kyle\Documents\Project documentation\Supermicro X7DCA-L Watercooling\LGA 771 Passive Heatsink V1.1.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.001204 / 0.245150
+    Shortest/Longest line in Part 2 : 0.000989 / 0.166513
+    Shortest/Longest line in Part 3 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 4 : 0.015000 / 0.237086
+    Shortest/Longest line in Part 5 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 6 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 7 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 8 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 9 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 10 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 11 : 0.015000 / 0.250390
+    Shortest/Longest line in Part 12 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 13 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 14 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 15 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 16 : 0.015000 / 0.234578
+    Shortest/Longest line in Part 17 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 18 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 19 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 20 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 21 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 22 : 0.012714 / 0.239344
+    Shortest/Longest line in Part 23 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 24 : 0.012584 / 0.239344
+    Shortest/Longest line in Part 25 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 26 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 27 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 28 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 29 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 30 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 31 : 0.015000 / 0.239344
+    Shortest/Longest line in Part 32 : 0.015000 / 0.214838
+    Shortest/Longest line in Part 33 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 34 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 35 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 36 : 0.015000 / 0.205931
+    Shortest/Longest line in Part 37 : 0.015000 / 0.173303
+    Shortest/Longest line in Part 38 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 39 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 40 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 41 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 42 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 43 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 44 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 45 : 0.015000 / 0.172344
+    Shortest/Longest line in Part 46 : 0.015000 / 0.230970
+    Shortest/Longest line in Part 47 : 0.015000 / 0.230970
+    Node matching tolerance: 0.00436278
+    Found 6383 matched corner node pairs.
+
+    Duration: 2 seconds
+
