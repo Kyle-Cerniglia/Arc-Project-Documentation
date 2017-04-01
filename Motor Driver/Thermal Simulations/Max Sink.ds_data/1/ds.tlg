@@ -1,0 +1,20 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	02/16/16 23:51:35
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Transistor Heatsinkc.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Transistor Heatsinkc.fem
+
+    Command Line: "-a=100" -t=-0.000716708 C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Transistor Heatsinkc.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.007244 / 0.033315
+    Shortest/Longest line in Part 2 : 0.009768 / 0.027261
+    Shortest/Longest line in Part 3 : 0.004851 / 0.019474
+    Shortest/Longest line in Part 4 : 0.004851 / 0.019474
+    Shortest/Longest line in Part 5 : 0.004851 / 0.019474
+    Shortest/Longest line in Part 6 : 0.009768 / 0.066925
+    Node matching tolerance: 0.000716708
+    Found 737 matched corner node pairs.
+
+    Duration: 1 seconds
+
