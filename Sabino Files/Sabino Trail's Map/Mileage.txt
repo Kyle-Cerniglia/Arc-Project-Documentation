@@ -1,0 +1,14 @@
+SABINO CANYON
+    SHUTTLE BUS
+ Stop       Mileage from
+  No.         Ticket Booth
+  __________________
+   1		     1.1
+   2		     1.4
+   3		     1.6
+   4		     1.9
+   5		     2.3
+   6		     2.4
+   7		     2.9
+   8		     3.2
+   9		     3.7
