@@ -1,0 +1,169 @@
+2328 Core
+	P1
+		Terminal
+		Peripheral I/O
+		File Manager
+		Programs
+			Calculator
+			uBASIC IDE
+			Notepad
+	P2
+		GPU
+		Interpreter
+		uBASIC Compiler
+
+Memory distribution
+	Load program from EEPROM into EERAM and run directly with variables saved in local SRAM
+	EERAM
+		2048 Byte program space
+	EEPROM
+		2048 Byte pages
+		0x0000 Page 0 saved for system memory
+			0x0000 = ID MSB
+			0x0001 = ID LSB
+			0x0002 = Model number MSB's
+			0x0003 = Model number LSB's
+			0x0004 = Hardware version MSB
+			0x0005 = Hardware version LSB
+			0x0006 = Firmware version MSB
+			0x0007 = Firmware version LSB
+			0x0008 = Processor 0 I2C ID
+			0x0009 = Processor 1 I2C ID
+			0x000A = Processor 2 I2C ID
+			0x000B = Processor 3 I2C ID
+			0x000C = Processor 4 I2C ID
+			0x000D = Processor 5 I2C ID
+			0x000E = Processor 6 I2C ID
+			0x000F = Processor 7 I2C ID
+			0x0010 = Processor 8 I2C ID
+			0x0011 = Processor 9 I2C ID
+			0x0012 = Processor 10 I2C ID
+			0x0013 = Processor 11 I2C ID
+			0x0014 = Processor 12 I2C ID
+			0x0015 = Processor 13 I2C ID
+			0x0016 = Processor 14 I2C ID
+			0x0017 = Processor 15 I2C ID
+			0x0018 = EERAM 0 I2C ID
+			0x0019 = EERAM 1 I2C ID
+			0x001A = EERAM 2 I2C ID
+			0x001B = EERAM 3 I2C ID
+			0x001C = EERAM 4 I2C ID
+			0x001D = EERAM 5 I2C ID
+			0x001E = EERAM 6 I2C ID
+			0x001F = EERAM 7 I2C ID
+			0x0020 = EERAM 8 I2C ID
+			0x0021 = EERAM 9 I2C ID
+			0x0022 = EERAM 10 I2C ID
+			0x0023 = EERAM 11 I2C ID
+			0x0024 = EERAM 12 I2C ID
+			0x0025 = EERAM 13 I2C ID
+			0x0026 = EERAM 14 I2C ID
+			0x0027 = EERAM 15 I2C ID
+			0x0028 = EEPROM 0 I2C ID
+			0x0029 = EEPROM 1 I2C ID
+			0x002A = EEPROM 2 I2C ID
+			0x002B = EEPROM 3 I2C ID
+			0x002C = EEPROM 4 I2C ID
+			0x002D = EEPROM 5 I2C ID
+			0x002E = EEPROM 6 I2C ID
+			0x002F = EEPROM 7 I2C ID
+			0x0030 = EEPROM 8 I2C ID
+			0x0031 = EEPROM 9 I2C ID
+			0x0032 = EEPROM 10 I2C ID
+			0x0033 = EEPROM 11 I2C ID
+			0x0034 = EEPROM 12 I2C ID
+			0x0035 = EEPROM 13 I2C ID
+			0x0036 = EEPROM 14 I2C ID
+			0x0037 = EEPROM 15 I2C ID
+			0x0048 = EERAM 0 Size
+			0x0049 = EERAM 1 Size
+			0x004A = EERAM 2 Size
+			0x004B = EERAM 3 Size
+			0x004C = EERAM 4 Size
+			0x004D = EERAM 5 Size
+			0x004E = EERAM 6 Size
+			0x004F = EERAM 7 Size
+			0x0050 = EERAM 8 Size
+			0x0051 = EERAM 9 Size
+			0x0052 = EERAM 10 Size
+			0x0053 = EERAM 11 Size
+			0x0054 = EERAM 12 Size
+			0x0055 = EERAM 13 Size
+			0x0056 = EERAM 14 Size
+			0x0057 = EERAM 15 Size
+			0x0058 = EEPROM 0 Size
+			0x0059 = EEPROM 1 Size
+			0x005A = EEPROM 2 Size
+			0x005B = EEPROM 3 Size
+			0x005C = EEPROM 4 Size
+			0x005D = EEPROM 5 Size
+			0x005E = EEPROM 6 Size
+			0x005F = EEPROM 7 Size
+			0x0060 = EEPROM 8 Size
+			0x0061 = EEPROM 9 Size
+			0x0062 = EEPROM 10 Size
+			0x0063 = EEPROM 11 Size
+			0x0064 = EEPROM 12 Size
+			0x0065 = EEPROM 13 Size
+			0x0066 = EEPROM 14 Size
+			0x0067 = EEPROM 15 Size
+			0x0068 = Device 0 I2C ID
+			0x0069 = Device 1 I2C ID
+			0x006A = Device 2 I2C ID
+			0x006B = Device 3 I2C ID
+			0x006C = Device 4 I2C ID
+			0x006D = Device 5 I2C ID
+			0x006E = Device 6 I2C ID
+			0x006F = Device 7 I2C ID
+			0x0070 = Device 8 I2C ID
+			0x0071 = Device 9 I2C ID
+			0x0072 = Device 10 I2C ID
+			0x0073 = Device 11 I2C ID
+			0x0074 = Device 12 I2C ID
+			0x0075 = Device 13 I2C ID
+			0x0076 = Device 14 I2C ID
+			0x0077 = Device 15 I2C ID
+		0x0800 Page 1 begin program space
+		0x1000 2
+		0x1800 3
+		0x2000 4
+		0x2800 5
+		0x3000 6
+		0x3800 7
+		0x4000 8
+		0x4800 9
+		0x5000 10
+		0x5800 11
+		0x6000 12
+		0x6800 13
+		0x7000 14
+		0x7800 15
+		0x8000 16
+		0x8800 17
+		0x9000 18
+		0x9800 19
+		0xA000 20
+		0xA800 21
+		0xB000 22
+		0xB800 23
+		0xC000 24
+		0xC800 25
+		0xD000 26
+		0xD800 27
+		0xE000 28
+		0xE800 29
+		0xF000 30
+		0xF800 31
+
+Files
+	1 type byte
+		0x65 = .e executable file
+		0x77 = .w notepad file
+		0xFF = Invalid file
+	8 name bytes
+		char
+	2038 data bytes
+		Byte type for .e
+		Char type for .w
+	1 end byte
+		0xFF

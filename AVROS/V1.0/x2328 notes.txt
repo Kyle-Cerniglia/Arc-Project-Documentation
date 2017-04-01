@@ -1,0 +1,7 @@
+Processor 0 I2C addr: 16
+	8 = Yellow
+	9 = Yellow (PWM)
+Processor 1 I2C addr: 17
+	9 = Red (PWM)
+32kb EEPROM 0 I2C addr: 1
+0.5kb EERAM 0 I2C addr: 0

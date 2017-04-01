@@ -1,0 +1,113 @@
+General commands
+	sys
+	(General system commands)
+		info
+			print system info
+		rst
+			reset system
+	mem
+	(Memory byte management)
+		read
+			<type>
+			i2c
+				<i2c addr>
+				2 byte hex addr
+					<mem addr>
+					4 byte hex addr
+			spi
+				<mem addr>
+				4 byte hex addr
+		write
+			<type>
+			i2c
+				<i2c addr>
+				2 byte hex addr
+					<mem addr>
+					4 byte hex addr
+			spi
+				<mem addr>
+				4 byte hex addr
+	load
+	(load file into EERAM)
+		<source type>
+		i2c
+			<source i2c addr>
+			2 byte hex addr
+				0x<source mem addr>
+				4 byte hex addr
+				<source mem addr>
+				2 byte hex ID number
+				<source mem addr>
+				8 byte char name
+		spi
+			0x<source mem addr>
+			4 byte hex addr
+			<source mem addr>
+			2 byte hex ID number
+			<source mem addr>
+			8 byte char name
+		<destination type>
+		i2c
+			<destination i2c addr>
+			2 byte hex addr
+		spi
+	ping
+	(Ping peripherials and devices)
+		avr
+			0x<avr i2c addr>
+			2 byte hex addr
+			<avr ID>
+			2 digit ID
+		eeram
+			<type>
+			i2c
+				<i2c addr>
+				0x<eeram i2c addr>
+				2 byte hex addr
+				<eeram ID>
+				2 digit ID
+			spi
+			
+		eeprom
+			<type>
+			i2c
+				0x<eeprom i2c addr>
+				2 byte hex addr
+				<eeprom ID>
+				2 digit ID
+			spi
+		device
+			<type>
+			i2c
+				0x<device i2c addr>
+				2 byte hex addr
+				<device ID>
+				2 digit ID
+			spi
+	setdir
+	(Change working directory)
+		i2c
+			<i2c addr>
+			0x<eeprom i2c addr>
+			2 byte hex addr
+			<eeprom ID>
+			2 digit ID
+		spi
+	listdir
+	(List files in current directory)
+	open
+	(Open .w file in current directory)
+		0x<file addr>
+		4 byte hex addr
+		<file ID>
+		2 digit ID
+		<file name>
+		8 char file name
+	run
+	(load and run .w file in current directory)
+		0x<file addr>
+		4 byte hex addr
+		<file ID>
+		2 digit ID
+		<file name>
+		8 char file name

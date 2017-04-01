@@ -1,0 +1,11 @@
+0-3.76eV
+D0-D5	0-5	LCD
+D6	6	LCD Contrast (64)
+C0		Variable Voltage Measurement
+C1-C3		A-C
+D7		1
+B0		2
+B1		3
+B2		4
+C4		L
+C5		R
