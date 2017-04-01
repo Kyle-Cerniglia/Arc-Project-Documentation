@@ -1,0 +1,19 @@
+Web ID,Access ID,Salesorder Number,Shipping Method,Payment Method,
+48374905,22102,37187346,U.S. Postal Service First Class Mail* (order by 8:00 PM CT),VISA,
+
+Shipping Address
+First Name,Last Name,Company,Mail Stop,Address Line 1,Address Line 2,City,State,Postal Code,Country,Email Address,Telephone,
+Kyle,Cerniglia,,,5751 N. Kolb Rd,Apt. 26201,Tucson,AZ,85750,USA,cernigliakyle@yahoo.com,4258793028,
+
+Billing Address
+First Name,Last Name,Company,Mail Stop,Address Line 1,Address Line 2,City,State,Postal Code,Country,Email Address,Telephone,
+Kyle,Cerniglia,,,5751 N. Kolb Rd,Apt. 26201,Tucson,AZ,85750,USA,,,
+
+Index,Quantity,Part Number,Description,Customer Reference,Available Quantity,Backorder Quantity,Unit Price USD,Extended Price USD,
+1,4,296-3712-5-ND,IC BCD/7-SEG DECOD/DRVR 16-DIP,74LS47,4,0,1.86000,$7.44,
+2,4,160-1572-5-ND,LED 7-SEG .3" RED 650NM CA,COMMON A 7SEG DISPLAY,4,0,1.19000,$4.76,
+3,1,296-1668-5-ND,IC DUAL D-TYPE FLIP-FLOP 14-DIP,74LS74,1,0,0.62000,$0.62,
+,,,,,,Subtotal,$12.82
+,,,,,,Shipping,unknown
+,,,,,,Estimated Sales Tax,$0.72
+,,,,,,Total,unknown

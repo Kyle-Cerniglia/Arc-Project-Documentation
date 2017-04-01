@@ -1,0 +1,12 @@
+Add
+Subtract
+Negate
+Increment
+Decrement
+
+AND
+OR
+XOR
+
+Shift Right
+Shift Left

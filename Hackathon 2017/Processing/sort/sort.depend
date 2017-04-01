@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483989516 source:d:\users\kyle\documents\project documentation\hackathon 2017\processing\sort\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<math.h>
+

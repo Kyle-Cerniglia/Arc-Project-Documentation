@@ -1,0 +1,45 @@
+D1: 20A Diode
+D2: Red LED
+
+R1: 4.7k
+R2,R4,R7,R9: 100k
+R3,R5,R6,R8: 10k
+
+C1,C2: 0.1uF
+
+IC1,IC2: LM358
+
+S1,S2,S3,S4: Microphone
+
+REG: 5V Regulator
+
+2.6x3.9
+
+
+Parts list:=================
+
+Done
+
+digikey
+
+3 2-pin terminal blocks
+1xHeatsink
+20A diode
+red led
+4x100k 1/16 resistor
+4x10k 1/16 resistor
+2xLM358
+4xMicrophone
+5VReg
+2: 1x17 female header
++1pin female header
+
+pololu
+
+imu
+A* Mini
+1x3 female header
+3: 1x4 female header
+1x5 Female header
+4: 1x6 Female header
+2x8 Female header
