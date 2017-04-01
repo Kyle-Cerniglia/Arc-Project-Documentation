@@ -1,0 +1,30 @@
+﻿
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=-1 -zg=1 -m=1 -Td=1 -Tl=0.133333 -Tg=1.2 -Tq=100 -jobid:4a2b_9760_3859a59a4b6f 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 1
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 225  ( 0, 0, 0, 225 )
+    Volume (4,5,6,8 noded %): 0.320000 (   0.00,   0.00,   0.00, 100.00 )
+    Number of nodes: 517
+    Length ratios (avg)     0.0,     0.0,     0.0,     1.7
+    Length ratios (max)     0.0,     0.0,     0.0,     1.7
+    Aspect ratio: unconstrained (   0.0,   0.0,   0.0,   1.0 )
+    Average aspect ratios:      (   0.0,   0.0,   0.0,   1.0 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds

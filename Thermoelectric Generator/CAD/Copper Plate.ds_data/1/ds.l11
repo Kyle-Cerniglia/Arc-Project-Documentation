@@ -1,0 +1,2192 @@
+
+
+Autodesk (R) Simulation Transient Heat Transfer
+Version 2016.00.00.3017-W64/X64 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+      DATE: OCTOBER 11,2015               
+      TIME: 08:12 PM
+      Input Model: C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.ds_data\1\ds
+
+
+                        PROGRAM VERSION: 201600003017
+                alg-win-x64.dll VERSION: 201600003017
+          algconfig-win-x64.dll VERSION: 201600003017
+           agsdb_ar-win-x64.dll VERSION: 201600003017
+     solvercallback-win-x64.dll VERSION: 201600003017
+                   amgsolve.exe VERSION:   0360000000
+ 
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+
+                                                  
+ **** CONTROL INFORMATION                         
+                                                  
+      number of node points                    =    512
+      number of element types                  =    1
+      analysis type code                       =    11
+      solution mode                            =    0
+      equations per block                      =    0
+      bandwidth minimization flag              =    0
+
+ **** PHYSICAL CONSTANTS USED WHEN APPLICABLE 
+
+      The Stefan-Boltzmann Constant      =  3.083E-11
+      Temperature Increment to Absolute  =  4.597E+02
+                                                  
+ **** NON-LINEAR ITERATION CONTROL PARAMETERS     
+ 
+      Nonlinear control option           =          OFF
+      Convergence criterion              =          2
+      Maximum number of iterations       =          15
+      Interval for monitoring            =          5
+      Corrective tolerance               =          1.0000E-03
+      Relative tolerance                 =          1.0000E-03
+      Relaxation parameter               =          1.0000E+00
+ 
+ **** PRINT OF NODAL DATA SUPPRESSED              
+ 
+ **** PRINT OF EQUATION NUMBERS SUPPRESSED        
+
+ **** FLUID FLOW CONVECTION IS NOT INCLUDED IN THIS MODEL.
+
+                                                  
+ **** EQUATION PARAMETERS                         
+      total number of equations      =              512
+      bandwidth                      =              338
+      number of equations in a block =              512
+      number of blocks               =              1
+      blocking memory  (kilobytes)   =              4264812
+      available memory (kilobytes)   =              4264812
+                                                  
+ **** HARD DISK FILE SIZE INFORMATION FOR PROCESSOR:
+
+      Available hard disk space on C drive = 535680.102 megabytes
+                                                  
+ **** LOAD CASE MULTIPLIERS                       
+                                                  
+      Boundary temperature multiplier       1.000
+      Convection multiplier                 1.000
+      Radiation multiplier                  1.000
+      Heat generation multiplier            1.000
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ Warning :Load Curve ends before analysis end, using zero.  1 =first-such-Loadcurve
+ **** PRINT OF TYPE-39 ELEMENT DATA SUPPRESSED    
+                                                  
+ **** STEP-BY-STEP SOLUTION CONTROL INFORMATION   
+                                                  
+      number of time varying functions  =           1
+ #### Following Values are Averaged: time zones used.
+      number of solution time steps     =           1
+      output (print) interval           =           0
+      solution time increment           =           5.0000E+00
+      matrix reformulation (done if >0 )=                    1
+      Text flux printing output interval=                    1
+                                                  
+ D Y N A M I C   L O A D   I N P U T
+
+   NODE   DEGREE OF   FUNCTION   ARRIVAL TIME     STEP     FUNCTION
+ NUMBER     FREEDOM  REFERENCE          VALUE   NUMBER   MULTIPLIER
+
+
+ T I M E   F U N C T I O N   D A T A
+
+
+
+  TIME FUNCTION NUMBER = (  1)
+
+     NUMBER OF POINTS  = (    2)
+     SCALE FACTOR      = (  1.0000E+00)
+     DESCRIPTION       = (    FÜ    ,¯?    Ü.  )
+
+        INPUT        TIME    FUNCTION
+        ORDER       VALUE       VALUE
+
+            1  0.0000E+00  0.0000E+00
+            2  1.0000E+00  1.0000E+00
+      BCSLIB-EXT solver memory status:  
+      in-core memory requirement (MB) =            0.33
+      minimum memory requirement (MB) =            0.19
+           user specified memory (MB) =         3630.11
+       available physical memory (MB) =         3630.11
+        available virtual memory (MB) =        11295.99
+      memory currently allocated (MB) =            0.33
+
+ Heat Flux/Flow output at step=     1, time =  5.0000E+00
+                                                  
+ **** 8-21 NODE CONDUCTION ELEMENT HEAT FLUXES    
+                                                  
+      face 0: centroid (global X-Y-Z)             
+      face 1: N1-N2-N6-N5 side (local)            
+      face 2: N4-N3-N7-N8 side (local)            
+      face 3: N2-N3-N7-N6 side (local)            
+      face 4: N1-N4-N8-N5 side (local)            
+      face 5: N5-N6-N7-N8 side (local)            
+      face 6: N1-N2-N3-N4 side (local)            
+                                                  
+ ELEM. CASE F    S-11       S-22       S-33          AREA      FLUX            
+  NO. (MODE)A                                         OF       RATE            
+            C                                     
+            E                                        FACE                      
+ ----- ---- - ---------- ---------- ----------    ---------- ----------        
+                                                  
+     1    1 0  0.000E+00  0.000E+00  0.000E+00
+     1    1 3  0.000E+00                          1.067E-02   0.000E+00
+     1    1 4  0.000E+00                          1.067E-02   0.000E+00
+     1    1 1  0.000E+00                          1.067E-02   0.000E+00
+     1    1 2  0.000E+00                          1.067E-02   0.000E+00
+     1    1 6  0.000E+00                          1.778E-02   0.000E+00
+     1    1 5  0.000E+00                          1.778E-02   0.000E+00
+                                                  
+     2    1 0  0.000E+00  0.000E+00  0.000E+00
+     2    1 3  0.000E+00                          1.067E-02   0.000E+00
+     2    1 4  0.000E+00                          1.067E-02   0.000E+00
+     2    1 1  0.000E+00                          1.067E-02   0.000E+00
+     2    1 2  0.000E+00                          1.067E-02   0.000E+00
+     2    1 6  0.000E+00                          1.778E-02   0.000E+00
+     2    1 5  0.000E+00                          1.778E-02   0.000E+00
+                                                  
+     3    1 0  0.000E+00  0.000E+00  0.000E+00
+     3    1 3  0.000E+00                          1.067E-02   0.000E+00
+     3    1 4  0.000E+00                          1.067E-02   0.000E+00
+     3    1 1  0.000E+00                          1.067E-02   0.000E+00
+     3    1 2  0.000E+00                          1.067E-02   0.000E+00
+     3    1 6  0.000E+00                          1.778E-02   0.000E+00
+     3    1 5  0.000E+00                          1.778E-02   0.000E+00
+                                                  
+     4    1 0  0.000E+00  0.000E+00  0.000E+00
+     4    1 3  0.000E+00                          1.067E-02   0.000E+00
+     4    1 4  0.000E+00                          1.067E-02   0.000E+00
+     4    1 1  0.000E+00                          1.067E-02   0.000E+00
+     4    1 2  0.000E+00                          1.067E-02   0.000E+00
+     4    1 6  0.000E+00                          1.778E-02   0.000E+00
+     4    1 5  0.000E+00                          1.778E-02   0.000E+00
+                                                  
+     5    1 0  0.000E+00  0.000E+00  0.000E+00
+     5    1 3  0.000E+00                          1.067E-02   0.000E+00
+     5    1 4  0.000E+00                          1.067E-02   0.000E+00
+     5    1 1  0.000E+00                          1.778E-02   0.000E+00
+     5    1 2  0.000E+00                          1.778E-02   0.000E+00
+     5    1 6  0.000E+00                          1.067E-02   0.000E+00
+     5    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+     6    1 0  0.000E+00  0.000E+00  0.000E+00
+     6    1 3  0.000E+00                          1.067E-02   0.000E+00
+     6    1 4  0.000E+00                          1.067E-02   0.000E+00
+     6    1 1  0.000E+00                          1.778E-02   0.000E+00
+     6    1 2  0.000E+00                          1.778E-02   0.000E+00
+     6    1 6  0.000E+00                          1.067E-02   0.000E+00
+     6    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+     7    1 0  0.000E+00  0.000E+00  0.000E+00
+     7    1 3  0.000E+00                          1.067E-02   0.000E+00
+     7    1 4  0.000E+00                          1.067E-02   0.000E+00
+     7    1 1  0.000E+00                          1.778E-02   0.000E+00
+     7    1 2  0.000E+00                          1.778E-02   0.000E+00
+     7    1 6  0.000E+00                          1.067E-02   0.000E+00
+     7    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+     8    1 0  0.000E+00  0.000E+00  0.000E+00
+     8    1 3  0.000E+00                          1.067E-02   0.000E+00
+     8    1 4  0.000E+00                          1.067E-02   0.000E+00
+     8    1 1  0.000E+00                          1.778E-02   0.000E+00
+     8    1 2  0.000E+00                          1.778E-02   0.000E+00
+     8    1 6  0.000E+00                          1.067E-02   0.000E+00
+     8    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+     9    1 0  0.000E+00  0.000E+00  0.000E+00
+     9    1 3  0.000E+00                          1.067E-02   0.000E+00
+     9    1 4  0.000E+00                          1.067E-02   0.000E+00
+     9    1 1  0.000E+00                          1.778E-02   0.000E+00
+     9    1 2  0.000E+00                          1.778E-02   0.000E+00
+     9    1 6  0.000E+00                          1.067E-02   0.000E+00
+     9    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    10    1 0  0.000E+00  0.000E+00  0.000E+00
+    10    1 3  0.000E+00                          1.067E-02   0.000E+00
+    10    1 4  0.000E+00                          1.067E-02   0.000E+00
+    10    1 1  0.000E+00                          1.778E-02   0.000E+00
+    10    1 2  0.000E+00                          1.778E-02   0.000E+00
+    10    1 6  0.000E+00                          1.067E-02   0.000E+00
+    10    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    11    1 0  0.000E+00  0.000E+00  0.000E+00
+    11    1 3  0.000E+00                          1.067E-02   0.000E+00
+    11    1 4  0.000E+00                          1.067E-02   0.000E+00
+    11    1 1  0.000E+00                          1.778E-02   0.000E+00
+    11    1 2  0.000E+00                          1.778E-02   0.000E+00
+    11    1 6  0.000E+00                          1.067E-02   0.000E+00
+    11    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    12    1 0  0.000E+00  0.000E+00  0.000E+00
+    12    1 3  0.000E+00                          1.067E-02   0.000E+00
+    12    1 4  0.000E+00                          1.067E-02   0.000E+00
+    12    1 1  0.000E+00                          1.778E-02   0.000E+00
+    12    1 2  0.000E+00                          1.778E-02   0.000E+00
+    12    1 6  0.000E+00                          1.067E-02   0.000E+00
+    12    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    13    1 0  0.000E+00  0.000E+00  0.000E+00
+    13    1 3  0.000E+00                          1.067E-02   0.000E+00
+    13    1 4  0.000E+00                          1.067E-02   0.000E+00
+    13    1 1  0.000E+00                          1.778E-02   0.000E+00
+    13    1 2  0.000E+00                          1.778E-02   0.000E+00
+    13    1 6  0.000E+00                          1.067E-02   0.000E+00
+    13    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    14    1 0  0.000E+00  0.000E+00  0.000E+00
+    14    1 3  0.000E+00                          1.067E-02   0.000E+00
+    14    1 4  0.000E+00                          1.067E-02   0.000E+00
+    14    1 1  0.000E+00                          1.778E-02   0.000E+00
+    14    1 2  0.000E+00                          1.778E-02   0.000E+00
+    14    1 6  0.000E+00                          1.067E-02   0.000E+00
+    14    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    15    1 0  0.000E+00  0.000E+00  0.000E+00
+    15    1 3  0.000E+00                          1.067E-02   0.000E+00
+    15    1 4  0.000E+00                          1.067E-02   0.000E+00
+    15    1 1  0.000E+00                          1.778E-02   0.000E+00
+    15    1 2  0.000E+00                          1.778E-02   0.000E+00
+    15    1 6  0.000E+00                          1.067E-02   0.000E+00
+    15    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    16    1 0  0.000E+00  0.000E+00  0.000E+00
+    16    1 3  0.000E+00                          1.067E-02   0.000E+00
+    16    1 4  0.000E+00                          1.067E-02   0.000E+00
+    16    1 1  0.000E+00                          1.778E-02   0.000E+00
+    16    1 2  0.000E+00                          1.778E-02   0.000E+00
+    16    1 6  0.000E+00                          1.067E-02   0.000E+00
+    16    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    17    1 0  0.000E+00  0.000E+00  0.000E+00
+    17    1 3  0.000E+00                          1.067E-02   0.000E+00
+    17    1 4  0.000E+00                          1.067E-02   0.000E+00
+    17    1 1  0.000E+00                          1.778E-02   0.000E+00
+    17    1 2  0.000E+00                          1.778E-02   0.000E+00
+    17    1 6  0.000E+00                          1.067E-02   0.000E+00
+    17    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    18    1 0  0.000E+00  0.000E+00  0.000E+00
+    18    1 3  0.000E+00                          1.067E-02   0.000E+00
+    18    1 4  0.000E+00                          1.067E-02   0.000E+00
+    18    1 1  0.000E+00                          1.778E-02   0.000E+00
+    18    1 2  0.000E+00                          1.778E-02   0.000E+00
+    18    1 6  0.000E+00                          1.067E-02   0.000E+00
+    18    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    19    1 0  0.000E+00  0.000E+00  0.000E+00
+    19    1 3  0.000E+00                          1.067E-02   0.000E+00
+    19    1 4  0.000E+00                          1.067E-02   0.000E+00
+    19    1 1  0.000E+00                          1.778E-02   0.000E+00
+    19    1 2  0.000E+00                          1.778E-02   0.000E+00
+    19    1 6  0.000E+00                          1.067E-02   0.000E+00
+    19    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    20    1 0  0.000E+00  0.000E+00  0.000E+00
+    20    1 3  0.000E+00                          1.067E-02   0.000E+00
+    20    1 4  0.000E+00                          1.067E-02   0.000E+00
+    20    1 1  0.000E+00                          1.778E-02   0.000E+00
+    20    1 2  0.000E+00                          1.778E-02   0.000E+00
+    20    1 6  0.000E+00                          1.067E-02   0.000E+00
+    20    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    21    1 0  0.000E+00  0.000E+00  0.000E+00
+    21    1 3  0.000E+00                          1.067E-02   0.000E+00
+    21    1 4  0.000E+00                          1.067E-02   0.000E+00
+    21    1 1  0.000E+00                          1.778E-02   0.000E+00
+    21    1 2  0.000E+00                          1.778E-02   0.000E+00
+    21    1 6  0.000E+00                          1.067E-02   0.000E+00
+    21    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    22    1 0  0.000E+00  0.000E+00  0.000E+00
+    22    1 3  0.000E+00                          1.067E-02   0.000E+00
+    22    1 4  0.000E+00                          1.067E-02   0.000E+00
+    22    1 1  0.000E+00                          1.778E-02   0.000E+00
+    22    1 2  0.000E+00                          1.778E-02   0.000E+00
+    22    1 6  0.000E+00                          1.067E-02   0.000E+00
+    22    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    23    1 0  0.000E+00  0.000E+00  0.000E+00
+    23    1 3  0.000E+00                          1.067E-02   0.000E+00
+    23    1 4  0.000E+00                          1.067E-02   0.000E+00
+    23    1 1  0.000E+00                          1.778E-02   0.000E+00
+    23    1 2  0.000E+00                          1.778E-02   0.000E+00
+    23    1 6  0.000E+00                          1.067E-02   0.000E+00
+    23    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    24    1 0  0.000E+00  0.000E+00  0.000E+00
+    24    1 3  0.000E+00                          1.067E-02   0.000E+00
+    24    1 4  0.000E+00                          1.067E-02   0.000E+00
+    24    1 1  0.000E+00                          1.778E-02   0.000E+00
+    24    1 2  0.000E+00                          1.778E-02   0.000E+00
+    24    1 6  0.000E+00                          1.067E-02   0.000E+00
+    24    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    25    1 0  0.000E+00  0.000E+00  0.000E+00
+    25    1 3  0.000E+00                          1.067E-02   0.000E+00
+    25    1 4  0.000E+00                          1.067E-02   0.000E+00
+    25    1 1  0.000E+00                          1.778E-02   0.000E+00
+    25    1 2  0.000E+00                          1.778E-02   0.000E+00
+    25    1 6  0.000E+00                          1.067E-02   0.000E+00
+    25    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    26    1 0  0.000E+00  0.000E+00  0.000E+00
+    26    1 3  0.000E+00                          1.067E-02   0.000E+00
+    26    1 4  0.000E+00                          1.067E-02   0.000E+00
+    26    1 1  0.000E+00                          1.778E-02   0.000E+00
+    26    1 2  0.000E+00                          1.778E-02   0.000E+00
+    26    1 6  0.000E+00                          1.067E-02   0.000E+00
+    26    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    27    1 0  0.000E+00  0.000E+00  0.000E+00
+    27    1 3  0.000E+00                          1.067E-02   0.000E+00
+    27    1 4  0.000E+00                          1.067E-02   0.000E+00
+    27    1 1  0.000E+00                          1.778E-02   0.000E+00
+    27    1 2  0.000E+00                          1.778E-02   0.000E+00
+    27    1 6  0.000E+00                          1.067E-02   0.000E+00
+    27    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    28    1 0  0.000E+00  0.000E+00  0.000E+00
+    28    1 3  0.000E+00                          1.067E-02   0.000E+00
+    28    1 4  0.000E+00                          1.067E-02   0.000E+00
+    28    1 1  0.000E+00                          1.778E-02   0.000E+00
+    28    1 2  0.000E+00                          1.778E-02   0.000E+00
+    28    1 6  0.000E+00                          1.067E-02   0.000E+00
+    28    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    29    1 0  0.000E+00  0.000E+00  0.000E+00
+    29    1 3  0.000E+00                          1.067E-02   0.000E+00
+    29    1 4  0.000E+00                          1.067E-02   0.000E+00
+    29    1 1  0.000E+00                          1.778E-02   0.000E+00
+    29    1 2  0.000E+00                          1.778E-02   0.000E+00
+    29    1 6  0.000E+00                          1.067E-02   0.000E+00
+    29    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    30    1 0  0.000E+00  0.000E+00  0.000E+00
+    30    1 3  0.000E+00                          1.067E-02   0.000E+00
+    30    1 4  0.000E+00                          1.067E-02   0.000E+00
+    30    1 1  0.000E+00                          1.778E-02   0.000E+00
+    30    1 2  0.000E+00                          1.778E-02   0.000E+00
+    30    1 6  0.000E+00                          1.067E-02   0.000E+00
+    30    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    31    1 0  0.000E+00  0.000E+00  0.000E+00
+    31    1 3  0.000E+00                          1.067E-02   0.000E+00
+    31    1 4  0.000E+00                          1.067E-02   0.000E+00
+    31    1 1  0.000E+00                          1.778E-02   0.000E+00
+    31    1 2  0.000E+00                          1.778E-02   0.000E+00
+    31    1 6  0.000E+00                          1.067E-02   0.000E+00
+    31    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    32    1 0  0.000E+00  0.000E+00  0.000E+00
+    32    1 3  0.000E+00                          1.067E-02   0.000E+00
+    32    1 4  0.000E+00                          1.067E-02   0.000E+00
+    32    1 1  0.000E+00                          1.778E-02   0.000E+00
+    32    1 2  0.000E+00                          1.778E-02   0.000E+00
+    32    1 6  0.000E+00                          1.067E-02   0.000E+00
+    32    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    33    1 0  0.000E+00  0.000E+00  0.000E+00
+    33    1 3  0.000E+00                          1.067E-02   0.000E+00
+    33    1 4  0.000E+00                          1.067E-02   0.000E+00
+    33    1 1  0.000E+00                          1.778E-02   0.000E+00
+    33    1 2  0.000E+00                          1.778E-02   0.000E+00
+    33    1 6  0.000E+00                          1.067E-02   0.000E+00
+    33    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    34    1 0  0.000E+00  0.000E+00  0.000E+00
+    34    1 3  0.000E+00                          1.067E-02   0.000E+00
+    34    1 4  0.000E+00                          1.067E-02   0.000E+00
+    34    1 1  0.000E+00                          1.778E-02   0.000E+00
+    34    1 2  0.000E+00                          1.778E-02   0.000E+00
+    34    1 6  0.000E+00                          1.067E-02   0.000E+00
+    34    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    35    1 0  0.000E+00  0.000E+00  0.000E+00
+    35    1 3  0.000E+00                          1.067E-02   0.000E+00
+    35    1 4  0.000E+00                          1.067E-02   0.000E+00
+    35    1 1  0.000E+00                          1.778E-02   0.000E+00
+    35    1 2  0.000E+00                          1.778E-02   0.000E+00
+    35    1 6  0.000E+00                          1.067E-02   0.000E+00
+    35    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    36    1 0  0.000E+00  0.000E+00  0.000E+00
+    36    1 3  0.000E+00                          1.067E-02   0.000E+00
+    36    1 4  0.000E+00                          1.067E-02   0.000E+00
+    36    1 1  0.000E+00                          1.778E-02   0.000E+00
+    36    1 2  0.000E+00                          1.778E-02   0.000E+00
+    36    1 6  0.000E+00                          1.067E-02   0.000E+00
+    36    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    37    1 0  0.000E+00  0.000E+00  0.000E+00
+    37    1 3  0.000E+00                          1.067E-02   0.000E+00
+    37    1 4  0.000E+00                          1.067E-02   0.000E+00
+    37    1 1  0.000E+00                          1.778E-02   0.000E+00
+    37    1 2  0.000E+00                          1.778E-02   0.000E+00
+    37    1 6  0.000E+00                          1.067E-02   0.000E+00
+    37    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    38    1 0  0.000E+00  0.000E+00  0.000E+00
+    38    1 3  0.000E+00                          1.067E-02   0.000E+00
+    38    1 4  0.000E+00                          1.067E-02   0.000E+00
+    38    1 1  0.000E+00                          1.778E-02   0.000E+00
+    38    1 2  0.000E+00                          1.778E-02   0.000E+00
+    38    1 6  0.000E+00                          1.067E-02   0.000E+00
+    38    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    39    1 0  0.000E+00  0.000E+00  0.000E+00
+    39    1 3  0.000E+00                          1.067E-02   0.000E+00
+    39    1 4  0.000E+00                          1.067E-02   0.000E+00
+    39    1 1  0.000E+00                          1.778E-02   0.000E+00
+    39    1 2  0.000E+00                          1.778E-02   0.000E+00
+    39    1 6  0.000E+00                          1.067E-02   0.000E+00
+    39    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    40    1 0  0.000E+00  0.000E+00  0.000E+00
+    40    1 3  0.000E+00                          1.067E-02   0.000E+00
+    40    1 4  0.000E+00                          1.067E-02   0.000E+00
+    40    1 1  0.000E+00                          1.778E-02   0.000E+00
+    40    1 2  0.000E+00                          1.778E-02   0.000E+00
+    40    1 6  0.000E+00                          1.067E-02   0.000E+00
+    40    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    41    1 0  0.000E+00  0.000E+00  0.000E+00
+    41    1 3  0.000E+00                          1.067E-02   0.000E+00
+    41    1 4  0.000E+00                          1.067E-02   0.000E+00
+    41    1 1  0.000E+00                          1.778E-02   0.000E+00
+    41    1 2  0.000E+00                          1.778E-02   0.000E+00
+    41    1 6  0.000E+00                          1.067E-02   0.000E+00
+    41    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    42    1 0  0.000E+00  0.000E+00  0.000E+00
+    42    1 3  0.000E+00                          1.067E-02   0.000E+00
+    42    1 4  0.000E+00                          1.067E-02   0.000E+00
+    42    1 1  0.000E+00                          1.778E-02   0.000E+00
+    42    1 2  0.000E+00                          1.778E-02   0.000E+00
+    42    1 6  0.000E+00                          1.067E-02   0.000E+00
+    42    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    43    1 0  0.000E+00  0.000E+00  0.000E+00
+    43    1 3  0.000E+00                          1.067E-02   0.000E+00
+    43    1 4  0.000E+00                          1.067E-02   0.000E+00
+    43    1 1  0.000E+00                          1.778E-02   0.000E+00
+    43    1 2  0.000E+00                          1.778E-02   0.000E+00
+    43    1 6  0.000E+00                          1.067E-02   0.000E+00
+    43    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    44    1 0  0.000E+00  0.000E+00  0.000E+00
+    44    1 3  0.000E+00                          1.067E-02   0.000E+00
+    44    1 4  0.000E+00                          1.067E-02   0.000E+00
+    44    1 1  0.000E+00                          1.778E-02   0.000E+00
+    44    1 2  0.000E+00                          1.778E-02   0.000E+00
+    44    1 6  0.000E+00                          1.067E-02   0.000E+00
+    44    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    45    1 0  0.000E+00  0.000E+00  0.000E+00
+    45    1 3  0.000E+00                          1.067E-02   0.000E+00
+    45    1 4  0.000E+00                          1.067E-02   0.000E+00
+    45    1 1  0.000E+00                          1.778E-02   0.000E+00
+    45    1 2  0.000E+00                          1.778E-02   0.000E+00
+    45    1 6  0.000E+00                          1.067E-02   0.000E+00
+    45    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    46    1 0  0.000E+00  0.000E+00  0.000E+00
+    46    1 3  0.000E+00                          1.067E-02   0.000E+00
+    46    1 4  0.000E+00                          1.067E-02   0.000E+00
+    46    1 1  0.000E+00                          1.778E-02   0.000E+00
+    46    1 2  0.000E+00                          1.778E-02   0.000E+00
+    46    1 6  0.000E+00                          1.067E-02   0.000E+00
+    46    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    47    1 0  0.000E+00  0.000E+00  0.000E+00
+    47    1 3  0.000E+00                          1.067E-02   0.000E+00
+    47    1 4  0.000E+00                          1.067E-02   0.000E+00
+    47    1 1  0.000E+00                          1.778E-02   0.000E+00
+    47    1 2  0.000E+00                          1.778E-02   0.000E+00
+    47    1 6  0.000E+00                          1.067E-02   0.000E+00
+    47    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    48    1 0  0.000E+00  0.000E+00  0.000E+00
+    48    1 3  0.000E+00                          1.067E-02   0.000E+00
+    48    1 4  0.000E+00                          1.067E-02   0.000E+00
+    48    1 1  0.000E+00                          1.778E-02   0.000E+00
+    48    1 2  0.000E+00                          1.778E-02   0.000E+00
+    48    1 6  0.000E+00                          1.067E-02   0.000E+00
+    48    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    49    1 0  0.000E+00  0.000E+00  0.000E+00
+    49    1 3  0.000E+00                          1.067E-02   0.000E+00
+    49    1 4  0.000E+00                          1.067E-02   0.000E+00
+    49    1 1  0.000E+00                          1.778E-02   0.000E+00
+    49    1 2  0.000E+00                          1.778E-02   0.000E+00
+    49    1 6  0.000E+00                          1.067E-02   0.000E+00
+    49    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    50    1 0  0.000E+00  0.000E+00  0.000E+00
+    50    1 3  0.000E+00                          1.067E-02   0.000E+00
+    50    1 4  0.000E+00                          1.067E-02   0.000E+00
+    50    1 1  0.000E+00                          1.778E-02   0.000E+00
+    50    1 2  0.000E+00                          1.778E-02   0.000E+00
+    50    1 6  0.000E+00                          1.067E-02   0.000E+00
+    50    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    51    1 0  0.000E+00  0.000E+00  0.000E+00
+    51    1 3  0.000E+00                          1.067E-02   0.000E+00
+    51    1 4  0.000E+00                          1.067E-02   0.000E+00
+    51    1 1  0.000E+00                          1.778E-02   0.000E+00
+    51    1 2  0.000E+00                          1.778E-02   0.000E+00
+    51    1 6  0.000E+00                          1.067E-02   0.000E+00
+    51    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    52    1 0  0.000E+00  0.000E+00  0.000E+00
+    52    1 3  0.000E+00                          1.067E-02   0.000E+00
+    52    1 4  0.000E+00                          1.067E-02   0.000E+00
+    52    1 1  0.000E+00                          1.778E-02   0.000E+00
+    52    1 2  0.000E+00                          1.778E-02   0.000E+00
+    52    1 6  0.000E+00                          1.067E-02   0.000E+00
+    52    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    53    1 0  0.000E+00  0.000E+00  0.000E+00
+    53    1 3  0.000E+00                          1.067E-02   0.000E+00
+    53    1 4  0.000E+00                          1.067E-02   0.000E+00
+    53    1 1  0.000E+00                          1.778E-02   0.000E+00
+    53    1 2  0.000E+00                          1.778E-02   0.000E+00
+    53    1 6  0.000E+00                          1.067E-02   0.000E+00
+    53    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    54    1 0  0.000E+00  0.000E+00  0.000E+00
+    54    1 3  0.000E+00                          1.067E-02   0.000E+00
+    54    1 4  0.000E+00                          1.067E-02   0.000E+00
+    54    1 1  0.000E+00                          1.778E-02   0.000E+00
+    54    1 2  0.000E+00                          1.778E-02   0.000E+00
+    54    1 6  0.000E+00                          1.067E-02   0.000E+00
+    54    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    55    1 0  0.000E+00  0.000E+00  0.000E+00
+    55    1 3  0.000E+00                          1.067E-02   0.000E+00
+    55    1 4  0.000E+00                          1.067E-02   0.000E+00
+    55    1 1  0.000E+00                          1.778E-02   0.000E+00
+    55    1 2  0.000E+00                          1.778E-02   0.000E+00
+    55    1 6  0.000E+00                          1.067E-02   0.000E+00
+    55    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    56    1 0  0.000E+00  0.000E+00  0.000E+00
+    56    1 3  0.000E+00                          1.067E-02   0.000E+00
+    56    1 4  0.000E+00                          1.067E-02   0.000E+00
+    56    1 1  0.000E+00                          1.778E-02   0.000E+00
+    56    1 2  0.000E+00                          1.778E-02   0.000E+00
+    56    1 6  0.000E+00                          1.067E-02   0.000E+00
+    56    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    57    1 0  0.000E+00  0.000E+00  0.000E+00
+    57    1 3  0.000E+00                          1.778E-02   0.000E+00
+    57    1 4  0.000E+00                          1.778E-02   0.000E+00
+    57    1 1  0.000E+00                          1.067E-02   0.000E+00
+    57    1 2  0.000E+00                          1.067E-02   0.000E+00
+    57    1 6  0.000E+00                          1.067E-02   0.000E+00
+    57    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    58    1 0  0.000E+00  0.000E+00  0.000E+00
+    58    1 3  0.000E+00                          1.778E-02   0.000E+00
+    58    1 4  0.000E+00                          1.778E-02   0.000E+00
+    58    1 1  0.000E+00                          1.067E-02   0.000E+00
+    58    1 2  0.000E+00                          1.067E-02   0.000E+00
+    58    1 6  0.000E+00                          1.067E-02   0.000E+00
+    58    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    59    1 0  0.000E+00  0.000E+00  0.000E+00
+    59    1 3  0.000E+00                          1.778E-02   0.000E+00
+    59    1 4  0.000E+00                          1.778E-02   0.000E+00
+    59    1 1  0.000E+00                          1.067E-02   0.000E+00
+    59    1 2  0.000E+00                          1.067E-02   0.000E+00
+    59    1 6  0.000E+00                          1.067E-02   0.000E+00
+    59    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    60    1 0  0.000E+00  0.000E+00  0.000E+00
+    60    1 3  0.000E+00                          1.778E-02   0.000E+00
+    60    1 4  0.000E+00                          1.778E-02   0.000E+00
+    60    1 1  0.000E+00                          1.067E-02   0.000E+00
+    60    1 2  0.000E+00                          1.067E-02   0.000E+00
+    60    1 6  0.000E+00                          1.067E-02   0.000E+00
+    60    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    61    1 0  0.000E+00  0.000E+00  0.000E+00
+    61    1 3  0.000E+00                          1.778E-02   0.000E+00
+    61    1 4  0.000E+00                          1.778E-02   0.000E+00
+    61    1 1  0.000E+00                          1.067E-02   0.000E+00
+    61    1 2  0.000E+00                          1.067E-02   0.000E+00
+    61    1 6  0.000E+00                          1.067E-02   0.000E+00
+    61    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    62    1 0  0.000E+00  0.000E+00  0.000E+00
+    62    1 3  0.000E+00                          1.778E-02   0.000E+00
+    62    1 4  0.000E+00                          1.778E-02   0.000E+00
+    62    1 1  0.000E+00                          1.067E-02   0.000E+00
+    62    1 2  0.000E+00                          1.067E-02   0.000E+00
+    62    1 6  0.000E+00                          1.067E-02   0.000E+00
+    62    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    63    1 0  0.000E+00  0.000E+00  0.000E+00
+    63    1 3  0.000E+00                          1.778E-02   0.000E+00
+    63    1 4  0.000E+00                          1.778E-02   0.000E+00
+    63    1 1  0.000E+00                          1.067E-02   0.000E+00
+    63    1 2  0.000E+00                          1.067E-02   0.000E+00
+    63    1 6  0.000E+00                          1.067E-02   0.000E+00
+    63    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    64    1 0  0.000E+00  0.000E+00  0.000E+00
+    64    1 3  0.000E+00                          1.778E-02   0.000E+00
+    64    1 4  0.000E+00                          1.778E-02   0.000E+00
+    64    1 1  0.000E+00                          1.067E-02   0.000E+00
+    64    1 2  0.000E+00                          1.067E-02   0.000E+00
+    64    1 6  0.000E+00                          1.067E-02   0.000E+00
+    64    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    65    1 0  0.000E+00  0.000E+00  0.000E+00
+    65    1 3  0.000E+00                          1.778E-02   0.000E+00
+    65    1 4  0.000E+00                          1.778E-02   0.000E+00
+    65    1 1  0.000E+00                          1.067E-02   0.000E+00
+    65    1 2  0.000E+00                          1.067E-02   0.000E+00
+    65    1 6  0.000E+00                          1.067E-02   0.000E+00
+    65    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    66    1 0  0.000E+00  0.000E+00  0.000E+00
+    66    1 3  0.000E+00                          1.778E-02   0.000E+00
+    66    1 4  0.000E+00                          1.778E-02   0.000E+00
+    66    1 1  0.000E+00                          1.067E-02   0.000E+00
+    66    1 2  0.000E+00                          1.067E-02   0.000E+00
+    66    1 6  0.000E+00                          1.067E-02   0.000E+00
+    66    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    67    1 0  0.000E+00  0.000E+00  0.000E+00
+    67    1 3  0.000E+00                          1.778E-02   0.000E+00
+    67    1 4  0.000E+00                          1.778E-02   0.000E+00
+    67    1 1  0.000E+00                          1.067E-02   0.000E+00
+    67    1 2  0.000E+00                          1.067E-02   0.000E+00
+    67    1 6  0.000E+00                          1.067E-02   0.000E+00
+    67    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    68    1 0  0.000E+00  0.000E+00  0.000E+00
+    68    1 3  0.000E+00                          1.778E-02   0.000E+00
+    68    1 4  0.000E+00                          1.778E-02   0.000E+00
+    68    1 1  0.000E+00                          1.067E-02   0.000E+00
+    68    1 2  0.000E+00                          1.067E-02   0.000E+00
+    68    1 6  0.000E+00                          1.067E-02   0.000E+00
+    68    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    69    1 0  0.000E+00  0.000E+00  0.000E+00
+    69    1 3  0.000E+00                          1.778E-02   0.000E+00
+    69    1 4  0.000E+00                          1.778E-02   0.000E+00
+    69    1 1  0.000E+00                          1.067E-02   0.000E+00
+    69    1 2  0.000E+00                          1.067E-02   0.000E+00
+    69    1 6  0.000E+00                          1.067E-02   0.000E+00
+    69    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    70    1 0  0.000E+00  0.000E+00  0.000E+00
+    70    1 3  0.000E+00                          1.778E-02   0.000E+00
+    70    1 4  0.000E+00                          1.778E-02   0.000E+00
+    70    1 1  0.000E+00                          1.067E-02   0.000E+00
+    70    1 2  0.000E+00                          1.067E-02   0.000E+00
+    70    1 6  0.000E+00                          1.067E-02   0.000E+00
+    70    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    71    1 0  0.000E+00  0.000E+00  0.000E+00
+    71    1 3  0.000E+00                          1.778E-02   0.000E+00
+    71    1 4  0.000E+00                          1.778E-02   0.000E+00
+    71    1 1  0.000E+00                          1.067E-02   0.000E+00
+    71    1 2  0.000E+00                          1.067E-02   0.000E+00
+    71    1 6  0.000E+00                          1.067E-02   0.000E+00
+    71    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    72    1 0  0.000E+00  0.000E+00  0.000E+00
+    72    1 3  0.000E+00                          1.778E-02   0.000E+00
+    72    1 4  0.000E+00                          1.778E-02   0.000E+00
+    72    1 1  0.000E+00                          1.067E-02   0.000E+00
+    72    1 2  0.000E+00                          1.067E-02   0.000E+00
+    72    1 6  0.000E+00                          1.067E-02   0.000E+00
+    72    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    73    1 0  0.000E+00  0.000E+00  0.000E+00
+    73    1 3  0.000E+00                          1.778E-02   0.000E+00
+    73    1 4  0.000E+00                          1.778E-02   0.000E+00
+    73    1 1  0.000E+00                          1.067E-02   0.000E+00
+    73    1 2  0.000E+00                          1.067E-02   0.000E+00
+    73    1 6  0.000E+00                          1.067E-02   0.000E+00
+    73    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    74    1 0  0.000E+00  0.000E+00  0.000E+00
+    74    1 3  0.000E+00                          1.778E-02   0.000E+00
+    74    1 4  0.000E+00                          1.778E-02   0.000E+00
+    74    1 1  0.000E+00                          1.067E-02   0.000E+00
+    74    1 2  0.000E+00                          1.067E-02   0.000E+00
+    74    1 6  0.000E+00                          1.067E-02   0.000E+00
+    74    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    75    1 0  0.000E+00  0.000E+00  0.000E+00
+    75    1 3  0.000E+00                          1.778E-02   0.000E+00
+    75    1 4  0.000E+00                          1.778E-02   0.000E+00
+    75    1 1  0.000E+00                          1.067E-02   0.000E+00
+    75    1 2  0.000E+00                          1.067E-02   0.000E+00
+    75    1 6  0.000E+00                          1.067E-02   0.000E+00
+    75    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    76    1 0  0.000E+00  0.000E+00  0.000E+00
+    76    1 3  0.000E+00                          1.067E-02   0.000E+00
+    76    1 4  0.000E+00                          1.067E-02   0.000E+00
+    76    1 1  0.000E+00                          1.778E-02   0.000E+00
+    76    1 2  0.000E+00                          1.778E-02   0.000E+00
+    76    1 6  0.000E+00                          1.067E-02   0.000E+00
+    76    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    77    1 0  0.000E+00  0.000E+00  0.000E+00
+    77    1 3  0.000E+00                          1.067E-02   0.000E+00
+    77    1 4  0.000E+00                          1.067E-02   0.000E+00
+    77    1 1  0.000E+00                          1.778E-02   0.000E+00
+    77    1 2  0.000E+00                          1.778E-02   0.000E+00
+    77    1 6  0.000E+00                          1.067E-02   0.000E+00
+    77    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    78    1 0  0.000E+00  0.000E+00  0.000E+00
+    78    1 3  0.000E+00                          1.067E-02   0.000E+00
+    78    1 4  0.000E+00                          1.067E-02   0.000E+00
+    78    1 1  0.000E+00                          1.778E-02   0.000E+00
+    78    1 2  0.000E+00                          1.778E-02   0.000E+00
+    78    1 6  0.000E+00                          1.067E-02   0.000E+00
+    78    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    79    1 0  0.000E+00  0.000E+00  0.000E+00
+    79    1 3  0.000E+00                          1.067E-02   0.000E+00
+    79    1 4  0.000E+00                          1.067E-02   0.000E+00
+    79    1 1  0.000E+00                          1.778E-02   0.000E+00
+    79    1 2  0.000E+00                          1.778E-02   0.000E+00
+    79    1 6  0.000E+00                          1.067E-02   0.000E+00
+    79    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    80    1 0  0.000E+00  0.000E+00  0.000E+00
+    80    1 3  0.000E+00                          1.067E-02   0.000E+00
+    80    1 4  0.000E+00                          1.067E-02   0.000E+00
+    80    1 1  0.000E+00                          1.778E-02   0.000E+00
+    80    1 2  0.000E+00                          1.778E-02   0.000E+00
+    80    1 6  0.000E+00                          1.067E-02   0.000E+00
+    80    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    81    1 0  0.000E+00  0.000E+00  0.000E+00
+    81    1 3  0.000E+00                          1.067E-02   0.000E+00
+    81    1 4  0.000E+00                          1.067E-02   0.000E+00
+    81    1 1  0.000E+00                          1.778E-02   0.000E+00
+    81    1 2  0.000E+00                          1.778E-02   0.000E+00
+    81    1 6  0.000E+00                          1.067E-02   0.000E+00
+    81    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    82    1 0  0.000E+00  0.000E+00  0.000E+00
+    82    1 3  0.000E+00                          1.067E-02   0.000E+00
+    82    1 4  0.000E+00                          1.067E-02   0.000E+00
+    82    1 1  0.000E+00                          1.778E-02   0.000E+00
+    82    1 2  0.000E+00                          1.778E-02   0.000E+00
+    82    1 6  0.000E+00                          1.067E-02   0.000E+00
+    82    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    83    1 0  0.000E+00  0.000E+00  0.000E+00
+    83    1 3  0.000E+00                          1.067E-02   0.000E+00
+    83    1 4  0.000E+00                          1.067E-02   0.000E+00
+    83    1 1  0.000E+00                          1.778E-02   0.000E+00
+    83    1 2  0.000E+00                          1.778E-02   0.000E+00
+    83    1 6  0.000E+00                          1.067E-02   0.000E+00
+    83    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    84    1 0  0.000E+00  0.000E+00  0.000E+00
+    84    1 3  0.000E+00                          1.067E-02   0.000E+00
+    84    1 4  0.000E+00                          1.067E-02   0.000E+00
+    84    1 1  0.000E+00                          1.778E-02   0.000E+00
+    84    1 2  0.000E+00                          1.778E-02   0.000E+00
+    84    1 6  0.000E+00                          1.067E-02   0.000E+00
+    84    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    85    1 0  0.000E+00  0.000E+00  0.000E+00
+    85    1 3  0.000E+00                          1.067E-02   0.000E+00
+    85    1 4  0.000E+00                          1.067E-02   0.000E+00
+    85    1 1  0.000E+00                          1.778E-02   0.000E+00
+    85    1 2  0.000E+00                          1.778E-02   0.000E+00
+    85    1 6  0.000E+00                          1.067E-02   0.000E+00
+    85    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    86    1 0  0.000E+00  0.000E+00  0.000E+00
+    86    1 3  0.000E+00                          1.778E-02   0.000E+00
+    86    1 4  0.000E+00                          1.778E-02   0.000E+00
+    86    1 1  0.000E+00                          1.067E-02   0.000E+00
+    86    1 2  0.000E+00                          1.067E-02   0.000E+00
+    86    1 6  0.000E+00                          1.067E-02   0.000E+00
+    86    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    87    1 0  0.000E+00  0.000E+00  0.000E+00
+    87    1 3  0.000E+00                          1.778E-02   0.000E+00
+    87    1 4  0.000E+00                          1.778E-02   0.000E+00
+    87    1 1  0.000E+00                          1.067E-02   0.000E+00
+    87    1 2  0.000E+00                          1.067E-02   0.000E+00
+    87    1 6  0.000E+00                          1.067E-02   0.000E+00
+    87    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    88    1 0  0.000E+00  0.000E+00  0.000E+00
+    88    1 3  0.000E+00                          1.778E-02   0.000E+00
+    88    1 4  0.000E+00                          1.778E-02   0.000E+00
+    88    1 1  0.000E+00                          1.067E-02   0.000E+00
+    88    1 2  0.000E+00                          1.067E-02   0.000E+00
+    88    1 6  0.000E+00                          1.067E-02   0.000E+00
+    88    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    89    1 0  0.000E+00  0.000E+00  0.000E+00
+    89    1 3  0.000E+00                          1.067E-02   0.000E+00
+    89    1 4  0.000E+00                          1.067E-02   0.000E+00
+    89    1 1  0.000E+00                          1.778E-02   0.000E+00
+    89    1 2  0.000E+00                          1.778E-02   0.000E+00
+    89    1 6  0.000E+00                          1.067E-02   0.000E+00
+    89    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    90    1 0  0.000E+00  0.000E+00  0.000E+00
+    90    1 3  0.000E+00                          1.778E-02   0.000E+00
+    90    1 4  0.000E+00                          1.778E-02   0.000E+00
+    90    1 1  0.000E+00                          1.067E-02   0.000E+00
+    90    1 2  0.000E+00                          1.067E-02   0.000E+00
+    90    1 6  0.000E+00                          1.067E-02   0.000E+00
+    90    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    91    1 0  0.000E+00  0.000E+00  0.000E+00
+    91    1 3  0.000E+00                          1.778E-02   0.000E+00
+    91    1 4  0.000E+00                          1.778E-02   0.000E+00
+    91    1 1  0.000E+00                          1.067E-02   0.000E+00
+    91    1 2  0.000E+00                          1.067E-02   0.000E+00
+    91    1 6  0.000E+00                          1.067E-02   0.000E+00
+    91    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    92    1 0  0.000E+00  0.000E+00  0.000E+00
+    92    1 3  0.000E+00                          1.778E-02   0.000E+00
+    92    1 4  0.000E+00                          1.778E-02   0.000E+00
+    92    1 1  0.000E+00                          1.067E-02   0.000E+00
+    92    1 2  0.000E+00                          1.067E-02   0.000E+00
+    92    1 6  0.000E+00                          1.067E-02   0.000E+00
+    92    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    93    1 0  0.000E+00  0.000E+00  0.000E+00
+    93    1 3  0.000E+00                          1.778E-02   0.000E+00
+    93    1 4  0.000E+00                          1.778E-02   0.000E+00
+    93    1 1  0.000E+00                          1.067E-02   0.000E+00
+    93    1 2  0.000E+00                          1.067E-02   0.000E+00
+    93    1 6  0.000E+00                          1.067E-02   0.000E+00
+    93    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    94    1 0  0.000E+00  0.000E+00  0.000E+00
+    94    1 3  0.000E+00                          1.778E-02   0.000E+00
+    94    1 4  0.000E+00                          1.778E-02   0.000E+00
+    94    1 1  0.000E+00                          1.067E-02   0.000E+00
+    94    1 2  0.000E+00                          1.067E-02   0.000E+00
+    94    1 6  0.000E+00                          1.067E-02   0.000E+00
+    94    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    95    1 0  0.000E+00  0.000E+00  0.000E+00
+    95    1 3  0.000E+00                          1.778E-02   0.000E+00
+    95    1 4  0.000E+00                          1.778E-02   0.000E+00
+    95    1 1  0.000E+00                          1.067E-02   0.000E+00
+    95    1 2  0.000E+00                          1.067E-02   0.000E+00
+    95    1 6  0.000E+00                          1.067E-02   0.000E+00
+    95    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    96    1 0  0.000E+00  0.000E+00  0.000E+00
+    96    1 3  0.000E+00                          1.778E-02   0.000E+00
+    96    1 4  0.000E+00                          1.778E-02   0.000E+00
+    96    1 1  0.000E+00                          1.067E-02   0.000E+00
+    96    1 2  0.000E+00                          1.067E-02   0.000E+00
+    96    1 6  0.000E+00                          1.067E-02   0.000E+00
+    96    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    97    1 0  0.000E+00  0.000E+00  0.000E+00
+    97    1 3  0.000E+00                          1.778E-02   0.000E+00
+    97    1 4  0.000E+00                          1.778E-02   0.000E+00
+    97    1 1  0.000E+00                          1.067E-02   0.000E+00
+    97    1 2  0.000E+00                          1.067E-02   0.000E+00
+    97    1 6  0.000E+00                          1.067E-02   0.000E+00
+    97    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    98    1 0  0.000E+00  0.000E+00  0.000E+00
+    98    1 3  0.000E+00                          1.778E-02   0.000E+00
+    98    1 4  0.000E+00                          1.778E-02   0.000E+00
+    98    1 1  0.000E+00                          1.067E-02   0.000E+00
+    98    1 2  0.000E+00                          1.067E-02   0.000E+00
+    98    1 6  0.000E+00                          1.067E-02   0.000E+00
+    98    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+    99    1 0  0.000E+00  0.000E+00  0.000E+00
+    99    1 3  0.000E+00                          1.778E-02   0.000E+00
+    99    1 4  0.000E+00                          1.778E-02   0.000E+00
+    99    1 1  0.000E+00                          1.067E-02   0.000E+00
+    99    1 2  0.000E+00                          1.067E-02   0.000E+00
+    99    1 6  0.000E+00                          1.067E-02   0.000E+00
+    99    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   100    1 0  0.000E+00  0.000E+00  0.000E+00
+   100    1 3  0.000E+00                          1.778E-02   0.000E+00
+   100    1 4  0.000E+00                          1.778E-02   0.000E+00
+   100    1 1  0.000E+00                          1.067E-02   0.000E+00
+   100    1 2  0.000E+00                          1.067E-02   0.000E+00
+   100    1 6  0.000E+00                          1.067E-02   0.000E+00
+   100    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   101    1 0  0.000E+00  0.000E+00  0.000E+00
+   101    1 3  0.000E+00                          1.778E-02   0.000E+00
+   101    1 4  0.000E+00                          1.778E-02   0.000E+00
+   101    1 1  0.000E+00                          1.067E-02   0.000E+00
+   101    1 2  0.000E+00                          1.067E-02   0.000E+00
+   101    1 6  0.000E+00                          1.067E-02   0.000E+00
+   101    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   102    1 0  0.000E+00  0.000E+00  0.000E+00
+   102    1 3  0.000E+00                          1.778E-02   0.000E+00
+   102    1 4  0.000E+00                          1.778E-02   0.000E+00
+   102    1 1  0.000E+00                          1.067E-02   0.000E+00
+   102    1 2  0.000E+00                          1.067E-02   0.000E+00
+   102    1 6  0.000E+00                          1.067E-02   0.000E+00
+   102    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   103    1 0  0.000E+00  0.000E+00  0.000E+00
+   103    1 3  0.000E+00                          1.067E-02   0.000E+00
+   103    1 4  0.000E+00                          1.067E-02   0.000E+00
+   103    1 1  0.000E+00                          1.778E-02   0.000E+00
+   103    1 2  0.000E+00                          1.778E-02   0.000E+00
+   103    1 6  0.000E+00                          1.067E-02   0.000E+00
+   103    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   104    1 0  0.000E+00  0.000E+00  0.000E+00
+   104    1 3  0.000E+00                          1.067E-02   0.000E+00
+   104    1 4  0.000E+00                          1.067E-02   0.000E+00
+   104    1 1  0.000E+00                          1.778E-02   0.000E+00
+   104    1 2  0.000E+00                          1.778E-02   0.000E+00
+   104    1 6  0.000E+00                          1.067E-02   0.000E+00
+   104    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   105    1 0  0.000E+00  0.000E+00  0.000E+00
+   105    1 3  0.000E+00                          1.067E-02   0.000E+00
+   105    1 4  0.000E+00                          1.067E-02   0.000E+00
+   105    1 1  0.000E+00                          1.778E-02   0.000E+00
+   105    1 2  0.000E+00                          1.778E-02   0.000E+00
+   105    1 6  0.000E+00                          1.067E-02   0.000E+00
+   105    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   106    1 0  0.000E+00  0.000E+00  0.000E+00
+   106    1 3  0.000E+00                          1.067E-02   0.000E+00
+   106    1 4  0.000E+00                          1.067E-02   0.000E+00
+   106    1 1  0.000E+00                          1.778E-02   0.000E+00
+   106    1 2  0.000E+00                          1.778E-02   0.000E+00
+   106    1 6  0.000E+00                          1.067E-02   0.000E+00
+   106    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   107    1 0  0.000E+00  0.000E+00  0.000E+00
+   107    1 3  0.000E+00                          1.067E-02   0.000E+00
+   107    1 4  0.000E+00                          1.067E-02   0.000E+00
+   107    1 1  0.000E+00                          1.778E-02   0.000E+00
+   107    1 2  0.000E+00                          1.778E-02   0.000E+00
+   107    1 6  0.000E+00                          1.067E-02   0.000E+00
+   107    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   108    1 0  0.000E+00  0.000E+00  0.000E+00
+   108    1 3  0.000E+00                          1.067E-02   0.000E+00
+   108    1 4  0.000E+00                          1.067E-02   0.000E+00
+   108    1 1  0.000E+00                          1.778E-02   0.000E+00
+   108    1 2  0.000E+00                          1.778E-02   0.000E+00
+   108    1 6  0.000E+00                          1.067E-02   0.000E+00
+   108    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   109    1 0  0.000E+00  0.000E+00  0.000E+00
+   109    1 3  0.000E+00                          1.067E-02   0.000E+00
+   109    1 4  0.000E+00                          1.067E-02   0.000E+00
+   109    1 1  0.000E+00                          1.778E-02   0.000E+00
+   109    1 2  0.000E+00                          1.778E-02   0.000E+00
+   109    1 6  0.000E+00                          1.067E-02   0.000E+00
+   109    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   110    1 0  0.000E+00  0.000E+00  0.000E+00
+   110    1 3  0.000E+00                          1.067E-02   0.000E+00
+   110    1 4  0.000E+00                          1.067E-02   0.000E+00
+   110    1 1  0.000E+00                          1.778E-02   0.000E+00
+   110    1 2  0.000E+00                          1.778E-02   0.000E+00
+   110    1 6  0.000E+00                          1.067E-02   0.000E+00
+   110    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   111    1 0  0.000E+00  0.000E+00  0.000E+00
+   111    1 3  0.000E+00                          1.067E-02   0.000E+00
+   111    1 4  0.000E+00                          1.067E-02   0.000E+00
+   111    1 1  0.000E+00                          1.778E-02   0.000E+00
+   111    1 2  0.000E+00                          1.778E-02   0.000E+00
+   111    1 6  0.000E+00                          1.067E-02   0.000E+00
+   111    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   112    1 0  0.000E+00  0.000E+00  0.000E+00
+   112    1 3  0.000E+00                          1.067E-02   0.000E+00
+   112    1 4  0.000E+00                          1.067E-02   0.000E+00
+   112    1 1  0.000E+00                          1.778E-02   0.000E+00
+   112    1 2  0.000E+00                          1.778E-02   0.000E+00
+   112    1 6  0.000E+00                          1.067E-02   0.000E+00
+   112    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   113    1 0  0.000E+00  0.000E+00  0.000E+00
+   113    1 3  0.000E+00                          1.067E-02   0.000E+00
+   113    1 4  0.000E+00                          1.067E-02   0.000E+00
+   113    1 1  0.000E+00                          1.778E-02   0.000E+00
+   113    1 2  0.000E+00                          1.778E-02   0.000E+00
+   113    1 6  0.000E+00                          1.067E-02   0.000E+00
+   113    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   114    1 0  0.000E+00  0.000E+00  0.000E+00
+   114    1 3  0.000E+00                          1.067E-02   0.000E+00
+   114    1 4  0.000E+00                          1.067E-02   0.000E+00
+   114    1 1  0.000E+00                          1.778E-02   0.000E+00
+   114    1 2  0.000E+00                          1.778E-02   0.000E+00
+   114    1 6  0.000E+00                          1.067E-02   0.000E+00
+   114    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   115    1 0  0.000E+00  0.000E+00  0.000E+00
+   115    1 3  0.000E+00                          1.778E-02   0.000E+00
+   115    1 4  0.000E+00                          1.778E-02   0.000E+00
+   115    1 1  0.000E+00                          1.067E-02   0.000E+00
+   115    1 2  0.000E+00                          1.067E-02   0.000E+00
+   115    1 6  0.000E+00                          1.067E-02   0.000E+00
+   115    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   116    1 0  0.000E+00  0.000E+00  0.000E+00
+   116    1 3  0.000E+00                          1.778E-02   0.000E+00
+   116    1 4  0.000E+00                          1.778E-02   0.000E+00
+   116    1 1  0.000E+00                          1.067E-02   0.000E+00
+   116    1 2  0.000E+00                          1.067E-02   0.000E+00
+   116    1 6  0.000E+00                          1.067E-02   0.000E+00
+   116    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   117    1 0  0.000E+00  0.000E+00  0.000E+00
+   117    1 3  0.000E+00                          1.778E-02   0.000E+00
+   117    1 4  0.000E+00                          1.778E-02   0.000E+00
+   117    1 1  0.000E+00                          1.067E-02   0.000E+00
+   117    1 2  0.000E+00                          1.067E-02   0.000E+00
+   117    1 6  0.000E+00                          1.067E-02   0.000E+00
+   117    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   118    1 0  0.000E+00  0.000E+00  0.000E+00
+   118    1 3  0.000E+00                          1.778E-02   0.000E+00
+   118    1 4  0.000E+00                          1.778E-02   0.000E+00
+   118    1 1  0.000E+00                          1.067E-02   0.000E+00
+   118    1 2  0.000E+00                          1.067E-02   0.000E+00
+   118    1 6  0.000E+00                          1.067E-02   0.000E+00
+   118    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   119    1 0  0.000E+00  0.000E+00  0.000E+00
+   119    1 3  0.000E+00                          1.778E-02   0.000E+00
+   119    1 4  0.000E+00                          1.778E-02   0.000E+00
+   119    1 1  0.000E+00                          1.067E-02   0.000E+00
+   119    1 2  0.000E+00                          1.067E-02   0.000E+00
+   119    1 6  0.000E+00                          1.067E-02   0.000E+00
+   119    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   120    1 0  0.000E+00  0.000E+00  0.000E+00
+   120    1 3  0.000E+00                          1.778E-02   0.000E+00
+   120    1 4  0.000E+00                          1.778E-02   0.000E+00
+   120    1 1  0.000E+00                          1.067E-02   0.000E+00
+   120    1 2  0.000E+00                          1.067E-02   0.000E+00
+   120    1 6  0.000E+00                          1.067E-02   0.000E+00
+   120    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   121    1 0  0.000E+00  0.000E+00  0.000E+00
+   121    1 3  0.000E+00                          1.778E-02   0.000E+00
+   121    1 4  0.000E+00                          1.778E-02   0.000E+00
+   121    1 1  0.000E+00                          1.067E-02   0.000E+00
+   121    1 2  0.000E+00                          1.067E-02   0.000E+00
+   121    1 6  0.000E+00                          1.067E-02   0.000E+00
+   121    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   122    1 0  0.000E+00  0.000E+00  0.000E+00
+   122    1 3  0.000E+00                          1.067E-02   0.000E+00
+   122    1 4  0.000E+00                          1.067E-02   0.000E+00
+   122    1 1  0.000E+00                          1.778E-02   0.000E+00
+   122    1 2  0.000E+00                          1.778E-02   0.000E+00
+   122    1 6  0.000E+00                          1.067E-02   0.000E+00
+   122    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   123    1 0  0.000E+00  0.000E+00  0.000E+00
+   123    1 3  0.000E+00                          1.778E-02   0.000E+00
+   123    1 4  0.000E+00                          1.778E-02   0.000E+00
+   123    1 1  0.000E+00                          1.067E-02   0.000E+00
+   123    1 2  0.000E+00                          1.067E-02   0.000E+00
+   123    1 6  0.000E+00                          1.067E-02   0.000E+00
+   123    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   124    1 0  0.000E+00  0.000E+00  0.000E+00
+   124    1 3  0.000E+00                          1.778E-02   0.000E+00
+   124    1 4  0.000E+00                          1.778E-02   0.000E+00
+   124    1 1  0.000E+00                          1.067E-02   0.000E+00
+   124    1 2  0.000E+00                          1.067E-02   0.000E+00
+   124    1 6  0.000E+00                          1.067E-02   0.000E+00
+   124    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   125    1 0  0.000E+00  0.000E+00  0.000E+00
+   125    1 3  0.000E+00                          1.778E-02   0.000E+00
+   125    1 4  0.000E+00                          1.778E-02   0.000E+00
+   125    1 1  0.000E+00                          1.067E-02   0.000E+00
+   125    1 2  0.000E+00                          1.067E-02   0.000E+00
+   125    1 6  0.000E+00                          1.067E-02   0.000E+00
+   125    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   126    1 0  0.000E+00  0.000E+00  0.000E+00
+   126    1 3  0.000E+00                          1.067E-02   0.000E+00
+   126    1 4  0.000E+00                          1.067E-02   0.000E+00
+   126    1 1  0.000E+00                          1.778E-02   0.000E+00
+   126    1 2  0.000E+00                          1.778E-02   0.000E+00
+   126    1 6  0.000E+00                          1.067E-02   0.000E+00
+   126    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   127    1 0  0.000E+00  0.000E+00  0.000E+00
+   127    1 3  0.000E+00                          1.778E-02   0.000E+00
+   127    1 4  0.000E+00                          1.778E-02   0.000E+00
+   127    1 1  0.000E+00                          1.067E-02   0.000E+00
+   127    1 2  0.000E+00                          1.067E-02   0.000E+00
+   127    1 6  0.000E+00                          1.067E-02   0.000E+00
+   127    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   128    1 0  0.000E+00  0.000E+00  0.000E+00
+   128    1 3  0.000E+00                          1.778E-02   0.000E+00
+   128    1 4  0.000E+00                          1.778E-02   0.000E+00
+   128    1 1  0.000E+00                          1.067E-02   0.000E+00
+   128    1 2  0.000E+00                          1.067E-02   0.000E+00
+   128    1 6  0.000E+00                          1.067E-02   0.000E+00
+   128    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   129    1 0  0.000E+00  0.000E+00  0.000E+00
+   129    1 3  0.000E+00                          1.778E-02   0.000E+00
+   129    1 4  0.000E+00                          1.778E-02   0.000E+00
+   129    1 1  0.000E+00                          1.067E-02   0.000E+00
+   129    1 2  0.000E+00                          1.067E-02   0.000E+00
+   129    1 6  0.000E+00                          1.067E-02   0.000E+00
+   129    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   130    1 0  0.000E+00  0.000E+00  0.000E+00
+   130    1 3  0.000E+00                          1.778E-02   0.000E+00
+   130    1 4  0.000E+00                          1.778E-02   0.000E+00
+   130    1 1  0.000E+00                          1.067E-02   0.000E+00
+   130    1 2  0.000E+00                          1.067E-02   0.000E+00
+   130    1 6  0.000E+00                          1.067E-02   0.000E+00
+   130    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   131    1 0  0.000E+00  0.000E+00  0.000E+00
+   131    1 3  0.000E+00                          1.778E-02   0.000E+00
+   131    1 4  0.000E+00                          1.778E-02   0.000E+00
+   131    1 1  0.000E+00                          1.067E-02   0.000E+00
+   131    1 2  0.000E+00                          1.067E-02   0.000E+00
+   131    1 6  0.000E+00                          1.067E-02   0.000E+00
+   131    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   132    1 0  0.000E+00  0.000E+00  0.000E+00
+   132    1 3  0.000E+00                          1.778E-02   0.000E+00
+   132    1 4  0.000E+00                          1.778E-02   0.000E+00
+   132    1 1  0.000E+00                          1.067E-02   0.000E+00
+   132    1 2  0.000E+00                          1.067E-02   0.000E+00
+   132    1 6  0.000E+00                          1.067E-02   0.000E+00
+   132    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   133    1 0  0.000E+00  0.000E+00  0.000E+00
+   133    1 3  0.000E+00                          1.778E-02   0.000E+00
+   133    1 4  0.000E+00                          1.778E-02   0.000E+00
+   133    1 1  0.000E+00                          1.067E-02   0.000E+00
+   133    1 2  0.000E+00                          1.067E-02   0.000E+00
+   133    1 6  0.000E+00                          1.067E-02   0.000E+00
+   133    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   134    1 0  0.000E+00  0.000E+00  0.000E+00
+   134    1 3  0.000E+00                          1.778E-02   0.000E+00
+   134    1 4  0.000E+00                          1.778E-02   0.000E+00
+   134    1 1  0.000E+00                          1.067E-02   0.000E+00
+   134    1 2  0.000E+00                          1.067E-02   0.000E+00
+   134    1 6  0.000E+00                          1.067E-02   0.000E+00
+   134    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   135    1 0  0.000E+00  0.000E+00  0.000E+00
+   135    1 3  0.000E+00                          1.778E-02   0.000E+00
+   135    1 4  0.000E+00                          1.778E-02   0.000E+00
+   135    1 1  0.000E+00                          1.067E-02   0.000E+00
+   135    1 2  0.000E+00                          1.067E-02   0.000E+00
+   135    1 6  0.000E+00                          1.067E-02   0.000E+00
+   135    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   136    1 0  0.000E+00  0.000E+00  0.000E+00
+   136    1 3  0.000E+00                          1.778E-02   0.000E+00
+   136    1 4  0.000E+00                          1.778E-02   0.000E+00
+   136    1 1  0.000E+00                          1.067E-02   0.000E+00
+   136    1 2  0.000E+00                          1.067E-02   0.000E+00
+   136    1 6  0.000E+00                          1.067E-02   0.000E+00
+   136    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   137    1 0  0.000E+00  0.000E+00  0.000E+00
+   137    1 3  0.000E+00                          1.778E-02   0.000E+00
+   137    1 4  0.000E+00                          1.778E-02   0.000E+00
+   137    1 1  0.000E+00                          1.067E-02   0.000E+00
+   137    1 2  0.000E+00                          1.067E-02   0.000E+00
+   137    1 6  0.000E+00                          1.067E-02   0.000E+00
+   137    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   138    1 0  0.000E+00  0.000E+00  0.000E+00
+   138    1 3  0.000E+00                          1.778E-02   0.000E+00
+   138    1 4  0.000E+00                          1.778E-02   0.000E+00
+   138    1 1  0.000E+00                          1.067E-02   0.000E+00
+   138    1 2  0.000E+00                          1.067E-02   0.000E+00
+   138    1 6  0.000E+00                          1.067E-02   0.000E+00
+   138    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   139    1 0  0.000E+00  0.000E+00  0.000E+00
+   139    1 3  0.000E+00                          1.778E-02   0.000E+00
+   139    1 4  0.000E+00                          1.778E-02   0.000E+00
+   139    1 1  0.000E+00                          1.067E-02   0.000E+00
+   139    1 2  0.000E+00                          1.067E-02   0.000E+00
+   139    1 6  0.000E+00                          1.067E-02   0.000E+00
+   139    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   140    1 0  0.000E+00  0.000E+00  0.000E+00
+   140    1 3  0.000E+00                          1.778E-02   0.000E+00
+   140    1 4  0.000E+00                          1.778E-02   0.000E+00
+   140    1 1  0.000E+00                          1.067E-02   0.000E+00
+   140    1 2  0.000E+00                          1.067E-02   0.000E+00
+   140    1 6  0.000E+00                          1.067E-02   0.000E+00
+   140    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   141    1 0  0.000E+00  0.000E+00  0.000E+00
+   141    1 3  0.000E+00                          1.067E-02   0.000E+00
+   141    1 4  0.000E+00                          1.067E-02   0.000E+00
+   141    1 1  0.000E+00                          1.778E-02   0.000E+00
+   141    1 2  0.000E+00                          1.778E-02   0.000E+00
+   141    1 6  0.000E+00                          1.067E-02   0.000E+00
+   141    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   142    1 0  0.000E+00  0.000E+00  0.000E+00
+   142    1 3  0.000E+00                          1.067E-02   0.000E+00
+   142    1 4  0.000E+00                          1.067E-02   0.000E+00
+   142    1 1  0.000E+00                          1.778E-02   0.000E+00
+   142    1 2  0.000E+00                          1.778E-02   0.000E+00
+   142    1 6  0.000E+00                          1.067E-02   0.000E+00
+   142    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   143    1 0  0.000E+00  0.000E+00  0.000E+00
+   143    1 3  0.000E+00                          1.778E-02   0.000E+00
+   143    1 4  0.000E+00                          1.778E-02   0.000E+00
+   143    1 1  0.000E+00                          1.067E-02   0.000E+00
+   143    1 2  0.000E+00                          1.067E-02   0.000E+00
+   143    1 6  0.000E+00                          1.067E-02   0.000E+00
+   143    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   144    1 0  0.000E+00  0.000E+00  0.000E+00
+   144    1 3  0.000E+00                          1.778E-02   0.000E+00
+   144    1 4  0.000E+00                          1.778E-02   0.000E+00
+   144    1 1  0.000E+00                          1.067E-02   0.000E+00
+   144    1 2  0.000E+00                          1.067E-02   0.000E+00
+   144    1 6  0.000E+00                          1.067E-02   0.000E+00
+   144    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   145    1 0  0.000E+00  0.000E+00  0.000E+00
+   145    1 3  0.000E+00                          1.778E-02   0.000E+00
+   145    1 4  0.000E+00                          1.778E-02   0.000E+00
+   145    1 1  0.000E+00                          1.067E-02   0.000E+00
+   145    1 2  0.000E+00                          1.067E-02   0.000E+00
+   145    1 6  0.000E+00                          1.067E-02   0.000E+00
+   145    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   146    1 0  0.000E+00  0.000E+00  0.000E+00
+   146    1 3  0.000E+00                          1.778E-02   0.000E+00
+   146    1 4  0.000E+00                          1.778E-02   0.000E+00
+   146    1 1  0.000E+00                          1.067E-02   0.000E+00
+   146    1 2  0.000E+00                          1.067E-02   0.000E+00
+   146    1 6  0.000E+00                          1.067E-02   0.000E+00
+   146    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   147    1 0  0.000E+00  0.000E+00  0.000E+00
+   147    1 3  0.000E+00                          1.778E-02   0.000E+00
+   147    1 4  0.000E+00                          1.778E-02   0.000E+00
+   147    1 1  0.000E+00                          1.067E-02   0.000E+00
+   147    1 2  0.000E+00                          1.067E-02   0.000E+00
+   147    1 6  0.000E+00                          1.067E-02   0.000E+00
+   147    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   148    1 0  0.000E+00  0.000E+00  0.000E+00
+   148    1 3  0.000E+00                          1.778E-02   0.000E+00
+   148    1 4  0.000E+00                          1.778E-02   0.000E+00
+   148    1 1  0.000E+00                          1.067E-02   0.000E+00
+   148    1 2  0.000E+00                          1.067E-02   0.000E+00
+   148    1 6  0.000E+00                          1.067E-02   0.000E+00
+   148    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   149    1 0  0.000E+00  0.000E+00  0.000E+00
+   149    1 3  0.000E+00                          1.778E-02   0.000E+00
+   149    1 4  0.000E+00                          1.778E-02   0.000E+00
+   149    1 1  0.000E+00                          1.067E-02   0.000E+00
+   149    1 2  0.000E+00                          1.067E-02   0.000E+00
+   149    1 6  0.000E+00                          1.067E-02   0.000E+00
+   149    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   150    1 0  0.000E+00  0.000E+00  0.000E+00
+   150    1 3  0.000E+00                          1.067E-02   0.000E+00
+   150    1 4  0.000E+00                          1.067E-02   0.000E+00
+   150    1 1  0.000E+00                          1.778E-02   0.000E+00
+   150    1 2  0.000E+00                          1.778E-02   0.000E+00
+   150    1 6  0.000E+00                          1.067E-02   0.000E+00
+   150    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   151    1 0  0.000E+00  0.000E+00  0.000E+00
+   151    1 3  0.000E+00                          1.778E-02   0.000E+00
+   151    1 4  0.000E+00                          1.778E-02   0.000E+00
+   151    1 1  0.000E+00                          1.067E-02   0.000E+00
+   151    1 2  0.000E+00                          1.067E-02   0.000E+00
+   151    1 6  0.000E+00                          1.067E-02   0.000E+00
+   151    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   152    1 0  0.000E+00  0.000E+00  0.000E+00
+   152    1 3  0.000E+00                          1.778E-02   0.000E+00
+   152    1 4  0.000E+00                          1.778E-02   0.000E+00
+   152    1 1  0.000E+00                          1.067E-02   0.000E+00
+   152    1 2  0.000E+00                          1.067E-02   0.000E+00
+   152    1 6  0.000E+00                          1.067E-02   0.000E+00
+   152    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   153    1 0  0.000E+00  0.000E+00  0.000E+00
+   153    1 3  0.000E+00                          1.778E-02   0.000E+00
+   153    1 4  0.000E+00                          1.778E-02   0.000E+00
+   153    1 1  0.000E+00                          1.067E-02   0.000E+00
+   153    1 2  0.000E+00                          1.067E-02   0.000E+00
+   153    1 6  0.000E+00                          1.067E-02   0.000E+00
+   153    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   154    1 0  0.000E+00  0.000E+00  0.000E+00
+   154    1 3  0.000E+00                          1.778E-02   0.000E+00
+   154    1 4  0.000E+00                          1.778E-02   0.000E+00
+   154    1 1  0.000E+00                          1.067E-02   0.000E+00
+   154    1 2  0.000E+00                          1.067E-02   0.000E+00
+   154    1 6  0.000E+00                          1.067E-02   0.000E+00
+   154    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   155    1 0  0.000E+00  0.000E+00  0.000E+00
+   155    1 3  0.000E+00                          1.778E-02   0.000E+00
+   155    1 4  0.000E+00                          1.778E-02   0.000E+00
+   155    1 1  0.000E+00                          1.067E-02   0.000E+00
+   155    1 2  0.000E+00                          1.067E-02   0.000E+00
+   155    1 6  0.000E+00                          1.067E-02   0.000E+00
+   155    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   156    1 0  0.000E+00  0.000E+00  0.000E+00
+   156    1 3  0.000E+00                          1.778E-02   0.000E+00
+   156    1 4  0.000E+00                          1.778E-02   0.000E+00
+   156    1 1  0.000E+00                          1.067E-02   0.000E+00
+   156    1 2  0.000E+00                          1.067E-02   0.000E+00
+   156    1 6  0.000E+00                          1.067E-02   0.000E+00
+   156    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   157    1 0  0.000E+00  0.000E+00  0.000E+00
+   157    1 3  0.000E+00                          1.067E-02   0.000E+00
+   157    1 4  0.000E+00                          1.067E-02   0.000E+00
+   157    1 1  0.000E+00                          1.778E-02   0.000E+00
+   157    1 2  0.000E+00                          1.778E-02   0.000E+00
+   157    1 6  0.000E+00                          1.067E-02   0.000E+00
+   157    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   158    1 0  0.000E+00  0.000E+00  0.000E+00
+   158    1 3  0.000E+00                          1.067E-02   0.000E+00
+   158    1 4  0.000E+00                          1.067E-02   0.000E+00
+   158    1 1  0.000E+00                          1.778E-02   0.000E+00
+   158    1 2  0.000E+00                          1.778E-02   0.000E+00
+   158    1 6  0.000E+00                          1.067E-02   0.000E+00
+   158    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   159    1 0  0.000E+00  0.000E+00  0.000E+00
+   159    1 3  0.000E+00                          1.067E-02   0.000E+00
+   159    1 4  0.000E+00                          1.067E-02   0.000E+00
+   159    1 1  0.000E+00                          1.778E-02   0.000E+00
+   159    1 2  0.000E+00                          1.778E-02   0.000E+00
+   159    1 6  0.000E+00                          1.067E-02   0.000E+00
+   159    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   160    1 0  0.000E+00  0.000E+00  0.000E+00
+   160    1 3  0.000E+00                          1.067E-02   0.000E+00
+   160    1 4  0.000E+00                          1.067E-02   0.000E+00
+   160    1 1  0.000E+00                          1.778E-02   0.000E+00
+   160    1 2  0.000E+00                          1.778E-02   0.000E+00
+   160    1 6  0.000E+00                          1.067E-02   0.000E+00
+   160    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   161    1 0  0.000E+00  0.000E+00  0.000E+00
+   161    1 3  0.000E+00                          1.067E-02   0.000E+00
+   161    1 4  0.000E+00                          1.067E-02   0.000E+00
+   161    1 1  0.000E+00                          1.778E-02   0.000E+00
+   161    1 2  0.000E+00                          1.778E-02   0.000E+00
+   161    1 6  0.000E+00                          1.067E-02   0.000E+00
+   161    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   162    1 0  0.000E+00  0.000E+00  0.000E+00
+   162    1 3  0.000E+00                          1.067E-02   0.000E+00
+   162    1 4  0.000E+00                          1.067E-02   0.000E+00
+   162    1 1  0.000E+00                          1.778E-02   0.000E+00
+   162    1 2  0.000E+00                          1.778E-02   0.000E+00
+   162    1 6  0.000E+00                          1.067E-02   0.000E+00
+   162    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   163    1 0  0.000E+00  0.000E+00  0.000E+00
+   163    1 3  0.000E+00                          1.778E-02   0.000E+00
+   163    1 4  0.000E+00                          1.778E-02   0.000E+00
+   163    1 1  0.000E+00                          1.067E-02   0.000E+00
+   163    1 2  0.000E+00                          1.067E-02   0.000E+00
+   163    1 6  0.000E+00                          1.067E-02   0.000E+00
+   163    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   164    1 0  0.000E+00  0.000E+00  0.000E+00
+   164    1 3  0.000E+00                          1.067E-02   0.000E+00
+   164    1 4  0.000E+00                          1.067E-02   0.000E+00
+   164    1 1  0.000E+00                          1.778E-02   0.000E+00
+   164    1 2  0.000E+00                          1.778E-02   0.000E+00
+   164    1 6  0.000E+00                          1.067E-02   0.000E+00
+   164    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   165    1 0  0.000E+00  0.000E+00  0.000E+00
+   165    1 3  0.000E+00                          1.778E-02   0.000E+00
+   165    1 4  0.000E+00                          1.778E-02   0.000E+00
+   165    1 1  0.000E+00                          1.067E-02   0.000E+00
+   165    1 2  0.000E+00                          1.067E-02   0.000E+00
+   165    1 6  0.000E+00                          1.067E-02   0.000E+00
+   165    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   166    1 0  0.000E+00  0.000E+00  0.000E+00
+   166    1 3  0.000E+00                          1.778E-02   0.000E+00
+   166    1 4  0.000E+00                          1.778E-02   0.000E+00
+   166    1 1  0.000E+00                          1.067E-02   0.000E+00
+   166    1 2  0.000E+00                          1.067E-02   0.000E+00
+   166    1 6  0.000E+00                          1.067E-02   0.000E+00
+   166    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   167    1 0  0.000E+00  0.000E+00  0.000E+00
+   167    1 3  0.000E+00                          1.067E-02   0.000E+00
+   167    1 4  0.000E+00                          1.067E-02   0.000E+00
+   167    1 1  0.000E+00                          1.778E-02   0.000E+00
+   167    1 2  0.000E+00                          1.778E-02   0.000E+00
+   167    1 6  0.000E+00                          1.067E-02   0.000E+00
+   167    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   168    1 0  0.000E+00  0.000E+00  0.000E+00
+   168    1 3  0.000E+00                          1.067E-02   0.000E+00
+   168    1 4  0.000E+00                          1.067E-02   0.000E+00
+   168    1 1  0.000E+00                          1.778E-02   0.000E+00
+   168    1 2  0.000E+00                          1.778E-02   0.000E+00
+   168    1 6  0.000E+00                          1.067E-02   0.000E+00
+   168    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   169    1 0  0.000E+00  0.000E+00  0.000E+00
+   169    1 3  0.000E+00                          1.778E-02   0.000E+00
+   169    1 4  0.000E+00                          1.778E-02   0.000E+00
+   169    1 1  0.000E+00                          1.067E-02   0.000E+00
+   169    1 2  0.000E+00                          1.067E-02   0.000E+00
+   169    1 6  0.000E+00                          1.067E-02   0.000E+00
+   169    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   170    1 0  0.000E+00  0.000E+00  0.000E+00
+   170    1 3  0.000E+00                          1.778E-02   0.000E+00
+   170    1 4  0.000E+00                          1.778E-02   0.000E+00
+   170    1 1  0.000E+00                          1.067E-02   0.000E+00
+   170    1 2  0.000E+00                          1.067E-02   0.000E+00
+   170    1 6  0.000E+00                          1.067E-02   0.000E+00
+   170    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   171    1 0  0.000E+00  0.000E+00  0.000E+00
+   171    1 3  0.000E+00                          1.067E-02   0.000E+00
+   171    1 4  0.000E+00                          1.067E-02   0.000E+00
+   171    1 1  0.000E+00                          1.778E-02   0.000E+00
+   171    1 2  0.000E+00                          1.778E-02   0.000E+00
+   171    1 6  0.000E+00                          1.067E-02   0.000E+00
+   171    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   172    1 0  0.000E+00  0.000E+00  0.000E+00
+   172    1 3  0.000E+00                          1.067E-02   0.000E+00
+   172    1 4  0.000E+00                          1.067E-02   0.000E+00
+   172    1 1  0.000E+00                          1.778E-02   0.000E+00
+   172    1 2  0.000E+00                          1.778E-02   0.000E+00
+   172    1 6  0.000E+00                          1.067E-02   0.000E+00
+   172    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   173    1 0  0.000E+00  0.000E+00  0.000E+00
+   173    1 3  0.000E+00                          1.778E-02   0.000E+00
+   173    1 4  0.000E+00                          1.778E-02   0.000E+00
+   173    1 1  0.000E+00                          1.067E-02   0.000E+00
+   173    1 2  0.000E+00                          1.067E-02   0.000E+00
+   173    1 6  0.000E+00                          1.067E-02   0.000E+00
+   173    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   174    1 0  0.000E+00  0.000E+00  0.000E+00
+   174    1 3  0.000E+00                          1.067E-02   0.000E+00
+   174    1 4  0.000E+00                          1.067E-02   0.000E+00
+   174    1 1  0.000E+00                          1.778E-02   0.000E+00
+   174    1 2  0.000E+00                          1.778E-02   0.000E+00
+   174    1 6  0.000E+00                          1.067E-02   0.000E+00
+   174    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   175    1 0  0.000E+00  0.000E+00  0.000E+00
+   175    1 3  0.000E+00                          1.778E-02   0.000E+00
+   175    1 4  0.000E+00                          1.778E-02   0.000E+00
+   175    1 1  0.000E+00                          1.067E-02   0.000E+00
+   175    1 2  0.000E+00                          1.067E-02   0.000E+00
+   175    1 6  0.000E+00                          1.067E-02   0.000E+00
+   175    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   176    1 0  0.000E+00  0.000E+00  0.000E+00
+   176    1 3  0.000E+00                          1.778E-02   0.000E+00
+   176    1 4  0.000E+00                          1.778E-02   0.000E+00
+   176    1 1  0.000E+00                          1.067E-02   0.000E+00
+   176    1 2  0.000E+00                          1.067E-02   0.000E+00
+   176    1 6  0.000E+00                          1.067E-02   0.000E+00
+   176    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   177    1 0  0.000E+00  0.000E+00  0.000E+00
+   177    1 3  0.000E+00                          1.067E-02   0.000E+00
+   177    1 4  0.000E+00                          1.067E-02   0.000E+00
+   177    1 1  0.000E+00                          1.778E-02   0.000E+00
+   177    1 2  0.000E+00                          1.778E-02   0.000E+00
+   177    1 6  0.000E+00                          1.067E-02   0.000E+00
+   177    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   178    1 0  0.000E+00  0.000E+00  0.000E+00
+   178    1 3  0.000E+00                          1.067E-02   0.000E+00
+   178    1 4  0.000E+00                          1.067E-02   0.000E+00
+   178    1 1  0.000E+00                          1.778E-02   0.000E+00
+   178    1 2  0.000E+00                          1.778E-02   0.000E+00
+   178    1 6  0.000E+00                          1.067E-02   0.000E+00
+   178    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   179    1 0  0.000E+00  0.000E+00  0.000E+00
+   179    1 3  0.000E+00                          1.067E-02   0.000E+00
+   179    1 4  0.000E+00                          1.067E-02   0.000E+00
+   179    1 1  0.000E+00                          1.778E-02   0.000E+00
+   179    1 2  0.000E+00                          1.778E-02   0.000E+00
+   179    1 6  0.000E+00                          1.067E-02   0.000E+00
+   179    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   180    1 0  0.000E+00  0.000E+00  0.000E+00
+   180    1 3  0.000E+00                          1.778E-02   0.000E+00
+   180    1 4  0.000E+00                          1.778E-02   0.000E+00
+   180    1 1  0.000E+00                          1.067E-02   0.000E+00
+   180    1 2  0.000E+00                          1.067E-02   0.000E+00
+   180    1 6  0.000E+00                          1.067E-02   0.000E+00
+   180    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   181    1 0  0.000E+00  0.000E+00  0.000E+00
+   181    1 3  0.000E+00                          1.067E-02   0.000E+00
+   181    1 4  0.000E+00                          1.067E-02   0.000E+00
+   181    1 1  0.000E+00                          1.778E-02   0.000E+00
+   181    1 2  0.000E+00                          1.778E-02   0.000E+00
+   181    1 6  0.000E+00                          1.067E-02   0.000E+00
+   181    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   182    1 0  0.000E+00  0.000E+00  0.000E+00
+   182    1 3  0.000E+00                          1.778E-02   0.000E+00
+   182    1 4  0.000E+00                          1.778E-02   0.000E+00
+   182    1 1  0.000E+00                          1.067E-02   0.000E+00
+   182    1 2  0.000E+00                          1.067E-02   0.000E+00
+   182    1 6  0.000E+00                          1.067E-02   0.000E+00
+   182    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   183    1 0  0.000E+00  0.000E+00  0.000E+00
+   183    1 3  0.000E+00                          1.778E-02   0.000E+00
+   183    1 4  0.000E+00                          1.778E-02   0.000E+00
+   183    1 1  0.000E+00                          1.067E-02   0.000E+00
+   183    1 2  0.000E+00                          1.067E-02   0.000E+00
+   183    1 6  0.000E+00                          1.067E-02   0.000E+00
+   183    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   184    1 0  0.000E+00  0.000E+00  0.000E+00
+   184    1 3  0.000E+00                          1.067E-02   0.000E+00
+   184    1 4  0.000E+00                          1.067E-02   0.000E+00
+   184    1 1  0.000E+00                          1.778E-02   0.000E+00
+   184    1 2  0.000E+00                          1.778E-02   0.000E+00
+   184    1 6  0.000E+00                          1.067E-02   0.000E+00
+   184    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   185    1 0  0.000E+00  0.000E+00  0.000E+00
+   185    1 3  0.000E+00                          1.778E-02   0.000E+00
+   185    1 4  0.000E+00                          1.778E-02   0.000E+00
+   185    1 1  0.000E+00                          1.067E-02   0.000E+00
+   185    1 2  0.000E+00                          1.067E-02   0.000E+00
+   185    1 6  0.000E+00                          1.067E-02   0.000E+00
+   185    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   186    1 0  0.000E+00  0.000E+00  0.000E+00
+   186    1 3  0.000E+00                          1.778E-02   0.000E+00
+   186    1 4  0.000E+00                          1.778E-02   0.000E+00
+   186    1 1  0.000E+00                          1.067E-02   0.000E+00
+   186    1 2  0.000E+00                          1.067E-02   0.000E+00
+   186    1 6  0.000E+00                          1.067E-02   0.000E+00
+   186    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   187    1 0  0.000E+00  0.000E+00  0.000E+00
+   187    1 3  0.000E+00                          1.067E-02   0.000E+00
+   187    1 4  0.000E+00                          1.067E-02   0.000E+00
+   187    1 1  0.000E+00                          1.778E-02   0.000E+00
+   187    1 2  0.000E+00                          1.778E-02   0.000E+00
+   187    1 6  0.000E+00                          1.067E-02   0.000E+00
+   187    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   188    1 0  0.000E+00  0.000E+00  0.000E+00
+   188    1 3  0.000E+00                          1.067E-02   0.000E+00
+   188    1 4  0.000E+00                          1.067E-02   0.000E+00
+   188    1 1  0.000E+00                          1.778E-02   0.000E+00
+   188    1 2  0.000E+00                          1.778E-02   0.000E+00
+   188    1 6  0.000E+00                          1.067E-02   0.000E+00
+   188    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   189    1 0  0.000E+00  0.000E+00  0.000E+00
+   189    1 3  0.000E+00                          1.067E-02   0.000E+00
+   189    1 4  0.000E+00                          1.067E-02   0.000E+00
+   189    1 1  0.000E+00                          1.778E-02   0.000E+00
+   189    1 2  0.000E+00                          1.778E-02   0.000E+00
+   189    1 6  0.000E+00                          1.067E-02   0.000E+00
+   189    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   190    1 0  0.000E+00  0.000E+00  0.000E+00
+   190    1 3  0.000E+00                          1.778E-02   0.000E+00
+   190    1 4  0.000E+00                          1.778E-02   0.000E+00
+   190    1 1  0.000E+00                          1.067E-02   0.000E+00
+   190    1 2  0.000E+00                          1.067E-02   0.000E+00
+   190    1 6  0.000E+00                          1.067E-02   0.000E+00
+   190    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   191    1 0  0.000E+00  0.000E+00  0.000E+00
+   191    1 3  0.000E+00                          1.778E-02   0.000E+00
+   191    1 4  0.000E+00                          1.778E-02   0.000E+00
+   191    1 1  0.000E+00                          1.067E-02   0.000E+00
+   191    1 2  0.000E+00                          1.067E-02   0.000E+00
+   191    1 6  0.000E+00                          1.067E-02   0.000E+00
+   191    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   192    1 0  0.000E+00  0.000E+00  0.000E+00
+   192    1 3  0.000E+00                          1.778E-02   0.000E+00
+   192    1 4  0.000E+00                          1.778E-02   0.000E+00
+   192    1 1  0.000E+00                          1.067E-02   0.000E+00
+   192    1 2  0.000E+00                          1.067E-02   0.000E+00
+   192    1 6  0.000E+00                          1.067E-02   0.000E+00
+   192    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   193    1 0  0.000E+00  0.000E+00  0.000E+00
+   193    1 3  0.000E+00                          1.067E-02   0.000E+00
+   193    1 4  0.000E+00                          1.067E-02   0.000E+00
+   193    1 1  0.000E+00                          1.778E-02   0.000E+00
+   193    1 2  0.000E+00                          1.778E-02   0.000E+00
+   193    1 6  0.000E+00                          1.067E-02   0.000E+00
+   193    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   194    1 0  0.000E+00  0.000E+00  0.000E+00
+   194    1 3  0.000E+00                          1.067E-02   0.000E+00
+   194    1 4  0.000E+00                          1.067E-02   0.000E+00
+   194    1 1  0.000E+00                          1.778E-02   0.000E+00
+   194    1 2  0.000E+00                          1.778E-02   0.000E+00
+   194    1 6  0.000E+00                          1.067E-02   0.000E+00
+   194    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   195    1 0  0.000E+00  0.000E+00  0.000E+00
+   195    1 3  0.000E+00                          1.067E-02   0.000E+00
+   195    1 4  0.000E+00                          1.067E-02   0.000E+00
+   195    1 1  0.000E+00                          1.778E-02   0.000E+00
+   195    1 2  0.000E+00                          1.778E-02   0.000E+00
+   195    1 6  0.000E+00                          1.067E-02   0.000E+00
+   195    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   196    1 0  0.000E+00  0.000E+00  0.000E+00
+   196    1 3  0.000E+00                          1.778E-02   0.000E+00
+   196    1 4  0.000E+00                          1.778E-02   0.000E+00
+   196    1 1  0.000E+00                          1.067E-02   0.000E+00
+   196    1 2  0.000E+00                          1.067E-02   0.000E+00
+   196    1 6  0.000E+00                          1.067E-02   0.000E+00
+   196    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   197    1 0  0.000E+00  0.000E+00  0.000E+00
+   197    1 3  0.000E+00                          1.067E-02   0.000E+00
+   197    1 4  0.000E+00                          1.067E-02   0.000E+00
+   197    1 1  0.000E+00                          1.778E-02   0.000E+00
+   197    1 2  0.000E+00                          1.778E-02   0.000E+00
+   197    1 6  0.000E+00                          1.067E-02   0.000E+00
+   197    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   198    1 0  0.000E+00  0.000E+00  0.000E+00
+   198    1 3  0.000E+00                          1.067E-02   0.000E+00
+   198    1 4  0.000E+00                          1.067E-02   0.000E+00
+   198    1 1  0.000E+00                          1.778E-02   0.000E+00
+   198    1 2  0.000E+00                          1.778E-02   0.000E+00
+   198    1 6  0.000E+00                          1.067E-02   0.000E+00
+   198    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   199    1 0  0.000E+00  0.000E+00  0.000E+00
+   199    1 3  0.000E+00                          1.067E-02   0.000E+00
+   199    1 4  0.000E+00                          1.067E-02   0.000E+00
+   199    1 1  0.000E+00                          1.778E-02   0.000E+00
+   199    1 2  0.000E+00                          1.778E-02   0.000E+00
+   199    1 6  0.000E+00                          1.067E-02   0.000E+00
+   199    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   200    1 0  0.000E+00  0.000E+00  0.000E+00
+   200    1 3  0.000E+00                          1.067E-02   0.000E+00
+   200    1 4  0.000E+00                          1.067E-02   0.000E+00
+   200    1 1  0.000E+00                          1.778E-02   0.000E+00
+   200    1 2  0.000E+00                          1.778E-02   0.000E+00
+   200    1 6  0.000E+00                          1.067E-02   0.000E+00
+   200    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   201    1 0  0.000E+00  0.000E+00  0.000E+00
+   201    1 3  0.000E+00                          1.778E-02   0.000E+00
+   201    1 4  0.000E+00                          1.778E-02   0.000E+00
+   201    1 1  0.000E+00                          1.067E-02   0.000E+00
+   201    1 2  0.000E+00                          1.067E-02   0.000E+00
+   201    1 6  0.000E+00                          1.067E-02   0.000E+00
+   201    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   202    1 0  0.000E+00  0.000E+00  0.000E+00
+   202    1 3  0.000E+00                          1.067E-02   0.000E+00
+   202    1 4  0.000E+00                          1.067E-02   0.000E+00
+   202    1 1  0.000E+00                          1.778E-02   0.000E+00
+   202    1 2  0.000E+00                          1.778E-02   0.000E+00
+   202    1 6  0.000E+00                          1.067E-02   0.000E+00
+   202    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   203    1 0  0.000E+00  0.000E+00  0.000E+00
+   203    1 3  0.000E+00                          1.067E-02   0.000E+00
+   203    1 4  0.000E+00                          1.067E-02   0.000E+00
+   203    1 1  0.000E+00                          1.778E-02   0.000E+00
+   203    1 2  0.000E+00                          1.778E-02   0.000E+00
+   203    1 6  0.000E+00                          1.067E-02   0.000E+00
+   203    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   204    1 0  0.000E+00  0.000E+00  0.000E+00
+   204    1 3  0.000E+00                          1.778E-02   0.000E+00
+   204    1 4  0.000E+00                          1.778E-02   0.000E+00
+   204    1 1  0.000E+00                          1.067E-02   0.000E+00
+   204    1 2  0.000E+00                          1.067E-02   0.000E+00
+   204    1 6  0.000E+00                          1.067E-02   0.000E+00
+   204    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   205    1 0  0.000E+00  0.000E+00  0.000E+00
+   205    1 3  0.000E+00                          1.778E-02   0.000E+00
+   205    1 4  0.000E+00                          1.778E-02   0.000E+00
+   205    1 1  0.000E+00                          1.067E-02   0.000E+00
+   205    1 2  0.000E+00                          1.067E-02   0.000E+00
+   205    1 6  0.000E+00                          1.067E-02   0.000E+00
+   205    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   206    1 0  0.000E+00  0.000E+00  0.000E+00
+   206    1 3  0.000E+00                          1.778E-02   0.000E+00
+   206    1 4  0.000E+00                          1.778E-02   0.000E+00
+   206    1 1  0.000E+00                          1.067E-02   0.000E+00
+   206    1 2  0.000E+00                          1.067E-02   0.000E+00
+   206    1 6  0.000E+00                          1.067E-02   0.000E+00
+   206    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   207    1 0  0.000E+00  0.000E+00  0.000E+00
+   207    1 3  0.000E+00                          1.067E-02   0.000E+00
+   207    1 4  0.000E+00                          1.067E-02   0.000E+00
+   207    1 1  0.000E+00                          1.778E-02   0.000E+00
+   207    1 2  0.000E+00                          1.778E-02   0.000E+00
+   207    1 6  0.000E+00                          1.067E-02   0.000E+00
+   207    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   208    1 0  0.000E+00  0.000E+00  0.000E+00
+   208    1 3  0.000E+00                          1.067E-02   0.000E+00
+   208    1 4  0.000E+00                          1.067E-02   0.000E+00
+   208    1 1  0.000E+00                          1.778E-02   0.000E+00
+   208    1 2  0.000E+00                          1.778E-02   0.000E+00
+   208    1 6  0.000E+00                          1.067E-02   0.000E+00
+   208    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   209    1 0  0.000E+00  0.000E+00  0.000E+00
+   209    1 3  0.000E+00                          1.778E-02   0.000E+00
+   209    1 4  0.000E+00                          1.778E-02   0.000E+00
+   209    1 1  0.000E+00                          1.067E-02   0.000E+00
+   209    1 2  0.000E+00                          1.067E-02   0.000E+00
+   209    1 6  0.000E+00                          1.067E-02   0.000E+00
+   209    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   210    1 0  0.000E+00  0.000E+00  0.000E+00
+   210    1 3  0.000E+00                          1.067E-02   0.000E+00
+   210    1 4  0.000E+00                          1.067E-02   0.000E+00
+   210    1 1  0.000E+00                          1.778E-02   0.000E+00
+   210    1 2  0.000E+00                          1.778E-02   0.000E+00
+   210    1 6  0.000E+00                          1.067E-02   0.000E+00
+   210    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   211    1 0  0.000E+00  0.000E+00  0.000E+00
+   211    1 3  0.000E+00                          1.778E-02   0.000E+00
+   211    1 4  0.000E+00                          1.778E-02   0.000E+00
+   211    1 1  0.000E+00                          1.067E-02   0.000E+00
+   211    1 2  0.000E+00                          1.067E-02   0.000E+00
+   211    1 6  0.000E+00                          1.067E-02   0.000E+00
+   211    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   212    1 0  0.000E+00  0.000E+00  0.000E+00
+   212    1 3  0.000E+00                          1.778E-02   0.000E+00
+   212    1 4  0.000E+00                          1.778E-02   0.000E+00
+   212    1 1  0.000E+00                          1.067E-02   0.000E+00
+   212    1 2  0.000E+00                          1.067E-02   0.000E+00
+   212    1 6  0.000E+00                          1.067E-02   0.000E+00
+   212    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   213    1 0  0.000E+00  0.000E+00  0.000E+00
+   213    1 3  0.000E+00                          1.778E-02   0.000E+00
+   213    1 4  0.000E+00                          1.778E-02   0.000E+00
+   213    1 1  0.000E+00                          1.067E-02   0.000E+00
+   213    1 2  0.000E+00                          1.067E-02   0.000E+00
+   213    1 6  0.000E+00                          1.067E-02   0.000E+00
+   213    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   214    1 0  0.000E+00  0.000E+00  0.000E+00
+   214    1 3  0.000E+00                          1.067E-02   0.000E+00
+   214    1 4  0.000E+00                          1.067E-02   0.000E+00
+   214    1 1  0.000E+00                          1.778E-02   0.000E+00
+   214    1 2  0.000E+00                          1.778E-02   0.000E+00
+   214    1 6  0.000E+00                          1.067E-02   0.000E+00
+   214    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   215    1 0  0.000E+00  0.000E+00  0.000E+00
+   215    1 3  0.000E+00                          1.067E-02   0.000E+00
+   215    1 4  0.000E+00                          1.067E-02   0.000E+00
+   215    1 1  0.000E+00                          1.778E-02   0.000E+00
+   215    1 2  0.000E+00                          1.778E-02   0.000E+00
+   215    1 6  0.000E+00                          1.067E-02   0.000E+00
+   215    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   216    1 0  0.000E+00  0.000E+00  0.000E+00
+   216    1 3  0.000E+00                          1.067E-02   0.000E+00
+   216    1 4  0.000E+00                          1.067E-02   0.000E+00
+   216    1 1  0.000E+00                          1.778E-02   0.000E+00
+   216    1 2  0.000E+00                          1.778E-02   0.000E+00
+   216    1 6  0.000E+00                          1.067E-02   0.000E+00
+   216    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   217    1 0  0.000E+00  0.000E+00  0.000E+00
+   217    1 3  0.000E+00                          1.067E-02   0.000E+00
+   217    1 4  0.000E+00                          1.067E-02   0.000E+00
+   217    1 1  0.000E+00                          1.778E-02   0.000E+00
+   217    1 2  0.000E+00                          1.778E-02   0.000E+00
+   217    1 6  0.000E+00                          1.067E-02   0.000E+00
+   217    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   218    1 0  0.000E+00  0.000E+00  0.000E+00
+   218    1 3  0.000E+00                          1.778E-02   0.000E+00
+   218    1 4  0.000E+00                          1.778E-02   0.000E+00
+   218    1 1  0.000E+00                          1.067E-02   0.000E+00
+   218    1 2  0.000E+00                          1.067E-02   0.000E+00
+   218    1 6  0.000E+00                          1.067E-02   0.000E+00
+   218    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   219    1 0  0.000E+00  0.000E+00  0.000E+00
+   219    1 3  0.000E+00                          1.778E-02   0.000E+00
+   219    1 4  0.000E+00                          1.778E-02   0.000E+00
+   219    1 1  0.000E+00                          1.067E-02   0.000E+00
+   219    1 2  0.000E+00                          1.067E-02   0.000E+00
+   219    1 6  0.000E+00                          1.067E-02   0.000E+00
+   219    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   220    1 0  0.000E+00  0.000E+00  0.000E+00
+   220    1 3  0.000E+00                          1.778E-02   0.000E+00
+   220    1 4  0.000E+00                          1.778E-02   0.000E+00
+   220    1 1  0.000E+00                          1.067E-02   0.000E+00
+   220    1 2  0.000E+00                          1.067E-02   0.000E+00
+   220    1 6  0.000E+00                          1.067E-02   0.000E+00
+   220    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   221    1 0  0.000E+00  0.000E+00  0.000E+00
+   221    1 3  0.000E+00                          1.778E-02   0.000E+00
+   221    1 4  0.000E+00                          1.778E-02   0.000E+00
+   221    1 1  0.000E+00                          1.067E-02   0.000E+00
+   221    1 2  0.000E+00                          1.067E-02   0.000E+00
+   221    1 6  0.000E+00                          1.067E-02   0.000E+00
+   221    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   222    1 0  0.000E+00  0.000E+00  0.000E+00
+   222    1 3  0.000E+00                          1.778E-02   0.000E+00
+   222    1 4  0.000E+00                          1.778E-02   0.000E+00
+   222    1 1  0.000E+00                          1.067E-02   0.000E+00
+   222    1 2  0.000E+00                          1.067E-02   0.000E+00
+   222    1 6  0.000E+00                          1.067E-02   0.000E+00
+   222    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   223    1 0  0.000E+00  0.000E+00  0.000E+00
+   223    1 3  0.000E+00                          1.778E-02   0.000E+00
+   223    1 4  0.000E+00                          1.778E-02   0.000E+00
+   223    1 1  0.000E+00                          1.067E-02   0.000E+00
+   223    1 2  0.000E+00                          1.067E-02   0.000E+00
+   223    1 6  0.000E+00                          1.067E-02   0.000E+00
+   223    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   224    1 0  0.000E+00  0.000E+00  0.000E+00
+   224    1 3  0.000E+00                          1.067E-02   0.000E+00
+   224    1 4  0.000E+00                          1.067E-02   0.000E+00
+   224    1 1  0.000E+00                          1.778E-02   0.000E+00
+   224    1 2  0.000E+00                          1.778E-02   0.000E+00
+   224    1 6  0.000E+00                          1.067E-02   0.000E+00
+   224    1 5  0.000E+00                          1.067E-02   0.000E+00
+                                                  
+   225    1 0  0.000E+00  0.000E+00  0.000E+00
+   225    1 3  0.000E+00                          1.067E-02   0.000E+00
+   225    1 4  0.000E+00                          1.067E-02   0.000E+00
+   225    1 1  0.000E+00                          1.778E-02   0.000E+00
+   225    1 2  0.000E+00                          1.778E-02   0.000E+00
+   225    1 6  0.000E+00                          1.067E-02   0.000E+00
+   225    1 5  0.000E+00                          1.067E-02   0.000E+00
+ 
+                                                  
+ **** TEMPORARY FILE STORAGE (MEGABYTES)          
+      ----------------------------------          
+       UNIT NO.  7 :    0.000
+       UNIT NO.  8 :    0.000
+       UNIT NO.  9 :    0.004
+       UNIT NO. 10 :    0.000
+       UNIT NO. 11 :    0.663
+       UNIT NO. 12 :    0.000
+       UNIT NO. 13 :    0.000
+       UNIT NO. 14 :    0.008
+       UNIT NO. 15 :    0.000
+       UNIT NO. 17 :    0.141
+       UNIT NO. 18 :    0.000
+       UNIT NO. 19 :    0.000
+       UNIT NO. 45 :    0.000
+       UNIT NO. 46 :    0.004
+
+       TOTAL       :    0.820
+
+
+
+ **** END OF FILE
+ 

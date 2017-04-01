@@ -1,0 +1,15 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	10/11/15 20:11:45
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.fem
+
+    Command Line: "-a=100" C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.080000 / 0.133333
+    Node matching tolerance: 0.0016
+    Found 0 matched corner node pairs.
+
+    Duration: 1 seconds
+

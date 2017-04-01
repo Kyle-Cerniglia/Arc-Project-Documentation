@@ -1,0 +1,15 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	10/11/15 20:12:26
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.fem
+
+    Command Line: "-w" -ds=1 C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Copper Plate.fem
+    Generate contacts, and node pairs to be bonded and free
+    Model: 3D
+    Analysis Type Category: 2 (Heat Transfer)
+    Found 0 matched corner node pairs, and 0 matched midside node pairs.
+
+    Duration: 0 seconds

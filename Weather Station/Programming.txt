@@ -1,0 +1,28 @@
+TX
+	Read and save thermal data
+	Read and save humidity data
+	Convert saved data to binary
+	Combine binary data into a bytestream
+	Transmit bytestream
+		Signal pulse for one second
+		Silence for one second
+		LSB transfer with 0.5 second pulses
+	Clear data
+	Wait one minute
+RX
+	Standby mode:
+	Indoor/Outdoor button switches the thermometer to internal real time
+	Reset button erases history data
+	Waits for signal pulse
+
+	RX mode triggered by signal pulse
+	Test signal legitamacy by checking back in 0.75 seconds
+		If true then wait for then end of the pulse
+		If false return to standby mode
+	Start reading data at 0.5 second intervals 1.5 seconds after the end of the signal pulse
+		Reconstruct bytestream
+	Deconstruct the bytestream and save the binary data
+	Convert binary data to decimal
+	Compare new data with saved history and rewrite history if needed
+	Update display information
+	Enter standby mode

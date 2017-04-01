@@ -1,0 +1,16 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	10/11/15 20:05:49
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Basic Peltier Heat Transfer.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Basic Peltier Heat Transfer.fem
+
+    Command Line: "-a=100" -t=-0.005 C:\Users\Kyle\Documents\Project documentation\Thermoelectric Generator\CAD\Basic Peltier Heat Transfer.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.020000 / 0.133333
+    Shortest/Longest line in Part 2 : 0.080000 / 0.133333
+    Node matching tolerance: 0.005
+    Found 256 matched corner node pairs.
+
+    Duration: 0 seconds
+
