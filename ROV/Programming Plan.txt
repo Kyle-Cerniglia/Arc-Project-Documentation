@@ -1,0 +1,63 @@
+Nibstream
+	Eacy joy axis is from 0-14 with 7 being neutral
+	0=255
+	1=219
+	2=183
+	3=147
+	4=111
+	5=75
+	6=39
+	7= Nothing
+	8=39
+	9=75
+	10=111
+	11=147
+	12=183
+	13=219
+	14=255
+
+	Buttons are a nib, a bit for each button
+
+	Initiation nib: 1010
+	Left Joy Y nib
+	Left Joy X nib
+	Right Joy Y nib
+	Right Joy X nib
+	Button nib: L Front, R Front, L Back, R Back
+	Closing nib: 1010
+
+CONTROLLER
+	Switch(0): Mode Select
+	R Front Button(2): Lights
+	Left Joy
+		Y(6): Forward
+		-Y(6): Backward
+		-X(4): Rotate Left
+		X(4): Rotate Right
+	Right Joy
+		Y(10): Up
+		-Y(10): Down
+
+ROV
+	Direction: 0=Fwd 1=Back
+	Motor A=Left
+	Motor B=Right
+	Motor C=Middle
+
+	Idle: 4,5,6,7,8,9,10,12,18,19=0
+	||
+	Forward: 8,9=0, 18,19=PWM
+	||
+	Backwards: 8,9=1 18,19=PWM
+	||
+	Rotate  Left: 8=0, 9=1, 18,19=PWM
+	||
+	Rotate Right: 8=1, 9=0, 18,19=PWM
+	&&
+	Up: 7=0, 10=PWM
+	||
+	Down: 7=1, 10=PWM
+	&&
+	Lights on: 16=1
+	||
+	Lights off: 16=0

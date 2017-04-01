@@ -1,0 +1,7 @@
+Volume: 0.00313m3
+Weight: 2.4kg
+
+force of buoyance w/o stuff: 30.67N
+Net bouyancy w/o stuff: 7.15N
+
+Needed weight: 0.73kg or 1.6lbs
