@@ -1,0 +1,19 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	02/16/16 23:17:20
+
+    Input : C:\Users\Kyle\Documents\Autodesk\Output\Inventor 2015\Electronics\Transistors\TO-220 Transistor.fem
+    Output: C:\Users\Kyle\Documents\Autodesk\Output\Inventor 2015\Electronics\Transistors\TO-220 Transistor.fem
+
+    Command Line: "-a=100" -t=-0.0006 C:\Users\Kyle\Documents\Autodesk\Output\Inventor 2015\Electronics\Transistors\TO-220 Transistor.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.007244 / 0.033315
+    Shortest/Longest line in Part 2 : 0.009768 / 0.027261
+    Shortest/Longest line in Part 3 : 0.004851 / 0.019474
+    Shortest/Longest line in Part 4 : 0.004851 / 0.019474
+    Shortest/Longest line in Part 5 : 0.004851 / 0.019474
+    Node matching tolerance: 0.0006
+    Found 157 matched corner node pairs.
+
+    Duration: 1 seconds
+

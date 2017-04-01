@@ -1,0 +1,30 @@
+ Autodesk (R) Simulation Thermal Decoder for AGSDB
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+
+** Model [C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\1W.ds_data\1\ds] opened
+
+   --- 6770 nodes
+   --- 5 element parts ...
+   --- Part(5): 997 type 39 elements, done.
+   --- Part(4): 997 type 39 elements, done.
+   --- Part(3): 997 type 39 elements, done.
+   --- Part(2): 994 type 39 elements, done.
+   --- Part(1): 4653 type 39 elements, done.
+
+** Model [C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\1W.ds_data\1\ds] done
+
+ Autodesk (R) Simulation Fluid Flow Analysis Decoder for AGSDB
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved. 
+
+ Invalid analysis type definition. id = 0 
+ Autodesk (R) Simulation Surface-to-Surface Radiation Management
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+ Model [C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\1W.ds_data\1\ds] opened for checking/generating radiation data...
+
+ No Body-to-Body radiation enclosure enabled.
+

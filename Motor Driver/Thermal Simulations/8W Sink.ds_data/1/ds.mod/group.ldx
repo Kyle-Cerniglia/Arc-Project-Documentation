@@ -1,0 +1,57 @@
+fem2esh - Make esh file from fem file for a specified design scenario
+Version 2016.00.00.3017-W64/X64 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+  Version of fem2esh.exe          : 2016.00003017
+  Version of dcx1-win-x64.dll     : 2016.00003017
+  Version of femapi-win-x64.dll   : 2016.00003017
+  Version of agsdb_ar-win-x64.dll : 2016.00003017
+  Version of tsx2tsy.exe          : 2016.00003017
+
+  Input Model     : C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\8W Sink.ds_data\1\ds
+  Input File      : C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\8W Sink.fem
+  Output File     : C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\8W Sink.ds_data\1\ds.mod\group.esh
+  Log File        : C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\8W Sink.ds_data\1\ds.mod\group.ldx
+  Design scenario : 1
+  Solver type     : Thermal
+  Start time      : 2016/02/16-23:59:43  
+
+  --- Get 6 active element parts in range [1, 6] from fem file
+  --- 6 enabled L&C groups are defined
+  --- Get 21084 points defined in range [1, 21113] from fem file
+  Calling the Surface Topology Generator (tsx2tsy)...
+  tsx2tsy: Update part surface contact/bonding data (duration=0 sec.)
+  --- No mid-side node required
+  Set up nodal properties such as admissible BC etc. by adjacent elements...
+  --- Load up 2031 non-trivial coincident nodal pairs of 2031 in FEM
+  Consolidate points between parts using contact definitions...
+  --- 737 out of 737 contact definitions have been used in bonding nodes
+  Compress FEM points to ESH nodes...
+  --- Found 9938 independent nodes
+  --- 9938 mesh nodes formed from 21084 FEM points
+  Output the mapping arrays of FEM points to FEA nodes...
+  Loop 1 contact pairs to build enabled contacts...
+  Writing to ESH file in phase I (nodes & elements)...
+  --- Part1: type=39, flags=7, meshType=10, elements=4651, maximumID=4651
+  --- Part2: type=39, flags=7, meshType=10, elements=994, maximumID=994
+  --- Part3: type=39, flags=7, meshType=10, elements=997, maximumID=997
+  --- Part4: type=39, flags=7, meshType=10, elements=1023, maximumID=1023
+  --- Part5: type=39, flags=7, meshType=10, elements=997, maximumID=997
+  --- Part6: type=39, flags=7, meshType=10, elements=6504, maximumID=6504
+  Working on MPCs...
+  --- No MPC made in the model.
+  Writing to ESH file in phase II (FEA objects)...
+
+  Use global coordinate system, no local coordinate system defined.
+
+
+  == Model Stats ==
+
+  FEA Nodes & Elements:
+  --- 9938 mesh nodes
+  --- 712 nodes bonded.
+  --- 6 parts and total 15166 elements
+  FEA Object: None
+  FEM2ESH Duration: 0 seconds (CPU time)
+
+2016/02/16-23:59:43
