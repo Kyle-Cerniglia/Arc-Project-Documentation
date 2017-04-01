@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458267038 source:c:\users\kyle\documents\project documentation\sam\programs\smsreader\main.cpp
+	<stdio.h>
+	<cstring>
+
