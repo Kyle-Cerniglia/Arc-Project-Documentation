@@ -1,0 +1,131 @@
+
+
+Autodesk (R) Simulation Steady-State Heat Transfer
+Version 2016.00.00.3017-W64/X64 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+ **** Memory Dynamically Allocated =   4164856 KB
+ **** Steady-State Heat Transfer Analysis
+ 
+ ----------------------------------------------------------------
+      DATE: FEBRUARY 16, 2016             
+      TIME: 11:57 PM
+      Input Model: C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Transistor Heatsinkc.ds_data\1\ds
+
+
+                        PROGRAM VERSION: 201600003017
+                alg-win-x64.dll VERSION: 201600003017
+          algconfig-win-x64.dll VERSION: 201600003017
+           agsdb_ar-win-x64.dll VERSION: 201600003017
+     solvercallback-win-x64.dll VERSION: 201600003017
+                   amgsolve.exe VERSION:   0360000000
+ 
+  
+      Options executed are: 
+      NOMIN
+      SUPSTR
+  
+  
+      processing ... 
+  
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+ **** OPENING TEMPORARY FILES
+      NDYN = 10 
+ **** BEGIN NODAL DATA INPUT
+      Node     number=      9938
+      Equation number=      9938
+ **** END   NODAL DATA INPUT
+
+ WARNING: Model has non-linearity through radiation on boundary
+          face of element. Nonlinear flag has not been set by 
+          user. The current settings for non-linear iteration
+          control are used. This may lead to inaccurate results.
+
+          The "Advanced" tab of the "Global" data screen
+          sets up the nonlinear analyses.
+
+ **** HARD DISK FILE SIZE INFORMATION FOR PROCESSOR:
+
+      Available hard disk space on C drive = 434271.621 megabytes
+
+ **** BEGIN NODAL HEAT FLOW INPUT
+ **** END   NODAL HEAT FLOW INPUT
+
+ **** 
+ **** Invoking BCSLIB-EXT Sparse Solver ...
+ **** 
+
+
+ **** BEGIN NON-LINEAR ITERATIONS
+
+      Nonlin Iter.  Incr. Norm(T)  Rel. Norm(T)
+      -----------   ------------   -----------
+                1   9.125E+01      1.000E+00
+                3   3.354E-02      3.747E-04
+
+ **** END   NON-LINEAR ITERATIONS
+  
+ **** CONVERGED SOLUTION OBTAINED
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      4651 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      994 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      997 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      1023 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      997 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      6504 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+
+ **** Table for actual hard disk space used:
+      ds.t7  =      77.648 kilobytes
+      ds.t8  =     470.625 kilobytes
+      ds.t9  =      41.250 kilobytes
+      ds.t10 =      41.250 kilobytes
+      ds.t11 =   23282.508 kilobytes
+      ds.t12 =       0.000 kilobytes
+      ds.t13 =      41.250 kilobytes
+      ds.t14 =       0.375 kilobytes
+      ds.t15 =      41.250 kilobytes
+      ds.t18 =      41.250 kilobytes
+      ds.t65 =      77.648 kilobytes
+      ds.t67 =    7443.633 kilobytes
+ 
+      total temporary disk storage (megabytes) = 30.819 
+ 
+ **** BEGIN DELETING TEMPORARY FILES
+ **** TEMPORARY FILES DELETED
+ **** END OF SUCCESSFUL EXECUTION
+ 
+ Processing completed for model C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Transistor Heatsinkc.ds_data\1\ds
+ 
+      ds.l10   =       5.211 kilobytes
+      ds.to    =     465.891 kilobytes
+      ds.hfo   =     533.305 kilobytes
+
+      Total actual hard disk space used    =     32.321 megabytes
+
+      Total elapsed time                   =      0.105 minutes
+

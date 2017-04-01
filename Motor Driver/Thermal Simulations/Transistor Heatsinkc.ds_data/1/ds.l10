@@ -1,0 +1,134 @@
+
+
+Autodesk (R) Simulation Steady-State Heat Transfer
+Version 2016.00.00.3017-W64/X64 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+      DATE: FEBRUARY 16, 2016             
+      TIME: 11:57 PM
+      Input Model: C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Transistor Heatsinkc.ds_data\1\ds
+
+
+                        PROGRAM VERSION: 201600003017
+                alg-win-x64.dll VERSION: 201600003017
+          algconfig-win-x64.dll VERSION: 201600003017
+           agsdb_ar-win-x64.dll VERSION: 201600003017
+     solvercallback-win-x64.dll VERSION: 201600003017
+                   amgsolve.exe VERSION:   0360000000
+ 
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+ 
+
+                                                  
+ **** CONTROL INFORMATION                         
+                                                  
+      number of node points                    =    9938
+      number of element types                  =    6
+      analysis type code                       =    10
+      equations per block                      =    0
+      bandwidth minimization flag              =    0
+
+ **** PHYSICAL CONSTANTS USED WHEN APPLICABLE 
+
+      The Stefan-Boltzmann Constant      =  3.083E-11
+      Temperature Increment to Absolute  =  4.597E+02
+                                                  
+ **** NON-LINEAR ITERATION CONTROL PARAMETERS     
+ 
+      Nonlinear control option           =          OFF
+      Convergence criterion              =          2
+      Maximum number of iterations       =          15
+      Interval for monitoring            =          5
+      Corrective tolerance               =          1.0000E-03
+      Relative tolerance                 =          1.0000E-03
+      Relaxation parameter               =          1.0000E+00
+ 
+ **** PRINT OF NODAL DATA SUPPRESSED              
+ 
+ **** PRINT OF EQUATION NUMBERS SUPPRESSED        
+
+ **** FLUID FLOW CONVECTION IS NOT INCLUDED IN THIS MODEL.
+
+
+ WARNING: Model has non-linearity through radiation on boundary
+          face of element. Nonlinear flag has not been set by 
+          user. The current settings for non-linear iteration
+          control are used. This may lead to inaccurate results.
+
+          The "Advanced" tab of the "Global" data screen
+          sets up the nonlinear analyses.
+
+ **** HARD DISK FILE SIZE INFORMATION FOR PROCESSOR:
+
+      Available hard disk space on C drive = 434271.621 megabytes
+
+                                                  
+ **** LOAD CASE MULTIPLIERS                       
+                                                  
+      Boundary temperature multiplier       1.000
+      Convection multiplier                 1.000
+      Radiation multiplier                  1.000
+      Heat generation multiplier            1.000
+
+ **** 
+ **** Invoking BCSLIB-EXT Sparse Solver ...
+ **** 
+      BCSLIB-EXT solver memory status:  
+      in-core memory requirement (MB) =           11.86
+      minimum memory requirement (MB) =            3.36
+           user specified memory (MB) =         4025.58
+       available physical memory (MB) =         4025.58
+        available virtual memory (MB) =        10779.53
+      memory currently allocated (MB) =           11.86
+      BCSLIB-EXT solver memory status:  
+      in-core memory requirement (MB) =           11.86
+      minimum memory requirement (MB) =            3.36
+           user specified memory (MB) =         4025.34
+       available physical memory (MB) =         4025.34
+        available virtual memory (MB) =        10778.44
+      memory currently allocated (MB) =           11.86
+      BCSLIB-EXT solver memory status:  
+      in-core memory requirement (MB) =           11.86
+      minimum memory requirement (MB) =            3.36
+           user specified memory (MB) =         4012.11
+       available physical memory (MB) =         4012.11
+        available virtual memory (MB) =        10757.52
+      memory currently allocated (MB) =           11.86
+                                                  
+ **** CONVERGED SOLUTION OBTAINED                 
+                                                  
+ **** TEMPORARY FILE STORAGE (MEGABYTES)          
+      ----------------------------------          
+       UNIT NO.  7 :      0.076
+       UNIT NO.  8 :      0.460
+       UNIT NO.  9 :      0.040
+       UNIT NO. 10 :      0.040
+       UNIT NO. 11 :     22.737
+       UNIT NO. 12 :      0.000
+       UNIT NO. 13 :      0.040
+       UNIT NO. 14 :      0.000
+       UNIT NO. 15 :      0.040
+       UNIT NO. 18 :      0.040
+       UNIT NO. 65 :      0.076
+       UNIT NO. 67 :      7.269
+
+       TOTAL       :      30.819
+
+
+
+ **** End of File **** 
+ 
