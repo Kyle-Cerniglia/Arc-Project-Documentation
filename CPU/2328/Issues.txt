@@ -1,0 +1,4 @@
+AVR2 MISO (16) not connected to pin 9
+AVR2 I2CBUSY (12) not connected
+AVR2 RX not (30) connected to pin 5
+Ordered wrong size 4.7uF capacitor
