@@ -1,0 +1,56 @@
+
+Meshing Curves ...
+ 12 curves, 6 faces, Mesh size = 0.0425 (100.00 %)  
+ Turnaround time:    0.000 seconds; Execution time:    0.060 seconds 
+    DIMENSION_BASED_MESHING_CURVE
+
+Meshing part 1 ...
+ 2432 elements, 4 surfaces, 6 faces, Mesh size = 0.117778 (277.12 %)  
+ Turnaround time:    0.620 seconds; Execution time:    0.210 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Total time: 1 seconds. 07/04/14 17:44:17. TSMESH V2013.0, 28-Feb-2012.
+=========================================================================
+
+
+Meshing Curves ...
+ 12 curves, 6 faces, Mesh size = 0.0425 (100.00 %)  
+ Turnaround time:    0.000 seconds; Execution time:    0.030 seconds 
+    DIMENSION_BASED_MESHING_CURVE
+
+Meshing part 1 ...
+ 2432 elements, 4 surfaces, 6 faces, Mesh size = 0.117778 (277.12 %)  
+ Turnaround time:    0.590 seconds; Execution time:    0.220 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Total time: 1 seconds. 07/04/14 17:45:00. TSMESH V2013.0, 28-Feb-2012.
+=========================================================================
+
+
+Meshing Curves ...
+ 12 curves, 6 faces, Mesh size = 0.0425 (100.00 %)  
+ Turnaround time:    0.000 seconds; Execution time:    0.030 seconds 
+    DIMENSION_BASED_MESHING_CURVE
+
+Meshing part 1 ...
+ 2432 elements, 4 surfaces, 6 faces, Mesh size = 0.117778 (277.12 %)  
+ Turnaround time:    0.560 seconds; Execution time:    0.210 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Total time: 1 seconds. 07/04/14 17:47:31. TSMESH V2013.0, 28-Feb-2012.
+=========================================================================
+
+
+Meshing Curves ...
+ 12 curves, 6 faces, Mesh size = 0.0425 (100.00 %)  
+ Turnaround time:    0.000 seconds; Execution time:    0.030 seconds 
+    DIMENSION_BASED_MESHING_CURVE
+
+Meshing part 1 ...
+ 2432 elements, 4 surfaces, 6 faces, Mesh size = 0.117778 (277.12 %)  
+ Turnaround time:    0.590 seconds; Execution time:    0.310 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Total time: 1 seconds. 07/04/14 17:48:34. TSMESH V2013.0, 28-Feb-2012.
+=========================================================================
+

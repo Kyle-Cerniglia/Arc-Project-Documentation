@@ -1,0 +1,15 @@
+ Autodesk (R) Simulation Fluid Flow Analysis Decoder for AGSDB
+ Version 2013.00.00.0411-W64/X64 28-Feb-2012
+ Copyright (c) 2012, Autodesk, Inc. All rights reserved. 
+
+ Model [C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.ds_data\2\ds] opened
+
+ Zapping NODES, ELEMENTS, NODECOND, and ELEMCOND tables ...
+ Start to make model...
+ Start to make Egroup(3) [type=73] ...
+ Made 38 element tables
+ Start to make Egroup(1) [type=63] ...
+ Made 3664 element tables
+
+ Model [C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.ds_data\2\ds] done
+

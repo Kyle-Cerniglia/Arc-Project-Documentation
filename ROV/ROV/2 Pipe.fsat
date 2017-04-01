@@ -1,0 +1,76 @@
+700 0 1 0           
+19 Autodesk Simulation 19 ASM 218.0.0.5112 NT 24 Fri Jul 04 17:46:06 2014 
+25.399999999999999 9.9999999999999995e-007 1e-010 
+body $1 -1 $-1 $2 $-1 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $3 $-1 $0 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @57 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA- #
+lump $-1 -1 $-1 $-1 $4 $0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $5 $1 $0 keep keep_kept ignore copy @67 RenderMaterialAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @184 +Pj4+Pj4+P+5eXl5eXl4/7h8fHx8fHz/vAAAAAAAAP/A+Pj4+Pj4/7l5eXl5eXj/uHx8fHx8fP+8AAAAAAAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAP/AAAAAAAAA/8AAAAAAAAD/wAAAAAAAAP/AAAKAA2ZlASQ- #
+shell $-1 -1 $-1 $-1 $-1 $6 $-1 $2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $7 $3 $0 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38 +ABgAAA-AwIAAAgAAAAAAAAAAgAAAA+AD0APQ- #
+face $8 -1 $-1 $9 $10 $4 $-1 $11 reversed single #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $12 $5 $0 copy keep_all ignore copy @13 BODY_TYPE_FEA 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $13 $-1 $6 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @118 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAw- +-AAAAAAAAAAIAAAABAAAAAwAAAAQAAAAGAAAABwAAAAYAAA- #
+face $14 -1 $-1 $15 $16 $4 $-1 $17 forward single #
+loop $-1 -1 $-1 $18 $19 $6 #
+cone-surface $-1 -1 $-1 0 0 0 0 0 1 -0.30499999999999999 0 0 1 I I 0 1 0.30499999999999999 forward I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $7 $0 keep keep_kept ignore copy @17 ATTRIB_XACIS_NAME @10 2 Pipe.ipt #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $8 $6 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @68 8+AAA-AQQDACAAAAAAAAAAAgAAAAEAAAADAAAABAAAAAYAAAAHAAAABgAAAA+AD0APQ- #
+string_attrib-name_attrib-gen-attrib $-1 -1 $20 $-1 $9 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @118 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAw- +-AAAAAAAAAAIAAAAIAAAAAwAAAAoAAAAGAAAADAAAAAYAAA- #
+face $21 -1 $-1 $22 $23 $4 $-1 $24 forward single #
+loop $-1 -1 $-1 $25 $26 $9 #
+cone-surface $-1 -1 $-1 0 0 0 0 0 1 -0.42499999999999999 0 0 1 I I 0 1 0.42499999999999999 forward I I I I #
+loop $-1 -1 $-1 $-1 $27 $6 #
+coedge $-1 -1 $-1 $19 $19 $28 $29 reversed $10 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $14 $9 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @68 8+AAA-AQQDACAAAAAAAAAAAgAAAAgAAAADAAAACgAAAAYAAAAMAAAABgAAAA+AD0APQ- #
+string_attrib-name_attrib-gen-attrib $-1 -1 $30 $-1 $15 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @118 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAw- +-AAAAAAAAAAIAAAACAAAAAwAAAAQAAAAGAAAACgAAAAYAAA- #
+face $31 -1 $-1 $-1 $32 $4 $-1 $33 reversed single #
+loop $-1 -1 $-1 $34 $35 $15 #
+plane-surface $-1 -1 $-1 -1.7834146667507682e-017 -6.7484279602637354e-018 3.6000000000000001 0 0 1 0.39370078740157483 0 0 forward_v I I I I #
+loop $-1 -1 $-1 $-1 $36 $9 #
+coedge $-1 -1 $-1 $26 $26 $35 $37 reversed $16 $-1 #
+coedge $-1 -1 $-1 $27 $27 $38 $39 reversed $18 $-1 #
+coedge $-1 -1 $-1 $28 $28 $19 $29 forward $34 $-1 #
+edge $40 -1 $-1 $41 -3.1415926535897931 $41 3.1415926535897931 $28 $42 forward @7 unknown #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $21 $15 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @68 8+AAA-AQQDACAAAAAAAAAAAgAAAAIAAAADAAAABAAAAAYAAAAKAAAABgAAAA+AD0APQ- #
+string_attrib-name_attrib-gen-attrib $-1 -1 $43 $-1 $22 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @118 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAw- +-AAAAAAAAAAIAAAAFAAAAAwAAAAcAAAAGAAAADAAAAAYAAA- #
+loop $-1 -1 $-1 $44 $45 $22 #
+plane-surface $-1 -1 $-1 -1.7834146667507682e-017 -6.7484279602637354e-018 0 0 0 1 0.39370078740157483 0 0 forward_v I I I I #
+loop $-1 -1 $-1 $-1 $28 $15 #
+coedge $-1 -1 $-1 $35 $35 $26 $37 forward $23 $-1 #
+coedge $-1 -1 $-1 $36 $36 $45 $46 reversed $25 $-1 #
+edge $47 -1 $-1 $48 -3.1415926535897931 $48 3.1415926535897931 $26 $49 forward @7 unknown #
+coedge $-1 -1 $-1 $38 $38 $27 $39 forward $44 $-1 #
+edge $50 -1 $-1 $51 -3.1415926535897931 $51 3.1415926535897931 $38 $52 forward @7 unknown #
+string_attrib-name_attrib-gen-attrib $-1 -1 $53 $-1 $29 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAAEAAAABgAA- #
+vertex $54 -1 $-1 $29 $55 #
+ellipse-curve $-1 -1 $-1 0 0 3.6000000000000001 -0 -0 -1 -0.30499999999999999 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $31 $22 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @68 8+AAA-AQQDACAAAAAAAAAAAgAAAAUAAAADAAAABwAAAAYAAAAMAAAABgAAAA+AD0APQ- #
+loop $-1 -1 $-1 $-1 $38 $22 #
+coedge $-1 -1 $-1 $45 $45 $36 $46 forward $32 $-1 #
+edge $56 -1 $-1 $57 -3.1415926535897931 $57 3.1415926535897931 $36 $58 forward @7 unknown #
+string_attrib-name_attrib-gen-attrib $-1 -1 $59 $-1 $37 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAAKAAAABgAA- #
+vertex $60 -1 $-1 $37 $61 #
+ellipse-curve $-1 -1 $-1 0 0 3.6000000000000001 0 0 1 -0.42499999999999999 -0 -0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $62 $-1 $39 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAAHAAAABgAA- #
+vertex $63 -1 $-1 $39 $64 #
+ellipse-curve $-1 -1 $-1 0 0 0 0 0 1 -0.30499999999999999 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $40 $29 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAQAAAAGAAAA #
+string_attrib-name_attrib-gen-attrib $-1 -1 $65 $-1 $41 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAADAAAABwAA- #
+point $-1 -1 $-1 0.30499999999999999 3.7351727373994276e-017 3.6000000000000001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $66 $-1 $46 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAAMAAAABgAA- #
+vertex $67 -1 $-1 $46 $68 #
+ellipse-curve $-1 -1 $-1 0 0 0 0 0 -1 -0.42499999999999999 -0 -0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $47 $37 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAoAAAAGAAAA #
+string_attrib-name_attrib-gen-attrib $-1 -1 $69 $-1 $48 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAAJAAAABwAA- #
+point $-1 -1 $-1 0.42499999999999999 5.2047488963762513e-017 3.6000000000000001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $50 $39 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAcAAAAGAAAA #
+string_attrib-name_attrib-gen-attrib $-1 -1 $70 $-1 $51 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAAGAAAABwAA- #
+point $-1 -1 $-1 0.30499999999999999 3.7351727373994276e-017 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $54 $41 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAMAAAAHAAAA #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $56 $46 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAwAAAAGAAAA #
+string_attrib-name_attrib-gen-attrib $-1 -1 $71 $-1 $57 keep keep_kept ignore copy @73 GenericAssociativityAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @94 EVEN +-AgMAAAAIAAAAAAAAAAIAAA-::+-AgMAAAAIAAAAAAAAAAIAAA-::+-BAEAAQAQAAAAAAAAAAIAAAALAAAABwAA- #
+point $-1 -1 $-1 0.42499999999999999 5.2047488963762513e-017 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $60 $48 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAkAAAAHAAAA #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $63 $51 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAYAAAAHAAAA #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $67 $57 keep keep_kept ignore copy @65 ReferenceKeyAttribute-Algor{47DC178C-5800-4aa9-ADCE-1BD2EA39E46C} @38  +AAA-AQQBABAAAAAAAAAAAgAAAAsAAAAHAAAA #
+End-of-ACIS-data 

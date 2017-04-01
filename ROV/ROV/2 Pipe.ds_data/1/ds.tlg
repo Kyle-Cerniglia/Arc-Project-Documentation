@@ -1,0 +1,15 @@
+﻿TSX2TSY Version 2013.0 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+    Time:	07/04/14 17:48:34
+
+    Input : C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.fem
+    Output: C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.fem
+
+    Command Line: "-a=100" C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.113046 / 0.168501
+    Node matching tolerance: 0.00226092
+    Found 0 matched corner node pairs.
+
+    Duration: 0 seconds
+

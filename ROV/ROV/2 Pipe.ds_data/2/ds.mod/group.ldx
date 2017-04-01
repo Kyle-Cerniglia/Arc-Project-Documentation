@@ -1,0 +1,54 @@
+fem2esh - Make esh file from fem file for a specified design scenario
+Version 2013.00.00.0411-W64/X64 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+  Version of fem2esh.exe          : 2013.00000411
+  Version of dcx1-win-x64.dll     : 2013.00000411
+  Version of femapi-win-x64.dll   : 2013.00000411
+  Version of agsdb_ar-win-x64.dll : 2013.00000411
+  Version of tsx2tsy.exe          : 2013.00000411
+
+  Input Model     : C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.ds_data\2\ds
+  Input File      : C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.fem
+  Output File     : C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.ds_data\2\ds.mod\group.esh
+  Log File        : C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.ds_data\2\ds.mod\group.ldx
+  Design scenario : 2
+  Analysis type   : Fluid Flow
+  Start time      : 2014/07/04-18:01:05  
+
+  --- Get one active element part from fem file
+  --- 5 enabled L&C groups are defined
+  --- Get 4886 points defined in range [1, 4886] from fem file
+  Calling the Surface Topology Generator (tsx2tsy)...
+  tsx2tsy: Update part surface contact/bonding data (duration=0 sec.)
+  --- No mid-side node required
+  Set up FEM points and B.C. by connected elements...
+  --- No non-trivial coincident nodal pairs of 0 in FEM
+  Consolidate points between parts using contact definitions...
+  --- No contact used from 38 contact definitions
+  Compress FEM points to ESH nodes...
+  --- Found 1238 independent nodes
+  --- 1238 mesh nodes formed from 4886 FEM points
+  Output the mapping arrays of FEM points to FEA nodes...
+  --- Found 1 FANs
+  Writing to ESH file in phase I (nodes & elements)...
+  --- Part1: type=63, flags=7, meshType=10, elements=3664, maximumID=3664
+  Working on possible Fluid Flow Fan element parts...
+  --- Pair1: partID=2, number of fan elements=38
+  Writing to ESH file in phase II (FEA objects)...
+
+  Use global coordinate system, no local coordinate system defined.
+
+
+  == Model Stats ==
+
+  FEA Nodes & Elements:
+  --- 1238 mesh nodes
+  --- 2 parts and total 3664 elements
+  FEA Object (total made 2432):
+  --- Prescribed Velocities: 1216
+  --- Prescribed Inlets/Outlets: 1178
+  --- Wall roughnesss: 38
+  FEM2ESH Duration: 1 seconds (CPU time)
+
+2014/07/04-18:01:06

@@ -1,0 +1,15 @@
+
+
+Autodesk (R) Simulation Unsteady Fluid Flow
+Version 2013.00.00.0411-W64/X64 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved. 
+
+  Error: Could not find : Global.Loadcurve(1).Point(2).NBD
+  Error: In database reading.
+ 
+
+ **** Input model = [C:\Users\Kyle\Documents\Autodesk\Inventor\Projects\ROV\2 Pipe.ds_data\2\ds]
+
+ **** Total elapsed time =       0.0102 (minutes)
+ 
+ 
