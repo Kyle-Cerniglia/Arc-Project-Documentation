@@ -1,0 +1,16 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	02/19/16 18:18:10
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Max Sink.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Max Sink.fem
+
+    Command Line: "-w" -ds=1 C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\Max Sink.fem
+    Generate contacts, and node pairs to be bonded and free
+    Model: 3D
+    Analysis Type Category: 2 (Heat Transfer)
+    Node matching tolerance: 9.70196e-005
+    Found 737 matched corner node pairs, and 0 matched midside node pairs.
+
+    Duration: 0 seconds
