@@ -1,0 +1,208 @@
+
+
+ Autodesk (R) Simulation Static Stress with Linear Material Models
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved. 
+
+ 
+                          DATE: JULY 2, 2015                  
+                          TIME: 00:11 AM
+                   INPUT MODEL: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Rear.ds_data\1\ds
+
+                    PROGRAM VERSION: 201600003017
+            alg-win-x64.dll VERSION: 201600003017
+       agsdb_ar-win-x64.dll VERSION: 201600003017
+      algconfig-win-x64.dll VERSION: 201600003017
+ solvercallback-win-x64.dll VERSION: 201600003017
+               amgsolve.exe VERSION:    360000000
+ 
+ **** Linear stress analysis
+ **** Nodes    | Parts | Loads | Freqs | Mode
+           1768|      3|      1|      0|    0
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+  
+      Options executed are: 
+  
+      NOMIN
+      STRAIN
+      SPARSE
+      SUPCNF
+      SUPELM
+      SUPNOD
+      REAC
+  
+  
+      processing ... 
+  
+ **** OPENING TEMPORARY FILES
+      NDYN = 0 
+ **** BEGIN NODAL DATA INPUT
+      1768 NODES
+      5148 DOFS                
+ **** END   NODAL DATA INPUT
+ 
+ **** Begin brick element (TYPE-8) data input
+ **** Part      1 containing       396 elements
+                                                 
+ **** End input of element part      1
+
+ **** Begin brick element (TYPE-8) data input
+ **** Part      2 containing       396 elements
+                                                 
+ **** End input of element part      2
+
+ **** Begin brick element (TYPE-8) data input
+ **** Part      3 containing       396 elements
+                                                 
+ **** End input of element part      3
+
+ **** Hard disk file size information for processor:
+
+      Available hard disk space on current drive = 626788.125 megabytes
+
+
+ 
+ **** BEGIN LOAD INPUT
+      Gravity direction vector =  0.0000E+00  0.0000E+00 -1.0000E+00
+      One load case.
+ **** END   LOAD INPUT
+
+ **** Symbolic Assembly Using the Row-Hits Matrix Profile ...
+ **** Number of equations                 = 5148
+      Estimated maximum bandwidth         = 149
+      Estimated triangle matrix nonzeroes = 322092
+      Symbolically assembled nonzeros     = 162414
+ **** Real Sparse Matrix Assembly ...
+      in the upper triangle:
+      number of entries in the profile    = 322092
+      number of nonzeros                  = 162414
+
+ **** Sparse Matrix Assembled
+
+ **** Invoking Parallel BCSLIB-EXT Sparse Solver...
+ 
+ **** Load Cases 1
+ **** End Sparse Solver Solution
+ 
+ **** BEGIN DISPLACEMENT OUTPUT
+ **** PRINT OF DISPLACEMENT OUTPUT SUPPRESSED
+ **** END   DISPLACEMENT OUTPUT
+ 
+ **** BEGINNING REACTION COMPUTATIONS
+ **** LOADCASES REMAINING      1 
+ **** PARTS REMAINING       3 
+ **** ELEMENT/GLOBAL CONTRIBUTIONS Part = 1 
+      THE 1st PART CONTAINING 396 ELEMENTS
+                                                 
+ **** PARTS REMAINING       2 
+ **** ELEMENT/GLOBAL CONTRIBUTIONS Part = 2 
+      THE 2nd PART CONTAINING 396 ELEMENTS
+                                                 
+ **** PARTS REMAINING       1 
+ **** ELEMENT/GLOBAL CONTRIBUTIONS Part = 3 
+      THE 3rd PART CONTAINING 396 ELEMENTS
+                                                 
+ **** ENDING REACTION COMPUTATIONS
+
+      Processing completed ... 
+
+ 
+      ds.t7    =      40.219 kilobytes
+      ds.t8    =      82.980 kilobytes
+      ds.t9    =       0.000 kilobytes
+      ds.t10   =       0.000 kilobytes
+      ds.t11   =       0.000 kilobytes
+      ds.t12   =      40.219 kilobytes
+      ds.t13   =      40.227 kilobytes
+      ds.t14   =       0.000 kilobytes
+      ds.t15   =       0.000 kilobytes
+      ds.t17   =       0.000 kilobytes
+      ds.t50   =    1791.281 kilobytes
+      ds.t51   =     148.500 kilobytes
+      ds.t52   =    2793.656 kilobytes
+      ds.t54   =      20.133 kilobytes
+      ds.t55   =     634.430 kilobytes
+      ds.t56   =    1268.859 kilobytes
+      ds.t56   =    1268.859 kilobytes
+      ds.t58   =       0.000 kilobytes
+      ds.t59   =       0.000 kilobytes
+ 
+      total temporary disk storage (megabytes) = 7.9388 
+ 
+      ds.l     =       7.934 kilobytes
+      ds.do    =      82.922 kilobytes
+ 
+ **** BEGIN DELETING TEMPORARY FILES
+ **** TEMPORARY FILES DELETED
+ **** END OF SUCCESSFUL EXECUTION
+ 
+ 
+
+ **** Total actual hard disk space used    =      8.028 megabytes
+
+      Sub-total elapsed time               =      0.012 minutes
+
+
+
+ Autodesk (R) Simulation Stress Calculation Utility
+ Version 2016.00.00.3017-W64/X64 09-Mar-2015
+ Copyright (c) 2015, Autodesk, Inc. All rights reserved. 
+
+
+      DATE: JULY 2, 2015                  
+      TIME: 00:11 AM
+      INPUT......C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Rear.ds_data\1\ds 
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+
+ **** START PROCESSING ELEMENTS 
+
+ **** BEGIN PART   1 TYPE( 8) ELEMENTS
+      396 ELEMENTS
+                                                 
+ **** BEGIN PART   2 TYPE( 8) ELEMENTS
+      396 ELEMENTS
+                                                 
+ **** BEGIN PART   3 TYPE( 8) ELEMENTS
+      396 ELEMENTS
+                                                 
+
+ **** FINISHED PROCESSING ELEMENTS 
+
+ **** Hard disk file size information for postprocessor:
+      ds.nso   =     334.250 kilobytes
+      ds.sto   =     334.250 kilobytes
+
+      Total MKNSO disk space used        =     0.65283 megabytes
+ **** MKNSO elapsed time                 =       0.005 minutes
+
+ **** The TOTAL elapsed time             =       0.017 minutes
+
+ 

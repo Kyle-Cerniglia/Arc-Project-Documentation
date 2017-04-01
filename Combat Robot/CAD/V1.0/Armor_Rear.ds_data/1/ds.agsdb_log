@@ -1,0 +1,8 @@
+﻿HEAD	AGSDB_LOG	1
+WRITE	OK(0)	STRING_SET	[[[LinearStress.Runtime.Last_Run.Type]]]	[[[              0         ]]]	[[[25]]]
+WRITE	OK(0)	STRING_SET	[[[LinearStress.Runtime.Last_Run.SolverType]]]	[[[              4         ]]]	[[[25]]]
+WRITE	OK(0)	STRING_SET	[[[LinearStress.Runtime.Last_Run.Errors]]]	[[[True                     ]]]	[[[25]]]
+WRITE	OK(0)	STRING_SET	[[[LinearStress.Runtime.Last_Run.Version]]]	[[[201600003017]]]	[[[25]]]
+WRITE	OK(0)	STRING_SET	[[[LinearStress.Runtime.Last_Run.Date]]]	[[[2015/07/02-00:11:55]]]	[[[20]]]
+WRITE	OK(0)	STRING_SET	[[[LinearStress.Runtime.Last_Run.Errors]]]	[[[False                    ]]]	[[[25]]]
+WRITE	OK(0)	STRING_SET	[[[System.Date.Lastupdated]]]	[[[2015/07/02-00:11:55]]]	[[[-1]]]

@@ -1,0 +1,154 @@
+﻿
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=-1 -zg=1:5 -m=5 -Td=1 -Tl=0.15 -Tg=1.2 -Tq=100 -jobid:495e_afc9_3815cdcde2ad -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 5
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 435  ( 0, 0, 0, 435 )
+    Volume (4,5,6,8 noded %): 0.173182 (   0.00,   0.00,   0.00, 100.00 )
+    Number of nodes: 965
+    Length ratios (avg)     0.0,     0.0,     0.0,     8.4
+    Length ratios (max)     0.0,     0.0,     0.0,     8.4
+    Aspect ratio: unconstrained (   0.0,   0.0,   0.0,   1.3 )
+    Average aspect ratios:      (   0.0,   0.0,   0.0,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=7 -cancel_pipe=8 -za=-1 -zg=1:5 -m=4 -Td=1 -Tl=0.15 -Tg=1.2 -Tq=100 -jobid:495e_afc9_3815cdcde2ad -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 4
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 435  ( 0, 0, 0, 435 )
+    Volume (4,5,6,8 noded %): 0.173182 (   0.00,   0.00,   0.00, 100.00 )
+    Number of nodes: 965
+    Length ratios (avg)     0.0,     0.0,     0.0,     8.4
+    Length ratios (max)     0.0,     0.0,     0.0,     8.4
+    Aspect ratio: unconstrained (   0.0,   0.0,   0.0,   1.3 )
+    Average aspect ratios:      (   0.0,   0.0,   0.0,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    GENERATING SOLID MESH FOR ANOTHER PART 
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=3 -cancel_pipe=4 -za=1 -zg=1:5 -m=1 -Td=1 -Tl=0.15 -Tg=1.2 -Tq=100 -jobid:495e_afc9_3815cdcde2ad -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 1
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 435  ( 0, 0, 0, 435 )
+    Volume (4,5,6,8 noded %): 1.209375 (   0.00,   0.00,   0.00, 100.00 )
+    Number of nodes: 965
+    Length ratios (avg)     0.0,     0.0,     0.0,     1.2
+    Length ratios (max)     0.0,     0.0,     0.0,     1.2
+    Aspect ratio: unconstrained (   0.0,   0.0,   0.0,   1.0 )
+    Average aspect ratios:      (   0.0,   0.0,   0.0,   1.0 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=11 -cancel_pipe=12 -za=-1 -zg=1:5 -m=3 -Td=1 -Tl=0.15 -Tg=1.2 -Tq=100 -jobid:495e_afc9_3815cdcde2ad -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 3
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 435  ( 0, 0, 0, 435 )
+    Volume (4,5,6,8 noded %): 0.173182 (   0.00,   0.00,   0.00, 100.00 )
+    Number of nodes: 965
+    Length ratios (avg)     0.0,     0.0,     0.0,     8.4
+    Length ratios (max)     0.0,     0.0,     0.0,     8.4
+    Aspect ratio: unconstrained (   0.0,   0.0,   0.0,   1.3 )
+    Average aspect ratios:      (   0.0,   0.0,   0.0,   1.3 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    SOLID MESH GENERATION BEFORE ANALYSIS   
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2016\SOLIDX.exe -b=0 -o=1 -zw=2 C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front -ds=1 -d=0 -u=13 -c=2 -t=1 -progress_pipe=15 -cancel_pipe=16 -za=-1 -zg=1:5 -m=2 -Td=1 -Tl=0.15 -Tg=1.2 -Tq=100 -jobid:495e_afc9_3815cdcde2ad -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 2
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Elements built (4,5,6,8 noded): 435  ( 0, 0, 0, 435 )
+    Volume (4,5,6,8 noded %): 1.209375 (   0.00,   0.00,   0.00, 100.00 )
+    Number of nodes: 965
+    Length ratios (avg)     0.0,     0.0,     0.0,     1.2
+    Length ratios (max)     0.0,     0.0,     0.0,     1.2
+    Aspect ratio: unconstrained (   0.0,   0.0,   0.0,   1.0 )
+    Average aspect ratios:      (   0.0,   0.0,   0.0,   1.0 )
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+

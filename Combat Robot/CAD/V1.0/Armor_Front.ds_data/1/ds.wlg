@@ -1,0 +1,16 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	07/02/15 00:18:28
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.fem
+
+    Command Line: "-w" -ds=1 C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.fem
+    Generate contacts, and node pairs to be bonded and free
+    Model: 3D
+    Analysis Type Category: 0
+    Node matching tolerance: 0.000358
+    Found 1920 matched corner node pairs, and 0 matched midside node pairs.
+
+    Duration: 0 seconds

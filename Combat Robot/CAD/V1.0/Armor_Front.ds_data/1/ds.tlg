@@ -1,0 +1,19 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	07/02/15 00:13:19
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.fem
+
+    Command Line: "-a=100" -t=-0.005625 C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Armor_Front.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.125000 / 0.150292
+    Shortest/Longest line in Part 2 : 0.125000 / 0.150292
+    Shortest/Longest line in Part 3 : 0.017900 / 0.150292
+    Shortest/Longest line in Part 4 : 0.017900 / 0.150292
+    Shortest/Longest line in Part 5 : 0.017900 / 0.150261
+    Node matching tolerance: 0.005625
+    Found 1920 matched corner node pairs.
+
+    Duration: 0 seconds
+

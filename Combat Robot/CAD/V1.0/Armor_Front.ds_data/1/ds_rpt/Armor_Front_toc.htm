@@ -1,0 +1,151 @@
+﻿<LINK REL="stylesheet" TYPE="text/css" HREF="alg_rpt.css">
+<HTML>
+<!-- WriteHeader() -->
+	<HEAD>
+		
+		<TITLE>Autodesk Simulation HTML Reporting</TITLE>
+			<SCRIPT LANGUAGE="JavaScript">
+			<!--
+				// tests to see if the page was loaded without a parent document
+				// (not as part of frames) and pulls page into the frameset
+				
+				if(top==self)
+				{
+					var parent = "Armor_Front.htm";
+					var currURL = unescape(window.location.pathname);
+					var newURL = parent + "?" + currURL;
+					var appVer = navigator.appVersion;
+					var NS = (navigator.appName == 'Netscape') &&	((appVer.indexOf('3') != -1) || (appVer.indexOf('4') != -1));
+					var MSIE = (appVer.indexOf('MSIE 4') != -1);
+					
+					if (NS || MSIE)
+						location.replace(newURL);
+					else
+						location.href = newURL;
+				}
+			//-->
+			</SCRIPT>
+		
+	</HEAD>
+	
+	<BODY class=TableOfContents>
+		<table>
+			<TR>
+				
+				<TD>
+					
+					<!-- WriteHeader() -->
+					
+					<!-- WriteTitle() -->
+					<img align=middle src="topic.gif">&nbsp;<a id=outlineItem1t class=Topic href="Armor_Front_rpt.htm" TARGET="MAIN" NAME="Top">Top</a><br>
+					<!-- WriteTitle() -->
+					
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#TitleandAuthor"  TARGET="MAIN" NAME="TitleandAuthor">Title and Author</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#Reviewer"  TARGET="MAIN" NAME="Reviewer">Reviewer</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#ExecutiveSummary"  TARGET="MAIN" NAME="ExecutiveSummary">Executive Summary</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#Summary"  TARGET="MAIN" NAME="Summary">Summary</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#AnalysisParametersInformation"  TARGET="MAIN" NAME="AnalysisParametersInformation">Analysis Parameters Information</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#LoadCaseMultipliersInfo"  TARGET="MAIN" NAME="LoadCaseMultipliersInfo">Load Case Multipliers Info</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#CentrifugalInfo"  TARGET="MAIN" NAME="CentrifugalInfo">Centrifugal Info</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#MultiphysicsInfo"  TARGET="MAIN" NAME="MultiphysicsInfo">Multiphysics Info</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#ProcessorInfo"  TARGET="MAIN" NAME="ProcessorInfo">Processor Info</a><br>
+					</div>
+					<!-- WriteGlobalInfo() -->
+					
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#Parts"  TARGET="MAIN" NAME="Parts">Parts</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#Element"  TARGET="MAIN" NAME="Element">Element</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#Material"  TARGET="MAIN" NAME="Material">Material</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#Loads"  TARGET="MAIN" NAME="Loads">Loads</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#Constraints"  TARGET="MAIN" NAME="Constraints">Constraints</a><br>
+<img align=middle src="topic.gif">&nbsp;<a class=Topic href="Armor_Front_rpt.htm#ResultsPresentations"  TARGET="MAIN" NAME="ResultsPresentations">Results Presentations</a><br>
+					<!-- WriteFooter() -->
+					<img align=middle src="topic.gif">&nbsp;<a id=outlineItem8t class=Topic href="Armor_Front_rpt.htm" TARGET="_top" NAME="Printable Version">Printable Version</a><br>
+					
+				</TD>
+				
+			</TR>
+			
+		</TABLE>
+		
+		<script LANGUAGE="JavaScript">
+			var img1, img2;
+			img1 = new Image();
+			img1.src = "folder.gif";
+			img2 = new Image();
+			img2.src = "ofolder.gif";
+			
+			function doOutline()
+			{
+				var targetId, srcElement, targetElement;
+				srcElement = window.event.srcElement;
+				if (srcElement.className == "Outline" || srcElement.className == "Outline2")
+				{
+					srcElement = srcElement.id;
+					srcElement = srcElement.substr(0, srcElement.length-1);
+					targetId = srcElement + "s";
+					srcElement = srcElement + "i";
+					srcElement = document.all(srcElement);
+					targetElement = document.all(targetId);
+					
+					if (targetElement.style.display == "none")
+					{
+						targetElement.style.display = "";
+						srcElement.src = "ofolder.gif";
+					}
+					else
+					{
+						targetElement.style.display = "none";
+						srcElement.src = "folder.gif";
+					}
+				}
+			}
+			
+			document.onclick = doOutline;
+			document.onmouseover = doDocumentOnMouseOver;
+			document.onmouseout = doDocumentOnMouseOut;
+			
+			// CHANGE HEADLINE COLOR ONMOUSEOVER
+			function doDocumentOnMouseOver()
+			{
+				var eSrc = window.event.srcElement;
+				
+				if (eSrc.className == "Outline" ||
+					eSrc.className == "Topic"     ||
+					eSrc.className == "Topic2"    ||
+					eSrc.className == "Outline2")
+				{
+					// Change the text to light blue
+					document.all(eSrc.id).style.color= "#6666FF";
+					
+					// Put the link name into the status bar
+					window.status=eSrc.name;
+					return true;
+
+				}
+				
+			}
+			
+			// CHANGE HEADLINE COLOR ONMOUSEOUT
+			function doDocumentOnMouseOut()
+			{
+				var eSrc = window.event.srcElement;
+				
+				if (eSrc.className == "Outline" ||
+					eSrc.className == "Topic"   ||
+					eSrc.className == "Topic2"  ||
+					eSrc.className == "Outline2")
+				{
+					// Change the text back to white
+					document.all(eSrc.id).style.color= "#ffffff";
+					
+					// Erase the link name into the status bar
+					window.status="";					return true;
+				}
+			}
+			
+		</script>
+		
+	</BODY>
+	
+</HTML>
+<!-- WriteFooter() -->

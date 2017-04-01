@@ -1,0 +1,26 @@
+
+Meshing Curves ...
+ 28 curves, 16 faces, Mesh size = 0.075 (100.00 %)  
+ Turnaround time:    0.000 seconds; Execution time:    0.033 seconds 
+    DIMENSION_BASED_MESHING_CURVE
+
+Meshing part 2 ...
+ 882 elements, 6 surfaces, 6 faces, Mesh size = 0.129287 (172.38 %)  
+ Turnaround time:    0.596 seconds; Execution time:    0.094 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 3 ...
+ 882 elements, 6 surfaces, 6 faces, Mesh size = 0.129287 (172.38 %)  
+ Turnaround time:    0.074 seconds; Execution time:    0.096 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 1 ...
+      Meshed part 1 face 5 (surface 5) by copying mesh from part 2 face 1 (surface 5)
+      Meshed part 1 face 6 (surface 6) by copying mesh from part 3 face 1 (surface 5)
+ 882 elements, 6 surfaces, 6 faces, Mesh size = 0.131667 (175.56 %)  
+ Turnaround time:    0.020 seconds; Execution time:    0.077 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Total time: 1 seconds. 07/02/15 00:09:25. TSMESH V2016.0, 09-Mar-2015.
+=========================================================================
+

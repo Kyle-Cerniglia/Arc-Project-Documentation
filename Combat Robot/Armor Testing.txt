@@ -1,0 +1,56 @@
+HAMMER TEST
+
+Acrylic AlX2
+Hit 1: No damage
+Hit 2: Minor bending
+Hit 3: Medium bending
+Hit 4: Heavy Bending (0.5")
+
+Poly AlX2
+Hit 1: Rear Al moderately bent
+Hit 2: Front Al mildly bent
+Hit 8: Front Al moderately bent
+Hit 20: Stopped, no change (0.25")
+
+Poly
+No damage to polycarbonate, back of hammer only made marks
+
+PolyX2 AlX3
+Hit 10: Very minor bending
+Hit 20: No change (0.1")
+
+Poly AlX2 SilX2
+Hit 3: Minor bending
+Hit 10: Bending
+Hit 20: Moderate bending (0.3") (Aluminum seperates)
+
+GRINDER HIT TEST
+
+Poly AlX2
+8 glancing blows with only surface marks
+
+Poly
+8 glancing blows with only surface marks
+
+HAMMER TEST POST GRINDER
+
+Poly AlX2
+Same as before
+
+Poly
+Same as before
+
+GRIND DOWN TEST
+
+Poly AlX2
+26 seconds
+
+Poly
+4 seconds
+
+SILICONE ARMOR
+
+Starting weight: 1.7 oz
+End wet weight: 2 oz
+18% weight increase
+
