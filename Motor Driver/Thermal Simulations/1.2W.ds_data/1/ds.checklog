@@ -1,0 +1,80 @@
+
+
+Autodesk (R) Simulation Steady-State Heat Transfer
+Version 2016.00.00.3017-W64/X64 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+ **** Memory Dynamically Allocated =   4164856 KB
+ **** Steady-State Heat Transfer Analysis
+ 
+ ----------------------------------------------------------------
+      DATE: FEBRUARY 16, 2016             
+      TIME: 11:42 PM
+      Input Model: C:\Users\Kyle\Documents\Project documentation\Motor driver\Thermal Simulations\1W.ds_data\1\ds
+
+
+                        PROGRAM VERSION: 201600003017
+                alg-win-x64.dll VERSION: 201600003017
+          algconfig-win-x64.dll VERSION: 201600003017
+           agsdb_ar-win-x64.dll VERSION: 201600003017
+     solvercallback-win-x64.dll VERSION: 201600003017
+                   amgsolve.exe VERSION:   0360000000
+ 
+  
+      Options executed are: 
+      NOMIN
+      SUPSTR
+  
+  
+      processing ... 
+  
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+ **** OPENING TEMPORARY FILES
+      NDYN = 10 
+ **** BEGIN NODAL DATA INPUT
+      Node     number=      6770
+      Equation number=      6770
+ **** END   NODAL DATA INPUT
+
+ WARNING: Model has non-linearity through radiation on boundary
+          face of element. Nonlinear flag has not been set by 
+          user. The current settings for non-linear iteration
+          control are used. This may lead to inaccurate results.
+
+          The "Advanced" tab of the "Global" data screen
+          sets up the nonlinear analyses.
+
+ **** HARD DISK FILE SIZE INFORMATION FOR PROCESSOR:
+
+      Available hard disk space on C drive = 434378.125 megabytes
+
+ **** BEGIN NODAL HEAT FLOW INPUT
+ **** END   NODAL HEAT FLOW INPUT
+
+ **** 
+ **** Invoking BCSLIB-EXT Sparse Solver ...
+ **** 
+
+
+ **** BEGIN NON-LINEAR ITERATIONS
+
+      Nonlin Iter.  Incr. Norm(T)  Rel. Norm(T)
+      -----------   ------------   -----------
+ 
+ **** Model checked through matrix assembly
+      Skip the rest of analysis. 
+ 
