@@ -1,0 +1,10 @@
+0.656 actual
+0.344 left
+
+0.477 theoretical
+0.179 difference
+
+0.818 end
+0.341 more (not including electronics)
+
+0.081 in screws and nuts

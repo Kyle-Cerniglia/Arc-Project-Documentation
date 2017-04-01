@@ -1,0 +1,9 @@
+ELECTRONICS----------------------------------------------------------------------------------------------------
+Shock mount everything with velcro
+1/4" shaft sizes
+Batteries should be able to last 3 minutes, count motor stall current, be less than this
+Aluminum sheet metal gauge 25 = 0.0179"
+0.093" Poly
+0.079" Acry
+Reinforce chassis with poly if supporting weight of front panel
+hinge the rear of the top panel

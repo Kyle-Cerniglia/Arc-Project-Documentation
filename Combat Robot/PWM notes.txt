@@ -1,0 +1,11 @@
+Throttle
+Neutral: 1.6ms
+Forward: 1.9ms
+Backward: 1.2ms
+Off: 1ms
+
+Turn
+Neutral: 1.3ms
+Right: 0.9ms
+Left: 1.8ms
+Off: 0ms

@@ -1,0 +1,9 @@
+Rx/Tx		25
+wheels		16
+motors		72
+motor mounts	10
+drivers		10
+microcontroller	13
+batteryX2	28
+
+total		174
