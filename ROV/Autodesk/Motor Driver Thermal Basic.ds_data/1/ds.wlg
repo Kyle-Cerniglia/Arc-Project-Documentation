@@ -1,0 +1,17 @@
+﻿TSX2TSY Version 2013.0 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+    Time:	08/06/13 18:03:16
+
+    Input : C:\Users\Kyle\Desktop\ROV\Autodesk\Motor Driver Thermal Basic.fem
+    Output: C:\Users\Kyle\Desktop\ROV\Autodesk\Motor Driver Thermal Basic.fem
+
+    Command Line: "-w" C:\Users\Kyle\Desktop\ROV\Autodesk\Motor Driver Thermal Basic.fem
+    Generate contacts, and node pairs to be bonded and free
+    Model: 3D
+    Analysis Type Category: 2 (Heat Transfer)
+    Node matching tolerance: 1.69758e-005
+    Found 5751 matched corner node pairs, and 0 matched midside node pairs.
+
+    Duration: 0 seconds
+

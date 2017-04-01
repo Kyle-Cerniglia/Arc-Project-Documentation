@@ -1,0 +1,86 @@
+fem2esh - Make esh file from fem file for a specified design scenario
+Version 2013.00.00.0411-W64/X64 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+  Version of fem2esh.exe          : 2013.00000411
+  Version of dcx1-win-x64.dll     : 2013.00000411
+  Version of femapi-win-x64.dll   : 2013.00000411
+  Version of agsdb_ar-win-x64.dll : 2013.00000411
+  Version of tsx2tsy.exe          : 2013.00000411
+
+  Input Model     : C:\Users\Kyle\Desktop\ROV\Autodesk\Motor Driver Thermal Basic.ds_data\1\ds
+  Input File      : C:\Users\Kyle\Desktop\ROV\Autodesk\Motor Driver Thermal Basic.fem
+  Output File     : C:\Users\Kyle\Desktop\ROV\Autodesk\Motor Driver Thermal Basic.ds_data\1\ds.mod\group.esh
+  Log File        : C:\Users\Kyle\Desktop\ROV\Autodesk\Motor Driver Thermal Basic.ds_data\1\ds.mod\group.ldx
+  Design scenario : 1
+  Analysis type   : Heat Transfer
+  Start time      : 2013/08/06-18:03:13  
+
+  --- Get 35 active element parts in range [1, 35] from fem file
+  --- 2 enabled L&C groups are defined
+  --- Get 106881 points defined in range [1, 107103] from fem file
+  Calling the Surface Topology Generator (tsx2tsy)...
+  tsx2tsy: Update part surface contact/bonding data (duration=0 sec.)
+  --- No mid-side node required
+  Set up FEM points and B.C. by connected elements...
+  --- Load up 16269 non-trivial coincident nodal pairs of 16269 in FEM
+  Consolidate points between parts using contact definitions...
+  --- 5751 out of 5751 contact definitions have been used in bonding nodes
+  Compress FEM points to ESH nodes...
+  --- Found 51635 independent nodes
+  --- 51635 mesh nodes formed from 106881 FEM points
+  Output the mapping arrays of FEM points to FEA nodes...
+  Loop 1 contact pairs to build enabled contacts...
+  Writing to ESH file in phase I (nodes & elements)...
+  --- Part1: type=39, flags=7, meshType=10, elements=48531, maximumID=48531
+  --- Part2: type=39, flags=7, meshType=10, elements=1114, maximumID=1114
+  --- Part3: type=39, flags=7, meshType=10, elements=2400, maximumID=2400
+  --- Part4: type=39, flags=7, meshType=10, elements=867, maximumID=867
+  --- Part5: type=39, flags=7, meshType=10, elements=1022, maximumID=1022
+  --- Part6: type=39, flags=7, meshType=10, elements=22, maximumID=22
+  --- Part7: type=39, flags=7, meshType=10, elements=26, maximumID=26
+  --- Part8: type=39, flags=7, meshType=10, elements=4949, maximumID=4949
+  --- Part9: type=39, flags=7, meshType=10, elements=791, maximumID=791
+  --- Part10: type=39, flags=7, meshType=10, elements=919, maximumID=919
+  --- Part11: type=39, flags=7, meshType=10, elements=1011, maximumID=1011
+  --- Part12: type=39, flags=7, meshType=10, elements=526, maximumID=526
+  --- Part13: type=39, flags=7, meshType=10, elements=1381, maximumID=1381
+  --- Part14: type=39, flags=7, meshType=10, elements=1068, maximumID=1068
+  --- Part15: type=39, flags=7, meshType=10, elements=5145, maximumID=5145
+  --- Part16: type=39, flags=7, meshType=10, elements=846, maximumID=846
+  --- Part17: type=39, flags=7, meshType=10, elements=923, maximumID=923
+  --- Part18: type=39, flags=7, meshType=10, elements=996, maximumID=996
+  --- Part19: type=39, flags=7, meshType=10, elements=951, maximumID=951
+  --- Part20: type=39, flags=7, meshType=10, elements=507, maximumID=507
+  --- Part21: type=39, flags=7, meshType=10, elements=1104, maximumID=1104
+  --- Part22: type=39, flags=7, meshType=10, elements=1660, maximumID=1660
+  --- Part23: type=39, flags=7, meshType=10, elements=1602, maximumID=1602
+  --- Part24: type=39, flags=7, meshType=10, elements=1809, maximumID=1809
+  --- Part25: type=39, flags=7, meshType=10, elements=1694, maximumID=1694
+  --- Part26: type=39, flags=7, meshType=10, elements=1932, maximumID=1932
+  --- Part27: type=39, flags=7, meshType=10, elements=1879, maximumID=1879
+  --- Part28: type=39, flags=7, meshType=10, elements=146, maximumID=146
+  --- Part29: type=39, flags=7, meshType=10, elements=47, maximumID=47
+  --- Part30: type=39, flags=7, meshType=10, elements=1881, maximumID=1881
+  --- Part31: type=39, flags=7, meshType=10, elements=1945, maximumID=1945
+  --- Part32: type=39, flags=7, meshType=10, elements=1792, maximumID=1792
+  --- Part33: type=39, flags=7, meshType=10, elements=1709, maximumID=1709
+  --- Part34: type=39, flags=7, meshType=10, elements=1595, maximumID=1595
+  --- Part35: type=39, flags=7, meshType=10, elements=1813, maximumID=1813
+  Working on MPCs...
+  --- No MPC made in the model.
+  Writing to ESH file in phase II (FEA objects)...
+
+  Use global coordinate system, no local coordinate system defined.
+
+
+  == Model Stats ==
+
+  FEA Nodes & Elements:
+  --- 51635 mesh nodes
+  --- 5711 nodes bonded.
+  --- 35 parts and total 96603 elements
+  FEA Object: None
+  FEM2ESH Duration: 5 seconds (CPU time)
+
+2013/08/06-18:03:18

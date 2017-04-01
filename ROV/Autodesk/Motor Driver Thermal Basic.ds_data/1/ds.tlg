@@ -1,0 +1,49 @@
+﻿TSX2TSY Version 2013.0 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+    Time:	07/31/13 07:37:02
+
+    Input : C:\Users\Kyle\Documents\Inventor\2013\ROV\Motor Driver\Motor Driver.fem
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\Motor Driver\Motor Driver.fem
+
+    Command Line: "-a=100" -t=-0.0003 C:\Users\Kyle\Documents\Inventor\2013\ROV\Motor Driver\Motor Driver.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.000849 / 0.036766
+    Shortest/Longest line in Part 2 : 0.001000 / 0.013778
+    Shortest/Longest line in Part 3 : 0.005817 / 0.006020
+    Shortest/Longest line in Part 4 : 0.001000 / 0.008611
+    Shortest/Longest line in Part 5 : 0.001000 / 0.006631
+    Shortest/Longest line in Part 6 : 0.001000 / 0.005578
+    Shortest/Longest line in Part 7 : 0.001000 / 0.005000
+    Shortest/Longest line in Part 8 : 0.002500 / 0.031788
+    Shortest/Longest line in Part 9 : 0.004258 / 0.023097
+    Shortest/Longest line in Part 10 : 0.003746 / 0.023097
+    Shortest/Longest line in Part 11 : 0.003006 / 0.023097
+    Shortest/Longest line in Part 12 : 0.004162 / 0.023097
+    Shortest/Longest line in Part 13 : 0.002946 / 0.023097
+    Shortest/Longest line in Part 14 : 0.002739 / 0.023097
+    Shortest/Longest line in Part 15 : 0.002500 / 0.035780
+    Shortest/Longest line in Part 16 : 0.004238 / 0.023097
+    Shortest/Longest line in Part 17 : 0.004398 / 0.023097
+    Shortest/Longest line in Part 18 : 0.004520 / 0.023097
+    Shortest/Longest line in Part 19 : 0.002930 / 0.023097
+    Shortest/Longest line in Part 20 : 0.004207 / 0.023097
+    Shortest/Longest line in Part 21 : 0.004157 / 0.023097
+    Shortest/Longest line in Part 22 : 0.002577 / 0.008343
+    Shortest/Longest line in Part 23 : 0.001958 / 0.010633
+    Shortest/Longest line in Part 24 : 0.002513 / 0.008651
+    Shortest/Longest line in Part 25 : 0.002040 / 0.009395
+    Shortest/Longest line in Part 26 : 0.002500 / 0.008776
+    Shortest/Longest line in Part 27 : 0.002515 / 0.008570
+    Shortest/Longest line in Part 28 : 0.001000 / 0.006208
+    Shortest/Longest line in Part 29 : 0.001000 / 0.005232
+    Shortest/Longest line in Part 30 : 0.002518 / 0.008743
+    Shortest/Longest line in Part 31 : 0.002500 / 0.009504
+    Shortest/Longest line in Part 32 : 0.002521 / 0.008658
+    Shortest/Longest line in Part 33 : 0.002510 / 0.009960
+    Shortest/Longest line in Part 34 : 0.002518 / 0.008497
+    Shortest/Longest line in Part 35 : 0.002500 / 0.009630
+    Node matching tolerance: 0.0003
+    Found 5751 matched corner node pairs.
+
+    Duration: 4 seconds
+
