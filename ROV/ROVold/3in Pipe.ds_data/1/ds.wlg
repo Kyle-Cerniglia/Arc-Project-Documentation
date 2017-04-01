@@ -1,0 +1,16 @@
+﻿TSX2TSY Version 2013.0 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+    Time:	07/30/13 15:14:22
+
+    Input : C:\Users\Kyle\Documents\Inventor\2013\ROV\3in Pipe.fem
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\3in Pipe.fem
+
+    Command Line: "-w" C:\Users\Kyle\Documents\Inventor\2013\ROV\3in Pipe.fem
+    Generate contacts, and node pairs to be bonded and free
+    Model: 3D
+    Analysis Type Category: 2 (Heat Transfer)
+    Found 0 matched corner node pairs, and 0 matched midside node pairs.
+
+    Duration: 0 seconds
+

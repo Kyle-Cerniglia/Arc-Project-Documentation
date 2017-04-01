@@ -1,0 +1,21 @@
+ Autodesk (R) Simulation Thermal Decoder for AGSDB
+ Version 2013.00.00.0411-W64/X64 28-Feb-2012
+ Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+
+** Model [C:\Users\Kyle\Documents\Inventor\2013\ROV\5in Pipe.ds_data\1\ds] opened
+
+   --- 1050 nodes
+   --- one element part ...
+   --- Part(1): 612 type 39 elements, done.
+
+** Model [C:\Users\Kyle\Documents\Inventor\2013\ROV\5in Pipe.ds_data\1\ds] done
+
+ Autodesk (R) Simulation Surface-to-Surface Radiation Management
+ Version 2013.00.00.0411-W64/X64 28-Feb-2012
+ Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+ Model [C:\Users\Kyle\Documents\Inventor\2013\ROV\5in Pipe.ds_data\1\ds] opened for checking/generating radiation data...
+
+ No Body-to-Body radiation enclosure enabled.
+

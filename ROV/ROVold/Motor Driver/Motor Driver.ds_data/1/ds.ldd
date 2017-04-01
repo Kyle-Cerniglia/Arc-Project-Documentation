@@ -1,0 +1,55 @@
+ Autodesk (R) Simulation Thermal Decoder for AGSDB
+ Version 2013.00.00.0411-W64/X64 28-Feb-2012
+ Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+
+** Model [C:\Users\Kyle\Documents\Inventor\2013\ROV\Motor Driver\Motor Driver.ds_data\1\ds] opened
+
+   --- 51635 nodes
+   --- 35 element parts ...
+   --- Part(35): 1813 type 39 elements, done.
+   --- Part(34): 1595 type 39 elements, done.
+   --- Part(33): 1709 type 39 elements, done.
+   --- Part(32): 1792 type 39 elements, done.
+   --- Part(31): 1945 type 39 elements, done.
+   --- Part(30): 1881 type 39 elements, done.
+   --- Part(29): 47 type 39 elements, done.
+   --- Part(28): 146 type 39 elements, done.
+   --- Part(27): 1879 type 39 elements, done.
+   --- Part(26): 1932 type 39 elements, done.
+   --- Part(25): 1694 type 39 elements, done.
+   --- Part(24): 1809 type 39 elements, done.
+   --- Part(23): 1602 type 39 elements, done.
+   --- Part(22): 1660 type 39 elements, done.
+   --- Part(21): 1104 type 39 elements, done.
+   --- Part(20): 507 type 39 elements, done.
+   --- Part(19): 951 type 39 elements, done.
+   --- Part(18): 996 type 39 elements, done.
+   --- Part(17): 923 type 39 elements, done.
+   --- Part(16): 846 type 39 elements, done.
+   --- Part(15): 5145 type 39 elements, done.
+   --- Part(14): 1068 type 39 elements, done.
+   --- Part(13): 1381 type 39 elements, done.
+   --- Part(12): 526 type 39 elements, done.
+   --- Part(11): 1011 type 39 elements, done.
+   --- Part(10): 919 type 39 elements, done.
+   --- Part(9): 791 type 39 elements, done.
+   --- Part(8): 4949 type 39 elements, done.
+   --- Part(7): 26 type 39 elements, done.
+   --- Part(6): 22 type 39 elements, done.
+   --- Part(5): 1022 type 39 elements, done.
+   --- Part(4): 867 type 39 elements, done.
+   --- Part(3): 2400 type 39 elements, done.
+   --- Part(2): 1114 type 39 elements, done.
+   --- Part(1): 48531 type 39 elements, done.
+
+** Model [C:\Users\Kyle\Documents\Inventor\2013\ROV\Motor Driver\Motor Driver.ds_data\1\ds] done
+
+ Autodesk (R) Simulation Surface-to-Surface Radiation Management
+ Version 2013.00.00.0411-W64/X64 28-Feb-2012
+ Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+ Model [C:\Users\Kyle\Documents\Inventor\2013\ROV\Motor Driver\Motor Driver.ds_data\1\ds] opened for checking/generating radiation data...
+
+ No Body-to-Body radiation enclosure enabled.
+

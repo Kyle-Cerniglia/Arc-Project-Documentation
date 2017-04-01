@@ -1,0 +1,101 @@
+
+
+Autodesk (R) Simulation Steady-State Heat Transfer
+Version 2013.00.00.0411-W64/X64 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+ **** Memory Dynamically Allocated =   3042232 KB
+ **** Steady-State Heat Transfer Analysis
+ 
+ ----------------------------------------------------------------
+      DATE: JULY 30, 2013                 
+      TIME: 03:14 PM
+      Input Model: C:\Users\Kyle\Documents\Inventor\2013\ROV\3in Pipe.ds_data\1\ds
+
+
+           PROGRAM VERSION: 201300000411
+           ALG.DLL VERSION: 201300000411
+     AlgConfig.DLL VERSION: 201300000411
+      Agsdb_AR.DLL VERSION: 201300000411
+      AMGSolve.DLL VERSION: 201300000411
+      AlgSolve.DLL VERSION: 201300000411
+ ----------------------------------------------------------------
+  
+      Options executed are: 
+      NOMIN
+      SUPSTR
+  
+  
+      processing ... 
+  
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+ **** OPENING TEMPORARY FILES
+      NDYN = 10 
+ **** BEGIN NODAL DATA INPUT
+      Node     number=      1560
+      Equation number=      1560
+ **** END   NODAL DATA INPUT
+ **** HARD DISK FILE SIZE INFORMATION FOR PROCESSOR:
+
+      Available hard disk space on C drive = 270765.215 megabytes
+
+ **** BEGIN NODAL HEAT FLOW INPUT
+ **** END   NODAL HEAT FLOW INPUT
+ **** BEGIN TYPE-39 DATA INPUT
+      986 ELEMENTS ... 
+ **** END   TYPE-39 DATA INPUT
+ **** Fixing loads ...
+ **** Invoking BCSLIB-EXT Sparse Solver ...
+ **** End solution 
+ 
+ **** BEGIN TYPE-39 DATA INPUT
+      986 ELEMENTS ... 
+ **** END   TYPE-39 DATA INPUT
+ **** BEGIN TYPE-39 HEAT FLUX CALCULATIONS
+      986 ELEMENTS ... 
+ **** END   TYPE-39 HEAT FLUX CALCULATIONS
+
+ **** Table for actual hard disk space used:
+      ds.t7  =      12.195 kilobytes
+      ds.t8  =     109.688 kilobytes
+      ds.t9  =      41.250 kilobytes
+      ds.t10 =      41.250 kilobytes
+      ds.t11 =    1513.719 kilobytes
+      ds.t12 =       0.000 kilobytes
+      ds.t13 =      41.250 kilobytes
+      ds.t14 =       0.062 kilobytes
+      ds.t15 =      41.250 kilobytes
+      ds.t18 =      41.250 kilobytes
+      ds.t65 =      12.195 kilobytes
+      ds.t67 =     498.391 kilobytes
+ 
+      total temporary disk storage (megabytes) = 2.2974 
+ 
+ **** BEGIN DELETING TEMPORARY FILES
+ **** TEMPORARY FILES DELETED
+ **** END OF SUCCESSFUL EXECUTION
+ 
+ Processing completed for model C:\Users\Kyle\Documents\Inventor\2013\ROV\3in Pipe.ds_data\1\ds
+ 
+      ds.l10   =       3.885 kilobytes
+      ds.to    =      73.172 kilobytes
+      ds.hfo   =      34.711 kilobytes
+
+      Total actual hard disk space used    =      2.440 megabytes
+
+      Total elapsed time                   =      0.043 minutes
+

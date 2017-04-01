@@ -1,0 +1,51 @@
+fem2esh - Make esh file from fem file for a specified design scenario
+Version 2013.00.00.0411-W64/X64 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+  Version of fem2esh.exe          : 2013.00000411
+  Version of dcx1-win-x64.dll     : 2013.00000411
+  Version of femapi-win-x64.dll   : 2013.00000411
+  Version of agsdb_ar-win-x64.dll : 2013.00000411
+  Version of tsx2tsy.exe          : 2013.00000411
+
+  Input Model     : C:\Users\Kyle\Documents\Inventor\2013\ROV\5in Pipe.ds_data\1\ds
+  Input File      : C:\Users\Kyle\Documents\Inventor\2013\ROV\5in Pipe.fem
+  Output File     : C:\Users\Kyle\Documents\Inventor\2013\ROV\5in Pipe.ds_data\1\ds.mod\group.esh
+  Log File        : C:\Users\Kyle\Documents\Inventor\2013\ROV\5in Pipe.ds_data\1\ds.mod\group.ldx
+  Design scenario : 1
+  Analysis type   : Heat Transfer
+  Start time      : 2013/07/30-20:23:26  
+
+  --- Get one active element part from fem file
+  --- 2 enabled L&C groups are defined
+  --- Get 3156 points defined in range [1, 3156] from fem file
+  Calling the Surface Topology Generator (tsx2tsy)...
+  tsx2tsy: Update part surface contact/bonding data (duration=0 sec.)
+  --- No mid-side node required
+  Set up FEM points and B.C. by connected elements...
+  --- No non-trivial coincident nodal pairs of 0 in FEM
+  Consolidate points between parts using contact definitions...
+  --- No contact used from 0 contact definitions
+  Compress FEM points to ESH nodes...
+  --- Found 1050 independent nodes
+  --- 1050 mesh nodes formed from 3156 FEM points
+  Output the mapping arrays of FEM points to FEA nodes...
+  Writing to ESH file in phase I (nodes & elements)...
+  --- Part1: type=39, flags=7, meshType=10, elements=612, maximumID=612
+  Working on MPCs...
+  --- No MPC made in the model.
+  Writing to ESH file in phase II (FEA objects)...
+  Found defined nodal temperatures are not in use, ignored 1242 out of 1872
+  Use global coordinate system, no local coordinate system defined.
+
+
+  == Model Stats ==
+
+  FEA Nodes & Elements:
+  --- 1050 mesh nodes
+  --- One part and 612 elements
+  FEA Object (total made 630):
+  --- Nodal Temeratures: 630
+  FEM2ESH Duration: 1 seconds (CPU time)
+
+2013/07/30-20:23:27

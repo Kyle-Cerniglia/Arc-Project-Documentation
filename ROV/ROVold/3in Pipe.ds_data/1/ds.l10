@@ -1,0 +1,108 @@
+
+
+Autodesk (R) Simulation Steady-State Heat Transfer
+Version 2013.00.00.0411-W64/X64 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+      DATE: JULY 30, 2013                 
+      TIME: 03:14 PM
+      Input Model: C:\Users\Kyle\Documents\Inventor\2013\ROV\3in Pipe.ds_data\1\ds
+
+
+           PROGRAM VERSION: 201300000411
+           ALG.DLL VERSION: 201300000411
+     AlgConfig.DLL VERSION: 201300000411
+      Agsdb_AR.DLL VERSION: 201300000411
+      AMGSolve.DLL VERSION: 201300000411
+      AlgSolve.DLL VERSION: 201300000411
+ 
+
+ **** Model Unit System Settings:
+      --------------------------------------------
+       Unit System              : English (in)
+       Force                    : lbf
+       Length                   : in
+       Time                     : s
+       Temperature (Absolute)   : deg F (R)
+       Thermal Energy           : in*lbf
+       Voltage                  : V
+       Current                  : A
+       Electrical Resistance    : ohm
+       Mass                     : lbf*s^2/in
+      --------------------------------------------
+
+ 
+
+                                                  
+ **** CONTROL INFORMATION                         
+                                                  
+      number of node points                    =    1560
+      number of element types                  =    1
+      analysis type code                       =    10
+      equations per block                      =    0
+      bandwidth minimization flag              =    0
+
+ **** PHYSICAL CONSTANTS USED WHEN APPLICABLE 
+
+      The Stefan-Boltzmann Constant      =  3.083E-11
+      Temperature Increment to Absolute  =  4.597E+02
+                                                  
+ **** NON-LINEAR ITERATION CONTROL PARAMETERS     
+ 
+      Nonlinear control option           =          OFF
+      Convergence criterion              =          2
+      Maximum number of iterations       =          15
+      Interval for monitoring            =          5
+      Corrective tolerance               =          1.0000E-03
+      Relative tolerance                 =          1.0000E-03
+      Relaxation parameter               =          1.0000E+00
+ 
+ **** PRINT OF NODAL DATA SUPPRESSED              
+ 
+ **** PRINT OF EQUATION NUMBERS SUPPRESSED        
+
+ **** FLUID FLOW CONVECTION IS NOT INCLUDED IN THIS MODEL.
+
+ **** HARD DISK FILE SIZE INFORMATION FOR PROCESSOR:
+
+      Available hard disk space on C drive = 270765.215 megabytes
+
+                                                  
+ **** LOAD CASE MULTIPLIERS                       
+                                                  
+      Boundary temperature multiplier       1.000
+      Convection multiplier                 1.000
+      Radiation multiplier                  1.000
+      Heat generation multiplier            1.000
+ **** Invoking BCSLIB-EXT Sparse Solver ...
+      BCSLIB-EXT solver memory status:  
+      in-core memory requirement (MB) =            1.28
+      minimum memory requirement (MB) =            0.61
+           user specified memory (MB) =         1906.88
+       available physical memory (MB) =         1906.88
+        available virtual memory (MB) =         7120.74
+      memory currently allocated (MB) =            8.00
+ **** End solution 
+ 
+                                                  
+ **** TEMPORARY FILE STORAGE (MEGABYTES)          
+      ----------------------------------          
+       UNIT NO.  7 :      0.012
+       UNIT NO.  8 :      0.107
+       UNIT NO.  9 :      0.040
+       UNIT NO. 10 :      0.040
+       UNIT NO. 11 :      1.478
+       UNIT NO. 12 :      0.000
+       UNIT NO. 13 :      0.040
+       UNIT NO. 14 :      0.000
+       UNIT NO. 15 :      0.040
+       UNIT NO. 18 :      0.040
+       UNIT NO. 65 :      0.012
+       UNIT NO. 67 :      0.487
+
+       TOTAL       :       2.297
+
+
+
+ **** End of File **** 
+ 
