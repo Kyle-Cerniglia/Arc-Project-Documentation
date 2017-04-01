@@ -1,0 +1,90 @@
+﻿TSX2TSY Version 2013.0 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+    Time:	07/30/13 15:33:20
+
+    Input : C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.fem
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.fem
+
+    Command Line: "-a=100" -t=-0.00307049 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.000045 / 0.254335
+    Shortest/Longest line in Part 2 : 0.000051 / 0.257432
+    Shortest/Longest line in Part 3 : 0.009634 / 0.231222
+    Shortest/Longest line in Part 4 : 0.009634 / 0.215964
+    Shortest/Longest line in Part 5 : 0.000051 / 0.244898
+    Shortest/Longest line in Part 6 : 0.000051 / 0.244869
+    Shortest/Longest line in Part 7 : 0.106444 / 0.221252
+    Shortest/Longest line in Part 8 : 0.036651 / 0.166917
+    Shortest/Longest line in Part 9 : 0.115458 / 0.152174
+    Shortest/Longest line in Part 10 : 0.000237 / 0.258730
+    Shortest/Longest line in Part 11 : 0.000237 / 0.225782
+    Shortest/Longest line in Part 12 : 0.070715 / 0.148158
+    Shortest/Longest line in Part 13 : 0.067193 / 0.156244
+    Shortest/Longest line in Part 14 : 0.019762 / 0.301582
+    Shortest/Longest line in Part 15 : 0.103561 / 0.146515
+    Shortest/Longest line in Part 16 : 0.054270 / 0.166985
+    Shortest/Longest line in Part 17 : 0.000237 / 0.225441
+    Shortest/Longest line in Part 18 : 0.000237 / 0.225441
+    Shortest/Longest line in Part 19 : 0.116081 / 0.266401
+    Shortest/Longest line in Part 20 : 0.002460 / 0.289155
+    Shortest/Longest line in Part 21 : 0.071409 / 0.140306
+    Shortest/Longest line in Part 22 : 0.106956 / 0.135775
+    Shortest/Longest line in Part 23 : 0.004263 / 0.149039
+    Shortest/Longest line in Part 24 : 0.020342 / 0.146900
+    Shortest/Longest line in Part 25 : 0.000203 / 0.259499
+    Shortest/Longest line in Part 26 : 0.000237 / 0.232238
+    Shortest/Longest line in Part 27 : 0.000203 / 0.225782
+    Shortest/Longest line in Part 28 : 0.000237 / 0.229326
+    Shortest/Longest line in Part 29 : 0.051684 / 0.088041
+    Shortest/Longest line in Part 30 : 0.050671 / 0.097071
+    Shortest/Longest line in Part 31 : 0.021168 / 0.274759
+    Shortest/Longest line in Part 32 : 0.021168 / 0.274759
+    Shortest/Longest line in Part 33 : 0.014731 / 0.150000
+    Shortest/Longest line in Part 34 : 0.014731 / 0.203114
+    Shortest/Longest line in Part 35 : 0.026488 / 0.166175
+    Shortest/Longest line in Part 36 : 0.071324 / 0.177335
+    Shortest/Longest line in Part 37 : 0.000237 / 0.225782
+    Shortest/Longest line in Part 38 : 0.000237 / 0.258730
+    Shortest/Longest line in Part 39 : 0.073423 / 0.142791
+    Shortest/Longest line in Part 40 : 0.066138 / 0.153274
+    Shortest/Longest line in Part 41 : 0.019762 / 0.301582
+    Shortest/Longest line in Part 42 : 0.050640 / 0.158101
+    Shortest/Longest line in Part 43 : 0.094848 / 0.167926
+    Shortest/Longest line in Part 44 : 0.000051 / 0.254518
+    Shortest/Longest line in Part 45 : 0.000051 / 0.251546
+    Shortest/Longest line in Part 46 : 0.000053 / 0.173859
+    Shortest/Longest line in Part 47 : 0.000608 / 0.222121
+    Shortest/Longest line in Part 48 : 0.009634 / 0.216479
+    Shortest/Longest line in Part 49 : 0.009634 / 0.233659
+    Shortest/Longest line in Part 50 : 0.018750 / 0.221217
+    Shortest/Longest line in Part 51 : 0.020741 / 0.262952
+    Shortest/Longest line in Part 52 : 0.070217 / 0.255127
+    Shortest/Longest line in Part 53 : 0.000203 / 0.271022
+    Shortest/Longest line in Part 54 : 0.031286 / 0.134521
+    Shortest/Longest line in Part 55 : 0.084667 / 0.137345
+    Shortest/Longest line in Part 56 : 0.050992 / 0.125000
+    Shortest/Longest line in Part 57 : 0.052170 / 0.125000
+    Shortest/Longest line in Part 58 : 0.050064 / 0.152256
+    Shortest/Longest line in Part 59 : 0.000237 / 0.233100
+    Shortest/Longest line in Part 60 : 0.050064 / 0.126708
+    Shortest/Longest line in Part 61 : 0.070148 / 0.142300
+    Shortest/Longest line in Part 62 : 0.030798 / 0.134378
+    Shortest/Longest line in Part 63 : 0.006925 / 0.145998
+    Shortest/Longest line in Part 64 : 0.007472 / 0.146002
+    Shortest/Longest line in Part 65 : 0.007472 / 0.145998
+    Shortest/Longest line in Part 66 : 0.007472 / 0.146002
+    Shortest/Longest line in Part 67 : 0.003903 / 0.162498
+    Shortest/Longest line in Part 68 : 0.007472 / 0.148852
+    Shortest/Longest line in Part 69 : 0.007472 / 0.148852
+    Shortest/Longest line in Part 70 : 0.007472 / 0.148852
+    Shortest/Longest line in Part 71 : 0.050000 / 0.242550
+    Shortest/Longest line in Part 72 : 0.050000 / 0.158791
+    Shortest/Longest line in Part 73 : 0.000729 / 0.250009
+    Shortest/Longest line in Part 74 : 0.000729 / 0.210557
+    Shortest/Longest line in Part 75 : 0.000729 / 0.203121
+    Shortest/Longest line in Part 76 : 0.000729 / 0.210557
+    Node matching tolerance: 0.00307049
+    Found 13511 matched corner node pairs.
+
+    Duration: 3 seconds
+

@@ -1,0 +1,1923 @@
+﻿
+
+Hexagen - Automatic Brick Mesh Engine
+Version 2013.0, 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.  
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=0 -zg=1:76 -m=53 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 53
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1654 nodes; 4962 lines; 3308 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+Hexagen - Automatic Brick Mesh Engine
+Version 2013.0, 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.  
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=0 -zg=1:76 -m=25 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 25
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1649 nodes; 4947 lines; 3298 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=59 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 59
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1654 nodes; 4962 lines; 3308 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=1 -Td=1 -Tl=0.146682 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 1
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+ERROR NUMBER 150:
+Input surface mesh does not enclose a watertight solid.
+Have highlighted (LAYER=2,3) sides of holes in surface mesh.
+
+Surfaces with error lines on layers 2, 3: 11
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1623 nodes; 4881 lines; 3254 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=26 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 26
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1619 nodes; 4857 lines; 3238 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+Hexagen - Automatic Brick Mesh Engine
+Version 2013.0, 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.  
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=0 -zg=1:76 -m=46 -Td=1 -Tl=0.0614098 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 46
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 5072 nodes; 15228 lines; 10152 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 3 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=44 -Td=1 -Tl=0.144912 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 44
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1577 nodes; 4743 lines; 3162 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=2 -Td=1 -Tl=0.144912 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 2
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1556 nodes; 4680 lines; 3120 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=5 -Td=1 -Tl=0.144912 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 5
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1463 nodes; 4401 lines; 2934 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=6 -Td=1 -Tl=0.144912 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 6
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1424 nodes; 4284 lines; 2856 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=45 -Td=1 -Tl=0.144912 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 45
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1565 nodes; 4707 lines; 3138 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=71 -Td=1 -Tl=0.153296 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 71
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1522 nodes; 4560 lines; 3040 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=18 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 18
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1338 nodes; 4014 lines; 2676 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=17 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 17
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1322 nodes; 3966 lines; 2644 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=37 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 37
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1308 nodes; 3924 lines; 2616 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=11 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 11
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1306 nodes; 3918 lines; 2612 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=28 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 28
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1278 nodes; 3834 lines; 2556 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=41 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 41
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1275 nodes; 3831 lines; 2554 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=14 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 14
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1279 nodes; 3843 lines; 2562 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=27 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 27
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1268 nodes; 3804 lines; 2536 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=10 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 10
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1260 nodes; 3780 lines; 2520 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=31 -Td=1 -Tl=0.147647 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 31
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1226 nodes; 3672 lines; 2448 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=38 -Td=1 -Tl=0.147623 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 38
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1260 nodes; 3780 lines; 2520 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=32 -Td=1 -Tl=0.147647 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 32
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1202 nodes; 3600 lines; 2400 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=74 -Td=1 -Tl=0.135929 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 74
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1019 nodes; 3057 lines; 2038 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=73 -Td=1 -Tl=0.135867 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 73
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1000 nodes; 3000 lines; 2000 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=75 -Td=1 -Tl=0.135953 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 75
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 988 nodes; 2964 lines; 1976 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=76 -Td=1 -Tl=0.135963 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 76
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 986 nodes; 2958 lines; 1972 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=29 -Td=1 -Tl=0.0854114 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 29
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1090 nodes; 3270 lines; 2180 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=30 -Td=1 -Tl=0.0854114 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 30
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1068 nodes; 3204 lines; 2136 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=57 -Td=1 -Tl=0.0854114 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 57
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1057 nodes; 3171 lines; 2114 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=33 -Td=1 -Tl=0.117031 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 33
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 972 nodes; 2976 lines; 2004 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=20 -Td=1 -Tl=0.203789 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 20
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 978 nodes; 2934 lines; 1956 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=56 -Td=1 -Tl=0.0854114 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 56
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1088 nodes; 3264 lines; 2176 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=34 -Td=1 -Tl=0.117031 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 34
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 948 nodes; 2900 lines; 1952 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=19 -Td=1 -Tl=0.203789 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 19
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 944 nodes; 2832 lines; 1888 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=52 -Td=1 -Tl=0.203789 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 52
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 950 nodes; 2850 lines; 1900 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=51 -Td=1 -Tl=0.203789 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 51
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 1029 nodes; 3087 lines; 2058 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=63 -Td=1 -Tl=0.0928585 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 63
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 863 nodes; 2583 lines; 1722 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=7 -Td=1 -Tl=0.171303 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 7
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 910 nodes; 2730 lines; 1820 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=48 -Td=1 -Tl=0.171312 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 48
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 906 nodes; 2718 lines; 1812 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=64 -Td=1 -Tl=0.0928585 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 64
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 849 nodes; 2541 lines; 1694 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=65 -Td=1 -Tl=0.0928585 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 65
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 849 nodes; 2541 lines; 1694 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=4 -Td=1 -Tl=0.171312 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 4
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 897 nodes; 2691 lines; 1794 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=66 -Td=1 -Tl=0.0928585 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 66
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 849 nodes; 2541 lines; 1694 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=3 -Td=1 -Tl=0.171312 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 3
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 895 nodes; 2685 lines; 1790 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=50 -Td=1 -Tl=0.171303 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 50
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 996 nodes; 2988 lines; 1992 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=8 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 8
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 829 nodes; 2487 lines; 1658 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=35 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 35
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 827 nodes; 2481 lines; 1654 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=16 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 16
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 826 nodes; 2478 lines; 1652 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=60 -Td=1 -Tl=0.100046 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 60
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 814 nodes; 2436 lines; 1624 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=24 -Td=1 -Tl=0.112639 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 24
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 811 nodes; 2433 lines; 1622 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=58 -Td=1 -Tl=0.100046 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 58
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 817 nodes; 2445 lines; 1630 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=49 -Td=1 -Tl=0.171312 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 49
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 981 nodes; 2943 lines; 1962 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=36 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 36
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 816 nodes; 2448 lines; 1632 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=42 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 42
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 810 nodes; 2430 lines; 1620 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=43 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 43
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 806 nodes; 2418 lines; 1612 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=15 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 15
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 802 nodes; 2406 lines; 1604 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=9 -Td=1 -Tl=0.133842 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 9
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 802 nodes; 2406 lines; 1604 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=40 -Td=1 -Tl=0.112642 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 40
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 787 nodes; 2361 lines; 1574 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=13 -Td=1 -Tl=0.112642 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 13
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 780 nodes; 2340 lines; 1560 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=62 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 62
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 785 nodes; 2355 lines; 1570 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=54 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 54
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 785 nodes; 2355 lines; 1570 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=23 -Td=1 -Tl=0.112639 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 23
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 770 nodes; 2310 lines; 1540 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 1 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=12 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 12
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 770 nodes; 2310 lines; 1540 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=61 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 61
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 764 nodes; 2292 lines; 1528 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=39 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 39
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 764 nodes; 2292 lines; 1528 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=55 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 55
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 774 nodes; 2322 lines; 1548 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=21 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 21
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 764 nodes; 2292 lines; 1528 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=22 -Td=1 -Tl=0.112628 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 22
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 760 nodes; 2280 lines; 1520 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=70 -Td=1 -Tl=0.10078 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 70
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+ERROR NUMBER 150:
+Input surface mesh does not enclose a watertight solid.
+Have highlighted (LAYER=2,3) sides of holes in surface mesh.
+
+Surfaces with error lines on layers 2, 3: 4,7,17
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 603 nodes; 1809 lines; 1206 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=69 -Td=1 -Tl=0.10078 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 69
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+ERROR NUMBER 150:
+Input surface mesh does not enclose a watertight solid.
+Have highlighted (LAYER=2,3) sides of holes in surface mesh.
+
+Surfaces with error lines on layers 2, 3: 4,7,17
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 603 nodes; 1809 lines; 1206 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=12 -cancel_pipe=13 -za=1 -zg=1:76 -m=67 -Td=1 -Tl=0.118873 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 67
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 519 nodes; 1557 lines; 1038 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=8 -cancel_pipe=9 -za=1 -zg=1:76 -m=68 -Td=1 -Tl=0.10078 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 68
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+ERROR NUMBER 150:
+Input surface mesh does not enclose a watertight solid.
+Have highlighted (LAYER=2,3) sides of holes in surface mesh.
+
+Surfaces with error lines on layers 2, 3: 4,7,17
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 603 nodes; 1809 lines; 1206 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+_________________________________________________
+
+    EXAMINING SURFACE MESH FOR ANOTHER PART
+_________________________________________________
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=16 -cancel_pipe=17 -za=1 -zg=1:76 -m=72 -Td=1 -Tl=0.153296 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 72
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 457 nodes; 1365 lines; 910 triangles
+    Number of restarts:   0
+    Elapsed time: 0 minutes 0 seconds
+
+
+
+Hexagen - Automatic Brick Mesh Engine
+Version 2013.0, 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.  
+
+PROGRAM WILL USE THE FOLLOWING FILES:
+    Input:  C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+    Output: C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV.FEM
+
+COMMAND LINE:
+    C:\Program Files\Autodesk\Simulation 2013\SOLIDX.exe -b=0 -o=1 -zw=1 C:\Users\Kyle\Documents\Inventor\2013\ROV\ROV -ds=1 -u=13 -c=2 -t=1 -progress_pipe=4 -cancel_pipe=5 -za=0 -zg=1:76 -m=47 -Td=1 -Tl=0.0259073 -Tg=1.2 -Tq=100 -L 
+
+TYPE OF OPERATION:  
+    Meshing only surface defined by part 47
+    Generating bricks, wedges, pyramids and tetrahedra elements
+    Automatically minimizing aspect ratio of solid elements
+
+
+FINAL STATISTICS:
+    Surface mesh contains: 27144 nodes; 81444 lines; 54296 triangles
+    Number of restarts:   0
+    Elapsed time: 1 minutes 29 seconds
+

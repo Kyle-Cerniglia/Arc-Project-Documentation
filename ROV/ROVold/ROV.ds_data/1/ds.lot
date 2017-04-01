@@ -1,0 +1,1410 @@
+
+Meshing Curves ...
+ 3258 curves, 1405 faces, Mesh size = 0.0614098 (9.17 %)  
+ Turnaround time:    0.000 seconds; Execution time:    3.410 seconds 
+    DIMENSION_BASED_MESHING_CURVE
+
+Meshing part 69 ...
+ 656 elements, 27 surfaces, 28 faces, Mesh size = 0.10078 (503.90 %)  
+ Turnaround time:    0.713 seconds; Execution time:    0.298 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 68 ...
+ 656 elements, 27 surfaces, 28 faces, Mesh size = 0.10078 (503.90 %)  
+ Turnaround time:    0.203 seconds; Execution time:    0.452 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 70 ...
+ 656 elements, 27 surfaces, 28 faces, Mesh size = 0.10078 (503.90 %)  
+ Turnaround time:    0.087 seconds; Execution time:    0.408 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 72 ...
+ 456 elements, 6 surfaces, 7 faces, Mesh size = 0.153296 (161.36 %)  
+ Turnaround time:    0.080 seconds; Execution time:    0.133 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 67 ...
+	Fatal error 142 when meshing face 8 (surface 4).
+	Fatal error 142 when meshing face 8 (surface 4).
+	Fatal error 142 when meshing face 11 (surface 7).
+	Fatal error 142 when meshing face 11 (surface 7).
+	Fatal error 142 when meshing face 21 (surface 17).
+	Fatal error 142 when meshing face 21 (surface 17).
+	Fatal error 142 when meshing face 24 (surface 20).
+	Fatal error 142 when meshing face 24 (surface 20).
+ 556 elements, 27 surfaces, 30 faces, Mesh size = 0.118873 (173.71 %)  
+ Turnaround time:    0.053 seconds; Execution time:    0.452 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 60 ...
+ 827 elements, 6 surfaces, 12 faces, Mesh size = 0.100046 (165.36 %)  
+ Turnaround time:    0.074 seconds; Execution time:    0.211 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 58 ...
+ 826 elements, 6 surfaces, 12 faces, Mesh size = 0.100046 (153.65 %)  
+ Turnaround time:    0.069 seconds; Execution time:    0.217 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 57 ...
+      Meshed part 57 face 7 (surface 2) by copying mesh from part 60 face 1 (surface 5)
+      Meshed part 57 face 8 (surface 2) by copying mesh from part 60 face 2 (surface 5)
+      Meshed part 57 face 9 (surface 2) by copying mesh from part 60 face 3 (surface 5)
+      Meshed part 57 face 10 (surface 2) by copying mesh from part 60 face 4 (surface 5)
+      Meshed part 57 face 12 (surface 4) by copying mesh from part 60 face 5 (surface 4)
+ 1058 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (121.35 %)  
+ Turnaround time:    0.048 seconds; Execution time:    0.309 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 29 ...
+ 1090 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (152.19 %)  
+ Turnaround time:    0.071 seconds; Execution time:    0.248 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 56 ...
+      Meshed part 56 face 7 (surface 2) by copying mesh from part 58 face 2 (surface 5)
+      Meshed part 56 face 8 (surface 2) by copying mesh from part 58 face 3 (surface 5)
+      Meshed part 56 face 9 (surface 2) by copying mesh from part 58 face 4 (surface 5)
+      Meshed part 56 face 10 (surface 2) by copying mesh from part 58 face 5 (surface 5)
+      Meshed part 56 face 11 (surface 3) by copying mesh from part 58 face 6 (surface 4)
+ 1088 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (116.91 %)  
+ Turnaround time:    0.132 seconds; Execution time:    0.288 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 30 ...
+ 1070 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (161.84 %)  
+ Turnaround time:    0.058 seconds; Execution time:    0.293 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 66 ...
+      Meshed part 66 face 19 (surface 10) by copying mesh from part 70 face 1 (surface 27)
+      Meshed part 66 face 20 (surface 10) by copying mesh from part 70 face 2 (surface 27)
+ 920 elements, 13 surfaces, 24 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.079 seconds; Execution time:    0.314 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 64 ...
+      Meshed part 64 face 19 (surface 10) by copying mesh from part 68 face 1 (surface 27)
+      Meshed part 64 face 20 (surface 10) by copying mesh from part 68 face 2 (surface 27)
+ 919 elements, 13 surfaces, 24 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.086 seconds; Execution time:    0.323 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 63 ...
+      Meshed part 63 face 19 (surface 10) by copying mesh from part 67 face 1 (surface 27)
+      Meshed part 63 face 20 (surface 10) by copying mesh from part 67 face 2 (surface 27)
+      Meshed part 63 face 21 (surface 10) by copying mesh from part 67 face 3 (surface 27)
+      Meshed part 63 face 22 (surface 10) by copying mesh from part 67 face 4 (surface 27)
+ 928 elements, 13 surfaces, 26 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.127 seconds; Execution time:    0.499 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 65 ...
+      Meshed part 65 face 19 (surface 10) by copying mesh from part 69 face 1 (surface 27)
+      Meshed part 65 face 20 (surface 10) by copying mesh from part 69 face 2 (surface 27)
+ 918 elements, 13 surfaces, 24 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.077 seconds; Execution time:    0.342 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 21 ...
+ 772 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.26 %)  
+ Turnaround time:    0.135 seconds; Execution time:    0.217 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 39 ...
+ 772 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (153.86 %)  
+ Turnaround time:    0.060 seconds; Execution time:    0.219 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 12 ...
+ 778 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.48 %)  
+ Turnaround time:    0.064 seconds; Execution time:    0.187 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 22 ...
+ 768 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.81 %)  
+ Turnaround time:    0.071 seconds; Execution time:    0.220 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 61 ...
+ 772 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.10 %)  
+ Turnaround time:    0.072 seconds; Execution time:    0.198 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 55 ...
+ 783 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (185.95 %)  
+ Turnaround time:    0.082 seconds; Execution time:    0.191 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 54 ...
+ 792 elements, 4 surfaces, 17 faces, Mesh size = 0.112628 (198.68 %)  
+ Turnaround time:    0.064 seconds; Execution time:    0.226 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 62 ...
+ 792 elements, 4 surfaces, 13 faces, Mesh size = 0.112628 (264.70 %)  
+ Turnaround time:    0.068 seconds; Execution time:    0.191 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 23 ...
+ 784 elements, 4 surfaces, 18 faces, Mesh size = 0.112639 (260.98 %)  
+ Turnaround time:    0.035 seconds; Execution time:    0.196 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 24 ...
+ 824 elements, 4 surfaces, 16 faces, Mesh size = 0.112639 (217.05 %)  
+ Turnaround time:    0.068 seconds; Execution time:    0.210 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 40 ...
+ 797 elements, 4 surfaces, 16 faces, Mesh size = 0.112642 (218.83 %)  
+ Turnaround time:    0.092 seconds; Execution time:    0.206 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 13 ...
+ 793 elements, 4 surfaces, 16 faces, Mesh size = 0.112642 (171.44 %)  
+ Turnaround time:    0.074 seconds; Execution time:    0.219 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 73 ...
+ 1103 elements, 14 surfaces, 22 faces, Mesh size = 0.135867 (165.10 %)  
+ Turnaround time:    0.195 seconds; Execution time:    0.871 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 74 ...
+ 1113 elements, 14 surfaces, 22 faces, Mesh size = 0.135929 (137.43 %)  
+ Turnaround time:    0.085 seconds; Execution time:    0.899 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 75 ...
+ 1094 elements, 14 surfaces, 22 faces, Mesh size = 0.135953 (130.69 %)  
+ Turnaround time:    0.129 seconds; Execution time:    0.893 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 76 ...
+ 1092 elements, 14 surfaces, 22 faces, Mesh size = 0.135963 (128.46 %)  
+ Turnaround time:    0.068 seconds; Execution time:    0.897 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 15 ...
+ 808 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (240.48 %)  
+ Turnaround time:    0.087 seconds; Execution time:    0.203 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 36 ...
+ 822 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (216.43 %)  
+ Turnaround time:    0.060 seconds; Execution time:    0.215 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 8 ...
+ 838 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (256.43 %)  
+ Turnaround time:    0.093 seconds; Execution time:    0.213 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 42 ...
+ 816 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (249.68 %)  
+ Turnaround time:    0.071 seconds; Execution time:    0.210 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 9 ...
+ 808 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (196.23 %)  
+ Turnaround time:    0.056 seconds; Execution time:    0.198 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 16 ...
+ 834 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (267.64 %)  
+ Turnaround time:    0.054 seconds; Execution time:    0.219 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 35 ...
+ 835 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (288.92 %)  
+ Turnaround time:    0.195 seconds; Execution time:    0.223 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 43 ...
+ 813 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (182.85 %)  
+ Turnaround time:    0.166 seconds; Execution time:    0.217 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 33 ...
+ 1028 elements, 24 surfaces, 38 faces, Mesh size = 0.117031 (116.80 %)  
+ Turnaround time:    0.068 seconds; Execution time:    0.454 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 34 ...
+ 1002 elements, 24 surfaces, 38 faces, Mesh size = 0.117031 (162.11 %)  
+ Turnaround time:    0.074 seconds; Execution time:    0.454 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 50 ...
+ 900 elements, 4 surfaces, 14 faces, Mesh size = 0.171303 (258.07 %)  
+ Turnaround time:    0.075 seconds; Execution time:    0.223 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 7 ...
+ 925 elements, 4 surfaces, 14 faces, Mesh size = 0.171303 (234.09 %)  
+ Turnaround time:    0.196 seconds; Execution time:    0.233 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 4 ...
+ 912 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (261.09 %)  
+ Turnaround time:    0.072 seconds; Execution time:    0.230 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 48 ...
+ 920 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (271.09 %)  
+ Turnaround time:    0.165 seconds; Execution time:    0.246 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 3 ...
+ 911 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (275.79 %)  
+ Turnaround time:    0.180 seconds; Execution time:    0.260 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 49 ...
+ 911 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (276.14 %)  
+ Turnaround time:    0.064 seconds; Execution time:    0.222 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 31 ...
+      Meshed part 31 face 2 (surface 13) by copying mesh from part 29 face 7 (surface 2)
+      Meshed part 31 face 3 (surface 13) by copying mesh from part 29 face 8 (surface 2)
+      Meshed part 31 face 4 (surface 13) by copying mesh from part 29 face 9 (surface 2)
+      Meshed part 31 face 5 (surface 13) by copying mesh from part 29 face 10 (surface 2)
+      Meshed part 31 face 24 (surface 16) by copying mesh from part 33 face 1 (surface 22)
+      Meshed part 31 face 25 (surface 16) by copying mesh from part 33 face 2 (surface 22)
+      Meshed part 31 face 26 (surface 16) by copying mesh from part 33 face 3 (surface 22)
+      Meshed part 31 face 27 (surface 16) by copying mesh from part 33 face 4 (surface 22)
+      Meshed part 31 face 30 (surface 18) by copying mesh from part 33 face 5 (surface 20)
+ 1304 elements, 18 surfaces, 30 faces, Mesh size = 0.147647 (164.05 %)  
+ Turnaround time:    0.077 seconds; Execution time:    0.484 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 32 ...
+      Meshed part 32 face 2 (surface 13) by copying mesh from part 30 face 7 (surface 2)
+      Meshed part 32 face 3 (surface 13) by copying mesh from part 30 face 8 (surface 2)
+      Meshed part 32 face 4 (surface 13) by copying mesh from part 30 face 9 (surface 2)
+      Meshed part 32 face 5 (surface 13) by copying mesh from part 30 face 10 (surface 2)
+      Meshed part 32 face 24 (surface 16) by copying mesh from part 34 face 1 (surface 22)
+      Meshed part 32 face 25 (surface 16) by copying mesh from part 34 face 2 (surface 22)
+      Meshed part 32 face 26 (surface 16) by copying mesh from part 34 face 3 (surface 22)
+      Meshed part 32 face 27 (surface 16) by copying mesh from part 34 face 4 (surface 22)
+      Meshed part 32 face 30 (surface 18) by copying mesh from part 34 face 5 (surface 20)
+ 1282 elements, 18 surfaces, 30 faces, Mesh size = 0.147647 (164.05 %)  
+ Turnaround time:    0.083 seconds; Execution time:    0.571 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 37 ...
+      Meshed part 37 face 1 (surface 7) by copying mesh from part 36 face 9 (surface 2)
+      Meshed part 37 face 2 (surface 7) by copying mesh from part 36 face 10 (surface 2)
+      Meshed part 37 face 3 (surface 7) by copying mesh from part 36 face 11 (surface 2)
+      Meshed part 37 face 4 (surface 7) by copying mesh from part 36 face 12 (surface 2)
+      Meshed part 37 face 14 (surface 7) by copying mesh from part 42 face 1 (surface 2)
+      Meshed part 37 face 15 (surface 7) by copying mesh from part 42 face 2 (surface 2)
+      Meshed part 37 face 16 (surface 7) by copying mesh from part 42 face 3 (surface 2)
+      Meshed part 37 face 17 (surface 7) by copying mesh from part 42 face 4 (surface 2)
+      Meshed part 37 face 24 (surface 10) by copying mesh from part 39 face 1 (surface 2)
+      Meshed part 37 face 25 (surface 10) by copying mesh from part 39 face 2 (surface 2)
+      Meshed part 37 face 26 (surface 10) by copying mesh from part 39 face 3 (surface 2)
+      Meshed part 37 face 27 (surface 10) by copying mesh from part 39 face 4 (surface 2)
+ 1369 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.063 seconds; Execution time:    0.620 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 17 ...
+      Meshed part 17 face 1 (surface 7) by copying mesh from part 15 face 9 (surface 2)
+      Meshed part 17 face 2 (surface 7) by copying mesh from part 15 face 10 (surface 2)
+      Meshed part 17 face 3 (surface 7) by copying mesh from part 15 face 11 (surface 2)
+      Meshed part 17 face 4 (surface 7) by copying mesh from part 15 face 12 (surface 2)
+      Meshed part 17 face 14 (surface 7) by copying mesh from part 36 face 1 (surface 2)
+      Meshed part 17 face 15 (surface 7) by copying mesh from part 36 face 2 (surface 2)
+      Meshed part 17 face 16 (surface 7) by copying mesh from part 36 face 3 (surface 2)
+      Meshed part 17 face 17 (surface 7) by copying mesh from part 36 face 4 (surface 2)
+      Meshed part 17 face 24 (surface 10) by copying mesh from part 21 face 1 (surface 2)
+      Meshed part 17 face 25 (surface 10) by copying mesh from part 21 face 2 (surface 2)
+      Meshed part 17 face 26 (surface 10) by copying mesh from part 21 face 3 (surface 2)
+      Meshed part 17 face 27 (surface 10) by copying mesh from part 21 face 4 (surface 2)
+ 1383 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.056 seconds; Execution time:    0.589 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 11 ...
+      Meshed part 11 face 1 (surface 7) by copying mesh from part 8 face 9 (surface 2)
+      Meshed part 11 face 2 (surface 7) by copying mesh from part 8 face 10 (surface 2)
+      Meshed part 11 face 3 (surface 7) by copying mesh from part 8 face 11 (surface 2)
+      Meshed part 11 face 4 (surface 7) by copying mesh from part 8 face 12 (surface 2)
+      Meshed part 11 face 14 (surface 7) by copying mesh from part 15 face 1 (surface 2)
+      Meshed part 11 face 15 (surface 7) by copying mesh from part 15 face 2 (surface 2)
+      Meshed part 11 face 16 (surface 7) by copying mesh from part 15 face 3 (surface 2)
+      Meshed part 11 face 17 (surface 7) by copying mesh from part 15 face 4 (surface 2)
+      Meshed part 11 face 24 (surface 10) by copying mesh from part 12 face 1 (surface 2)
+      Meshed part 11 face 25 (surface 10) by copying mesh from part 12 face 2 (surface 2)
+      Meshed part 11 face 26 (surface 10) by copying mesh from part 12 face 3 (surface 2)
+      Meshed part 11 face 27 (surface 10) by copying mesh from part 12 face 4 (surface 2)
+ 1364 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.054 seconds; Execution time:    0.865 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 59 ...
+      Meshed part 59 face 1 (surface 10) by copying mesh from part 57 face 3 (surface 2)
+      Meshed part 59 face 2 (surface 10) by copying mesh from part 57 face 4 (surface 2)
+      Meshed part 59 face 3 (surface 10) by copying mesh from part 57 face 5 (surface 2)
+      Meshed part 59 face 4 (surface 10) by copying mesh from part 57 face 6 (surface 2)
+      Meshed part 59 face 14 (surface 7) by copying mesh from part 61 face 5 (surface 2)
+      Meshed part 59 face 15 (surface 7) by copying mesh from part 61 face 6 (surface 2)
+      Meshed part 59 face 16 (surface 7) by copying mesh from part 61 face 7 (surface 2)
+      Meshed part 59 face 17 (surface 7) by copying mesh from part 61 face 8 (surface 2)
+      Meshed part 59 face 18 (surface 7) by copying mesh from part 62 face 3 (surface 2)
+      Meshed part 59 face 19 (surface 7) by copying mesh from part 62 face 4 (surface 2)
+      Meshed part 59 face 28 (surface 12) by copying mesh from part 60 face 6 (surface 6)
+ 1715 elements, 13 surfaces, 29 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.074 seconds; Execution time:    0.623 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 25 ...
+      Meshed part 25 face 1 (surface 7) by copying mesh from part 21 face 9 (surface 2)
+      Meshed part 25 face 2 (surface 7) by copying mesh from part 21 face 10 (surface 2)
+      Meshed part 25 face 3 (surface 7) by copying mesh from part 21 face 11 (surface 2)
+      Meshed part 25 face 4 (surface 7) by copying mesh from part 21 face 12 (surface 2)
+      Meshed part 25 face 5 (surface 7) by copying mesh from part 23 face 9 (surface 2)
+      Meshed part 25 face 6 (surface 7) by copying mesh from part 23 face 10 (surface 2)
+      Meshed part 25 face 7 (surface 7) by copying mesh from part 23 face 11 (surface 2)
+      Meshed part 25 face 8 (surface 7) by copying mesh from part 23 face 12 (surface 2)
+      Meshed part 25 face 24 (surface 10) by copying mesh from part 29 face 1 (surface 2)
+      Meshed part 25 face 25 (surface 10) by copying mesh from part 29 face 2 (surface 2)
+      Meshed part 25 face 26 (surface 10) by copying mesh from part 29 face 3 (surface 2)
+      Meshed part 25 face 27 (surface 10) by copying mesh from part 29 face 4 (surface 2)
+      Meshed part 25 face 30 (surface 12) by copying mesh from part 31 face 1 (surface 15)
+ 1741 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.069 seconds; Execution time:    0.751 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 26 ...
+      Meshed part 26 face 1 (surface 7) by copying mesh from part 22 face 9 (surface 2)
+      Meshed part 26 face 2 (surface 7) by copying mesh from part 22 face 10 (surface 2)
+      Meshed part 26 face 3 (surface 7) by copying mesh from part 22 face 11 (surface 2)
+      Meshed part 26 face 4 (surface 7) by copying mesh from part 22 face 12 (surface 2)
+      Meshed part 26 face 5 (surface 7) by copying mesh from part 24 face 7 (surface 2)
+      Meshed part 26 face 6 (surface 7) by copying mesh from part 24 face 8 (surface 2)
+      Meshed part 26 face 7 (surface 7) by copying mesh from part 24 face 9 (surface 2)
+      Meshed part 26 face 8 (surface 7) by copying mesh from part 24 face 10 (surface 2)
+      Meshed part 26 face 24 (surface 10) by copying mesh from part 30 face 1 (surface 2)
+      Meshed part 26 face 25 (surface 10) by copying mesh from part 30 face 2 (surface 2)
+      Meshed part 26 face 26 (surface 10) by copying mesh from part 30 face 3 (surface 2)
+      Meshed part 26 face 27 (surface 10) by copying mesh from part 30 face 4 (surface 2)
+      Meshed part 26 face 30 (surface 12) by copying mesh from part 32 face 1 (surface 15)
+ 1700 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.900 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 27 ...
+      Meshed part 27 face 5 (surface 10) by copying mesh from part 23 face 13 (surface 2)
+      Meshed part 27 face 6 (surface 10) by copying mesh from part 23 face 14 (surface 2)
+      Meshed part 27 face 7 (surface 10) by copying mesh from part 23 face 15 (surface 2)
+      Meshed part 27 face 8 (surface 10) by copying mesh from part 23 face 16 (surface 2)
+ 1338 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.061 seconds; Execution time:    0.595 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 18 ...
+      Meshed part 18 face 1 (surface 7) by copying mesh from part 16 face 9 (surface 2)
+      Meshed part 18 face 2 (surface 7) by copying mesh from part 16 face 10 (surface 2)
+      Meshed part 18 face 3 (surface 7) by copying mesh from part 16 face 11 (surface 2)
+      Meshed part 18 face 4 (surface 7) by copying mesh from part 16 face 12 (surface 2)
+      Meshed part 18 face 14 (surface 7) by copying mesh from part 35 face 1 (surface 2)
+      Meshed part 18 face 15 (surface 7) by copying mesh from part 35 face 2 (surface 2)
+      Meshed part 18 face 16 (surface 7) by copying mesh from part 35 face 3 (surface 2)
+      Meshed part 18 face 17 (surface 7) by copying mesh from part 35 face 4 (surface 2)
+      Meshed part 18 face 24 (surface 10) by copying mesh from part 22 face 1 (surface 2)
+      Meshed part 18 face 25 (surface 10) by copying mesh from part 22 face 2 (surface 2)
+      Meshed part 18 face 26 (surface 10) by copying mesh from part 22 face 3 (surface 2)
+      Meshed part 18 face 27 (surface 10) by copying mesh from part 22 face 4 (surface 2)
+ 1409 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.090 seconds; Execution time:    0.560 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 10 ...
+      Meshed part 10 face 1 (surface 7) by copying mesh from part 9 face 9 (surface 2)
+      Meshed part 10 face 2 (surface 7) by copying mesh from part 9 face 10 (surface 2)
+      Meshed part 10 face 3 (surface 7) by copying mesh from part 9 face 11 (surface 2)
+      Meshed part 10 face 4 (surface 7) by copying mesh from part 9 face 12 (surface 2)
+      Meshed part 10 face 14 (surface 7) by copying mesh from part 16 face 1 (surface 2)
+      Meshed part 10 face 15 (surface 7) by copying mesh from part 16 face 2 (surface 2)
+      Meshed part 10 face 16 (surface 7) by copying mesh from part 16 face 3 (surface 2)
+      Meshed part 10 face 17 (surface 7) by copying mesh from part 16 face 4 (surface 2)
+      Meshed part 10 face 20 (surface 10) by copying mesh from part 13 face 1 (surface 2)
+      Meshed part 10 face 21 (surface 10) by copying mesh from part 13 face 2 (surface 2)
+      Meshed part 10 face 22 (surface 10) by copying mesh from part 13 face 3 (surface 2)
+      Meshed part 10 face 23 (surface 10) by copying mesh from part 13 face 4 (surface 2)
+ 1320 elements, 13 surfaces, 27 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.101 seconds; Execution time:    0.615 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 38 ...
+      Meshed part 38 face 1 (surface 7) by copying mesh from part 35 face 9 (surface 2)
+      Meshed part 38 face 2 (surface 7) by copying mesh from part 35 face 10 (surface 2)
+      Meshed part 38 face 3 (surface 7) by copying mesh from part 35 face 11 (surface 2)
+      Meshed part 38 face 4 (surface 7) by copying mesh from part 35 face 12 (surface 2)
+      Meshed part 38 face 14 (surface 7) by copying mesh from part 43 face 1 (surface 2)
+      Meshed part 38 face 15 (surface 7) by copying mesh from part 43 face 2 (surface 2)
+      Meshed part 38 face 16 (surface 7) by copying mesh from part 43 face 3 (surface 2)
+      Meshed part 38 face 17 (surface 7) by copying mesh from part 43 face 4 (surface 2)
+      Meshed part 38 face 20 (surface 10) by copying mesh from part 40 face 1 (surface 2)
+      Meshed part 38 face 21 (surface 10) by copying mesh from part 40 face 2 (surface 2)
+      Meshed part 38 face 22 (surface 10) by copying mesh from part 40 face 3 (surface 2)
+      Meshed part 38 face 23 (surface 10) by copying mesh from part 40 face 4 (surface 2)
+ 1314 elements, 13 surfaces, 27 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.065 seconds; Execution time:    0.504 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 53 ...
+      Meshed part 53 face 10 (surface 7) by copying mesh from part 54 face 5 (surface 2)
+      Meshed part 53 face 11 (surface 7) by copying mesh from part 54 face 6 (surface 2)
+      Meshed part 53 face 12 (surface 7) by copying mesh from part 54 face 7 (surface 2)
+      Meshed part 53 face 13 (surface 7) by copying mesh from part 54 face 8 (surface 2)
+      Meshed part 53 face 14 (surface 7) by copying mesh from part 55 face 5 (surface 2)
+      Meshed part 53 face 15 (surface 7) by copying mesh from part 55 face 6 (surface 2)
+      Meshed part 53 face 16 (surface 7) by copying mesh from part 55 face 7 (surface 2)
+      Meshed part 53 face 17 (surface 7) by copying mesh from part 55 face 8 (surface 2)
+      Meshed part 53 face 24 (surface 10) by copying mesh from part 56 face 1 (surface 2)
+      Meshed part 53 face 25 (surface 10) by copying mesh from part 56 face 2 (surface 2)
+      Meshed part 53 face 26 (surface 10) by copying mesh from part 56 face 3 (surface 2)
+      Meshed part 53 face 27 (surface 10) by copying mesh from part 56 face 4 (surface 2)
+      Meshed part 53 face 30 (surface 12) by copying mesh from part 58 face 1 (surface 6)
+ 1721 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.089 seconds; Execution time:    0.536 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 28 ...
+      Meshed part 28 face 5 (surface 10) by copying mesh from part 24 face 11 (surface 2)
+      Meshed part 28 face 6 (surface 10) by copying mesh from part 24 face 12 (surface 2)
+      Meshed part 28 face 7 (surface 10) by copying mesh from part 24 face 13 (surface 2)
+      Meshed part 28 face 8 (surface 10) by copying mesh from part 24 face 14 (surface 2)
+ 1358 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.071 seconds; Execution time:    0.514 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 51 ...
+      Meshed part 51 face 1 (surface 2) by copying mesh from part 27 face 18 (surface 7)
+      Meshed part 51 face 2 (surface 2) by copying mesh from part 27 face 19 (surface 7)
+      Meshed part 51 face 3 (surface 2) by copying mesh from part 27 face 20 (surface 7)
+      Meshed part 51 face 4 (surface 2) by copying mesh from part 27 face 21 (surface 7)
+ 967 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (358.25 %)  
+ Turnaround time:    0.148 seconds; Execution time:    0.269 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 19 ...
+      Meshed part 19 face 9 (surface 2) by copying mesh from part 27 face 1 (surface 7)
+      Meshed part 19 face 10 (surface 2) by copying mesh from part 27 face 2 (surface 7)
+      Meshed part 19 face 11 (surface 2) by copying mesh from part 27 face 3 (surface 7)
+      Meshed part 19 face 12 (surface 2) by copying mesh from part 27 face 4 (surface 7)
+ 970 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (307.61 %)  
+ Turnaround time:    0.168 seconds; Execution time:    0.272 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 20 ...
+      Meshed part 20 face 9 (surface 2) by copying mesh from part 28 face 1 (surface 7)
+      Meshed part 20 face 10 (surface 2) by copying mesh from part 28 face 2 (surface 7)
+      Meshed part 20 face 11 (surface 2) by copying mesh from part 28 face 3 (surface 7)
+      Meshed part 20 face 12 (surface 2) by copying mesh from part 28 face 4 (surface 7)
+ 1010 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (474.03 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.321 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 52 ...
+      Meshed part 52 face 1 (surface 2) by copying mesh from part 28 face 18 (surface 7)
+      Meshed part 52 face 2 (surface 2) by copying mesh from part 28 face 19 (surface 7)
+      Meshed part 52 face 3 (surface 2) by copying mesh from part 28 face 20 (surface 7)
+      Meshed part 52 face 4 (surface 2) by copying mesh from part 28 face 21 (surface 7)
+ 967 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (344.90 %)  
+ Turnaround time:    0.084 seconds; Execution time:    0.282 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 1 ...
+      Meshed part 1 face 20 (surface 12) by copying mesh from part 4 face 1 (surface 2)
+      Meshed part 1 face 21 (surface 12) by copying mesh from part 4 face 2 (surface 2)
+      Meshed part 1 face 22 (surface 12) by copying mesh from part 4 face 3 (surface 2)
+      Meshed part 1 face 23 (surface 12) by copying mesh from part 4 face 4 (surface 2)
+      Meshed part 1 face 28 (surface 16) by copying mesh from part 8 face 1 (surface 2)
+      Meshed part 1 face 29 (surface 16) by copying mesh from part 8 face 2 (surface 2)
+      Meshed part 1 face 30 (surface 16) by copying mesh from part 8 face 3 (surface 2)
+      Meshed part 1 face 31 (surface 16) by copying mesh from part 8 face 4 (surface 2)
+      Meshed part 1 face 35 (surface 19) by copying mesh from part 62 face 1 (surface 2)
+      Meshed part 1 face 36 (surface 19) by copying mesh from part 62 face 2 (surface 2)
+ 1713 elements, 21 surfaces, 39 faces, Mesh size = 0.146682 (139.70 %)  
+ Turnaround time:    0.109 seconds; Execution time:    1.770 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 44 ...
+      Meshed part 44 face 1 (surface 19) by copying mesh from part 42 face 9 (surface 2)
+      Meshed part 44 face 2 (surface 19) by copying mesh from part 42 face 10 (surface 2)
+      Meshed part 44 face 3 (surface 19) by copying mesh from part 42 face 11 (surface 2)
+      Meshed part 44 face 4 (surface 19) by copying mesh from part 42 face 12 (surface 2)
+	Fatal error 113 when meshing face 18 (surface 11).
+      Meshed part 44 face 24 (surface 12) by copying mesh from part 49 face 1 (surface 2)
+      Meshed part 44 face 25 (surface 12) by copying mesh from part 49 face 2 (surface 2)
+      Meshed part 44 face 26 (surface 12) by copying mesh from part 49 face 3 (surface 2)
+      Meshed part 44 face 27 (surface 12) by copying mesh from part 49 face 4 (surface 2)
+      Meshed part 44 face 32 (surface 16) by copying mesh from part 55 face 1 (surface 2)
+      Meshed part 44 face 33 (surface 16) by copying mesh from part 55 face 2 (surface 2)
+      Meshed part 44 face 34 (surface 16) by copying mesh from part 55 face 3 (surface 2)
+      Meshed part 44 face 35 (surface 16) by copying mesh from part 55 face 4 (surface 2)
+ 1666 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.081 seconds; Execution time:    1.382 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 2 ...
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 16 (surface 11).
+      Meshed part 2 face 20 (surface 12) by copying mesh from part 3 face 1 (surface 2)
+      Meshed part 2 face 21 (surface 12) by copying mesh from part 3 face 2 (surface 2)
+      Meshed part 2 face 22 (surface 12) by copying mesh from part 3 face 3 (surface 2)
+      Meshed part 2 face 23 (surface 12) by copying mesh from part 3 face 4 (surface 2)
+      Meshed part 2 face 28 (surface 16) by copying mesh from part 61 face 1 (surface 2)
+      Meshed part 2 face 29 (surface 16) by copying mesh from part 61 face 2 (surface 2)
+      Meshed part 2 face 30 (surface 16) by copying mesh from part 61 face 3 (surface 2)
+      Meshed part 2 face 31 (surface 16) by copying mesh from part 61 face 4 (surface 2)
+      Meshed part 2 face 35 (surface 19) by copying mesh from part 9 face 1 (surface 2)
+      Meshed part 2 face 36 (surface 19) by copying mesh from part 9 face 2 (surface 2)
+      Meshed part 2 face 37 (surface 19) by copying mesh from part 9 face 3 (surface 2)
+      Meshed part 2 face 38 (surface 19) by copying mesh from part 9 face 4 (surface 2)
+ 1648 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.046 seconds; Execution time:    1.449 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 45 ...
+      Meshed part 45 face 1 (surface 16) by copying mesh from part 43 face 9 (surface 2)
+      Meshed part 45 face 2 (surface 16) by copying mesh from part 43 face 10 (surface 2)
+      Meshed part 45 face 3 (surface 16) by copying mesh from part 43 face 11 (surface 2)
+      Meshed part 45 face 4 (surface 16) by copying mesh from part 43 face 12 (surface 2)
+	Fatal error 113 when meshing face 19 (surface 11).
+      Meshed part 45 face 24 (surface 12) by copying mesh from part 48 face 1 (surface 2)
+      Meshed part 45 face 25 (surface 12) by copying mesh from part 48 face 2 (surface 2)
+      Meshed part 45 face 26 (surface 12) by copying mesh from part 48 face 3 (surface 2)
+      Meshed part 45 face 27 (surface 12) by copying mesh from part 48 face 4 (surface 2)
+      Meshed part 45 face 35 (surface 19) by copying mesh from part 54 face 1 (surface 2)
+      Meshed part 45 face 36 (surface 19) by copying mesh from part 54 face 2 (surface 2)
+      Meshed part 45 face 37 (surface 19) by copying mesh from part 54 face 3 (surface 2)
+      Meshed part 45 face 38 (surface 19) by copying mesh from part 54 face 4 (surface 2)
+ 1652 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.094 seconds; Execution time:    1.822 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 47 ...
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+ First time failed at meshing face 15 (surface 11) with mesh size 0.144078.
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+ Retry 1 failed at meshing face 15 (surface 11) with mesh size 0.061410. 
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+ Retry 2 failed at meshing face 15 (surface 11) with mesh size 0.046057. 
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+ Retry 3 failed at meshing face 15 (surface 11) with mesh size 0.034543. 
+ 27396 elements, 21 surfaces, 43 faces, Mesh size = 0.0259073 (24.67 %)  (Retry 4) 
+ Turnaround time:    0.094 seconds; Execution time:   12.807 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 46 ...
+	Fatal error 113 when meshing face 14 (surface 11).
+	Fatal error 105 when meshing face 14 (surface 11).
+	Fatal error 113 when meshing face 14 (surface 11).
+	Fatal error 113 when meshing face 14 (surface 11).
+ First time failed at meshing face 14 (surface 11) with mesh size 0.144078.
+	Fatal error 113 when meshing face 14 (surface 11).
+      Meshed part 46 face 20 (surface 12) by copying mesh from part 48 face 5 (surface 2)
+      Meshed part 46 face 21 (surface 12) by copying mesh from part 48 face 6 (surface 2)
+      Meshed part 46 face 23 (surface 12) by copying mesh from part 48 face 8 (surface 2)
+      Meshed part 46 face 38 (surface 19) by copying mesh from part 52 face 6 (surface 2)
+      Meshed part 46 face 39 (surface 19) by copying mesh from part 52 face 7 (surface 2)
+ 5190 elements, 21 surfaces, 43 faces, Mesh size = 0.0614098 (58.49 %)  (Retry 1) 
+ Turnaround time:    0.109 seconds; Execution time:    2.433 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 6 ...
+      Meshed part 6 face 1 (surface 12) by copying mesh from part 4 face 9 (surface 2)
+      Meshed part 6 face 2 (surface 12) by copying mesh from part 4 face 10 (surface 2)
+      Meshed part 6 face 3 (surface 12) by copying mesh from part 4 face 11 (surface 2)
+      Meshed part 6 face 4 (surface 12) by copying mesh from part 4 face 12 (surface 2)
+	Fatal error 105 when meshing face 18 (surface 11).
+	Fatal error 113 when meshing face 20 (surface 11).
+      Meshed part 6 face 28 (surface 16) by copying mesh from part 7 face 5 (surface 2)
+      Meshed part 6 face 29 (surface 16) by copying mesh from part 7 face 6 (surface 2)
+      Meshed part 6 face 30 (surface 16) by copying mesh from part 7 face 7 (surface 2)
+      Meshed part 6 face 31 (surface 16) by copying mesh from part 7 face 8 (surface 2)
+      Meshed part 6 face 35 (surface 19) by copying mesh from part 19 face 1 (surface 2)
+      Meshed part 6 face 36 (surface 19) by copying mesh from part 19 face 2 (surface 2)
+      Meshed part 6 face 37 (surface 19) by copying mesh from part 19 face 3 (surface 2)
+      Meshed part 6 face 38 (surface 19) by copying mesh from part 19 face 4 (surface 2)
+ 1519 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.117 seconds; Execution time:    0.990 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 5 ...
+      Meshed part 5 face 1 (surface 12) by copying mesh from part 3 face 9 (surface 2)
+      Meshed part 5 face 2 (surface 12) by copying mesh from part 3 face 10 (surface 2)
+      Meshed part 5 face 3 (surface 12) by copying mesh from part 3 face 11 (surface 2)
+      Meshed part 5 face 4 (surface 12) by copying mesh from part 3 face 12 (surface 2)
+	Fatal error 105 when meshing face 18 (surface 11).
+	Fatal error 113 when meshing face 19 (surface 11).
+      Meshed part 5 face 28 (surface 16) by copying mesh from part 20 face 1 (surface 2)
+      Meshed part 5 face 29 (surface 16) by copying mesh from part 20 face 2 (surface 2)
+      Meshed part 5 face 30 (surface 16) by copying mesh from part 20 face 3 (surface 2)
+      Meshed part 5 face 31 (surface 16) by copying mesh from part 20 face 4 (surface 2)
+      Meshed part 5 face 35 (surface 19) by copying mesh from part 7 face 1 (surface 2)
+      Meshed part 5 face 36 (surface 19) by copying mesh from part 7 face 2 (surface 2)
+      Meshed part 5 face 37 (surface 19) by copying mesh from part 7 face 3 (surface 2)
+      Meshed part 5 face 38 (surface 19) by copying mesh from part 7 face 4 (surface 2)
+ 1554 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.085 seconds; Execution time:    1.118 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 41 ...
+      Meshed part 41 face 1 (surface 7) by copying mesh from part 39 face 9 (surface 2)
+      Meshed part 41 face 2 (surface 7) by copying mesh from part 39 face 10 (surface 2)
+      Meshed part 41 face 3 (surface 7) by copying mesh from part 39 face 11 (surface 2)
+      Meshed part 41 face 4 (surface 7) by copying mesh from part 39 face 12 (surface 2)
+      Meshed part 41 face 5 (surface 7) by copying mesh from part 40 face 11 (surface 2)
+      Meshed part 41 face 6 (surface 7) by copying mesh from part 40 face 12 (surface 2)
+      Meshed part 41 face 7 (surface 7) by copying mesh from part 40 face 13 (surface 2)
+      Meshed part 41 face 8 (surface 7) by copying mesh from part 40 face 14 (surface 2)
+ 1349 elements, 13 surfaces, 25 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.094 seconds; Execution time:    0.547 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 14 ...
+      Meshed part 14 face 1 (surface 7) by copying mesh from part 12 face 9 (surface 2)
+      Meshed part 14 face 2 (surface 7) by copying mesh from part 12 face 10 (surface 2)
+      Meshed part 14 face 3 (surface 7) by copying mesh from part 12 face 11 (surface 2)
+      Meshed part 14 face 4 (surface 7) by copying mesh from part 12 face 12 (surface 2)
+      Meshed part 14 face 5 (surface 7) by copying mesh from part 13 face 11 (surface 2)
+      Meshed part 14 face 6 (surface 7) by copying mesh from part 13 face 12 (surface 2)
+      Meshed part 14 face 7 (surface 7) by copying mesh from part 13 face 13 (surface 2)
+      Meshed part 14 face 8 (surface 7) by copying mesh from part 13 face 14 (surface 2)
+ 1349 elements, 13 surfaces, 25 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.069 seconds; Execution time:    0.557 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 71 ...
+      Meshed part 71 face 5 (surface 5) by copying mesh from part 72 face 1 (surface 5)
+ 1518 elements, 11 surfaces, 11 faces, Mesh size = 0.153296 (161.36 %)  
+ Turnaround time:    0.082 seconds; Execution time:    0.280 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Total time: 62 seconds. 07/30/13 15:22:06. TSMESH V2013.0, 28-Feb-2012.
+=========================================================================
+
+
+Meshing Curves ...
+ 3258 curves, 1405 faces, Mesh size = 0.0614098 (9.17 %)  
+ Turnaround time:    0.000 seconds; Execution time:    3.181 seconds 
+    DIMENSION_BASED_MESHING_CURVE
+
+Meshing part 69 ...
+ 656 elements, 27 surfaces, 28 faces, Mesh size = 0.10078 (503.90 %)  
+ Turnaround time:    0.794 seconds; Execution time:    0.347 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 68 ...
+ 656 elements, 27 surfaces, 28 faces, Mesh size = 0.10078 (503.90 %)  
+ Turnaround time:    0.076 seconds; Execution time:    0.283 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 70 ...
+ 656 elements, 27 surfaces, 28 faces, Mesh size = 0.10078 (503.90 %)  
+ Turnaround time:    0.110 seconds; Execution time:    0.295 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 72 ...
+ 456 elements, 6 surfaces, 7 faces, Mesh size = 0.153296 (161.36 %)  
+ Turnaround time:    0.095 seconds; Execution time:    0.132 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 67 ...
+	Fatal error 142 when meshing face 8 (surface 4).
+	Fatal error 142 when meshing face 8 (surface 4).
+	Fatal error 142 when meshing face 11 (surface 7).
+	Fatal error 142 when meshing face 11 (surface 7).
+	Fatal error 142 when meshing face 21 (surface 17).
+	Fatal error 142 when meshing face 21 (surface 17).
+	Fatal error 142 when meshing face 24 (surface 20).
+	Fatal error 142 when meshing face 24 (surface 20).
+ 556 elements, 27 surfaces, 30 faces, Mesh size = 0.118873 (173.71 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.410 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 60 ...
+ 827 elements, 6 surfaces, 12 faces, Mesh size = 0.100046 (165.36 %)  
+ Turnaround time:    0.052 seconds; Execution time:    0.193 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 58 ...
+ 826 elements, 6 surfaces, 12 faces, Mesh size = 0.100046 (153.65 %)  
+ Turnaround time:    0.053 seconds; Execution time:    0.189 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 57 ...
+      Meshed part 57 face 7 (surface 2) by copying mesh from part 60 face 1 (surface 5)
+      Meshed part 57 face 8 (surface 2) by copying mesh from part 60 face 2 (surface 5)
+      Meshed part 57 face 9 (surface 2) by copying mesh from part 60 face 3 (surface 5)
+      Meshed part 57 face 10 (surface 2) by copying mesh from part 60 face 4 (surface 5)
+      Meshed part 57 face 12 (surface 4) by copying mesh from part 60 face 5 (surface 4)
+ 1058 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (121.35 %)  
+ Turnaround time:    0.048 seconds; Execution time:    0.240 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 29 ...
+ 1090 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (152.19 %)  
+ Turnaround time:    0.160 seconds; Execution time:    0.234 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 56 ...
+      Meshed part 56 face 7 (surface 2) by copying mesh from part 58 face 2 (surface 5)
+      Meshed part 56 face 8 (surface 2) by copying mesh from part 58 face 3 (surface 5)
+      Meshed part 56 face 9 (surface 2) by copying mesh from part 58 face 4 (surface 5)
+      Meshed part 56 face 10 (surface 2) by copying mesh from part 58 face 5 (surface 5)
+      Meshed part 56 face 11 (surface 3) by copying mesh from part 58 face 6 (surface 4)
+ 1088 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (116.91 %)  
+ Turnaround time:    0.157 seconds; Execution time:    0.277 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 30 ...
+ 1070 elements, 4 surfaces, 12 faces, Mesh size = 0.0854114 (161.84 %)  
+ Turnaround time:    0.056 seconds; Execution time:    0.236 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 66 ...
+      Meshed part 66 face 19 (surface 10) by copying mesh from part 70 face 1 (surface 27)
+      Meshed part 66 face 20 (surface 10) by copying mesh from part 70 face 2 (surface 27)
+ 920 elements, 13 surfaces, 24 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.146 seconds; Execution time:    0.333 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 64 ...
+      Meshed part 64 face 19 (surface 10) by copying mesh from part 68 face 1 (surface 27)
+      Meshed part 64 face 20 (surface 10) by copying mesh from part 68 face 2 (surface 27)
+ 919 elements, 13 surfaces, 24 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.096 seconds; Execution time:    0.294 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 63 ...
+      Meshed part 63 face 19 (surface 10) by copying mesh from part 67 face 1 (surface 27)
+      Meshed part 63 face 20 (surface 10) by copying mesh from part 67 face 2 (surface 27)
+      Meshed part 63 face 21 (surface 10) by copying mesh from part 67 face 3 (surface 27)
+      Meshed part 63 face 22 (surface 10) by copying mesh from part 67 face 4 (surface 27)
+ 928 elements, 13 surfaces, 26 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.058 seconds; Execution time:    0.377 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 65 ...
+      Meshed part 65 face 19 (surface 10) by copying mesh from part 69 face 1 (surface 27)
+      Meshed part 65 face 20 (surface 10) by copying mesh from part 69 face 2 (surface 27)
+ 918 elements, 13 surfaces, 24 faces, Mesh size = 0.0928585 (195.49 %)  
+ Turnaround time:    0.094 seconds; Execution time:    0.336 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 21 ...
+ 772 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.26 %)  
+ Turnaround time:    0.068 seconds; Execution time:    0.203 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 39 ...
+ 772 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (153.86 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.183 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 12 ...
+ 778 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.48 %)  
+ Turnaround time:    0.055 seconds; Execution time:    0.186 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 22 ...
+ 768 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.81 %)  
+ Turnaround time:    0.049 seconds; Execution time:    0.189 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 61 ...
+ 772 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (154.10 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.207 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 55 ...
+ 783 elements, 4 surfaces, 14 faces, Mesh size = 0.112628 (185.95 %)  
+ Turnaround time:    0.059 seconds; Execution time:    0.193 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 54 ...
+ 792 elements, 4 surfaces, 17 faces, Mesh size = 0.112628 (198.68 %)  
+ Turnaround time:    0.056 seconds; Execution time:    0.243 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 62 ...
+ 792 elements, 4 surfaces, 13 faces, Mesh size = 0.112628 (264.70 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.205 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 23 ...
+ 784 elements, 4 surfaces, 18 faces, Mesh size = 0.112639 (260.98 %)  
+ Turnaround time:    0.058 seconds; Execution time:    0.200 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 24 ...
+ 824 elements, 4 surfaces, 16 faces, Mesh size = 0.112639 (217.05 %)  
+ Turnaround time:    0.055 seconds; Execution time:    0.200 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 40 ...
+ 797 elements, 4 surfaces, 16 faces, Mesh size = 0.112642 (218.83 %)  
+ Turnaround time:    0.056 seconds; Execution time:    0.210 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 13 ...
+ 793 elements, 4 surfaces, 16 faces, Mesh size = 0.112642 (171.44 %)  
+ Turnaround time:    0.053 seconds; Execution time:    0.214 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 73 ...
+ 1103 elements, 14 surfaces, 22 faces, Mesh size = 0.135867 (165.10 %)  
+ Turnaround time:    0.058 seconds; Execution time:    0.873 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 74 ...
+ 1113 elements, 14 surfaces, 22 faces, Mesh size = 0.135929 (137.43 %)  
+ Turnaround time:    0.055 seconds; Execution time:    0.873 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 75 ...
+ 1094 elements, 14 surfaces, 22 faces, Mesh size = 0.135953 (130.69 %)  
+ Turnaround time:    0.095 seconds; Execution time:    0.856 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 76 ...
+ 1092 elements, 14 surfaces, 22 faces, Mesh size = 0.135963 (128.46 %)  
+ Turnaround time:    0.053 seconds; Execution time:    0.845 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 15 ...
+ 808 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (240.48 %)  
+ Turnaround time:    0.079 seconds; Execution time:    0.208 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 36 ...
+ 822 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (216.43 %)  
+ Turnaround time:    0.054 seconds; Execution time:    0.197 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 8 ...
+ 838 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (256.43 %)  
+ Turnaround time:    0.055 seconds; Execution time:    0.212 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 42 ...
+ 816 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (249.68 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.207 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 9 ...
+ 808 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (196.23 %)  
+ Turnaround time:    0.057 seconds; Execution time:    0.219 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 16 ...
+ 834 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (267.64 %)  
+ Turnaround time:    0.167 seconds; Execution time:    0.209 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 35 ...
+ 835 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (288.92 %)  
+ Turnaround time:    0.073 seconds; Execution time:    0.191 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 43 ...
+ 813 elements, 4 surfaces, 14 faces, Mesh size = 0.133842 (182.85 %)  
+ Turnaround time:    0.049 seconds; Execution time:    0.205 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 33 ...
+ 1028 elements, 24 surfaces, 38 faces, Mesh size = 0.117031 (116.80 %)  
+ Turnaround time:    0.058 seconds; Execution time:    0.411 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 34 ...
+ 1002 elements, 24 surfaces, 38 faces, Mesh size = 0.117031 (162.11 %)  
+ Turnaround time:    0.080 seconds; Execution time:    0.434 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 50 ...
+ 900 elements, 4 surfaces, 14 faces, Mesh size = 0.171303 (258.07 %)  
+ Turnaround time:    0.162 seconds; Execution time:    0.226 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 7 ...
+ 925 elements, 4 surfaces, 14 faces, Mesh size = 0.171303 (234.09 %)  
+ Turnaround time:    0.169 seconds; Execution time:    0.230 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 4 ...
+ 912 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (261.09 %)  
+ Turnaround time:    0.159 seconds; Execution time:    0.228 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 48 ...
+ 920 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (271.09 %)  
+ Turnaround time:    0.158 seconds; Execution time:    0.238 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 3 ...
+ 911 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (275.79 %)  
+ Turnaround time:    0.160 seconds; Execution time:    0.229 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 49 ...
+ 911 elements, 4 surfaces, 14 faces, Mesh size = 0.171312 (276.14 %)  
+ Turnaround time:    0.067 seconds; Execution time:    0.235 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 31 ...
+      Meshed part 31 face 2 (surface 13) by copying mesh from part 29 face 7 (surface 2)
+      Meshed part 31 face 3 (surface 13) by copying mesh from part 29 face 8 (surface 2)
+      Meshed part 31 face 4 (surface 13) by copying mesh from part 29 face 9 (surface 2)
+      Meshed part 31 face 5 (surface 13) by copying mesh from part 29 face 10 (surface 2)
+      Meshed part 31 face 24 (surface 16) by copying mesh from part 33 face 1 (surface 22)
+      Meshed part 31 face 25 (surface 16) by copying mesh from part 33 face 2 (surface 22)
+      Meshed part 31 face 26 (surface 16) by copying mesh from part 33 face 3 (surface 22)
+      Meshed part 31 face 27 (surface 16) by copying mesh from part 33 face 4 (surface 22)
+      Meshed part 31 face 30 (surface 18) by copying mesh from part 33 face 5 (surface 20)
+ 1304 elements, 18 surfaces, 30 faces, Mesh size = 0.147647 (164.05 %)  
+ Turnaround time:    0.183 seconds; Execution time:    0.501 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 32 ...
+      Meshed part 32 face 2 (surface 13) by copying mesh from part 30 face 7 (surface 2)
+      Meshed part 32 face 3 (surface 13) by copying mesh from part 30 face 8 (surface 2)
+      Meshed part 32 face 4 (surface 13) by copying mesh from part 30 face 9 (surface 2)
+      Meshed part 32 face 5 (surface 13) by copying mesh from part 30 face 10 (surface 2)
+      Meshed part 32 face 24 (surface 16) by copying mesh from part 34 face 1 (surface 22)
+      Meshed part 32 face 25 (surface 16) by copying mesh from part 34 face 2 (surface 22)
+      Meshed part 32 face 26 (surface 16) by copying mesh from part 34 face 3 (surface 22)
+      Meshed part 32 face 27 (surface 16) by copying mesh from part 34 face 4 (surface 22)
+      Meshed part 32 face 30 (surface 18) by copying mesh from part 34 face 5 (surface 20)
+ 1282 elements, 18 surfaces, 30 faces, Mesh size = 0.147647 (164.05 %)  
+ Turnaround time:    0.076 seconds; Execution time:    0.471 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 37 ...
+      Meshed part 37 face 1 (surface 7) by copying mesh from part 36 face 9 (surface 2)
+      Meshed part 37 face 2 (surface 7) by copying mesh from part 36 face 10 (surface 2)
+      Meshed part 37 face 3 (surface 7) by copying mesh from part 36 face 11 (surface 2)
+      Meshed part 37 face 4 (surface 7) by copying mesh from part 36 face 12 (surface 2)
+      Meshed part 37 face 14 (surface 7) by copying mesh from part 42 face 1 (surface 2)
+      Meshed part 37 face 15 (surface 7) by copying mesh from part 42 face 2 (surface 2)
+      Meshed part 37 face 16 (surface 7) by copying mesh from part 42 face 3 (surface 2)
+      Meshed part 37 face 17 (surface 7) by copying mesh from part 42 face 4 (surface 2)
+      Meshed part 37 face 24 (surface 10) by copying mesh from part 39 face 1 (surface 2)
+      Meshed part 37 face 25 (surface 10) by copying mesh from part 39 face 2 (surface 2)
+      Meshed part 37 face 26 (surface 10) by copying mesh from part 39 face 3 (surface 2)
+      Meshed part 37 face 27 (surface 10) by copying mesh from part 39 face 4 (surface 2)
+ 1369 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.080 seconds; Execution time:    0.554 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 17 ...
+      Meshed part 17 face 1 (surface 7) by copying mesh from part 15 face 9 (surface 2)
+      Meshed part 17 face 2 (surface 7) by copying mesh from part 15 face 10 (surface 2)
+      Meshed part 17 face 3 (surface 7) by copying mesh from part 15 face 11 (surface 2)
+      Meshed part 17 face 4 (surface 7) by copying mesh from part 15 face 12 (surface 2)
+      Meshed part 17 face 14 (surface 7) by copying mesh from part 36 face 1 (surface 2)
+      Meshed part 17 face 15 (surface 7) by copying mesh from part 36 face 2 (surface 2)
+      Meshed part 17 face 16 (surface 7) by copying mesh from part 36 face 3 (surface 2)
+      Meshed part 17 face 17 (surface 7) by copying mesh from part 36 face 4 (surface 2)
+      Meshed part 17 face 24 (surface 10) by copying mesh from part 21 face 1 (surface 2)
+      Meshed part 17 face 25 (surface 10) by copying mesh from part 21 face 2 (surface 2)
+      Meshed part 17 face 26 (surface 10) by copying mesh from part 21 face 3 (surface 2)
+      Meshed part 17 face 27 (surface 10) by copying mesh from part 21 face 4 (surface 2)
+ 1383 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.062 seconds; Execution time:    0.549 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 11 ...
+      Meshed part 11 face 1 (surface 7) by copying mesh from part 8 face 9 (surface 2)
+      Meshed part 11 face 2 (surface 7) by copying mesh from part 8 face 10 (surface 2)
+      Meshed part 11 face 3 (surface 7) by copying mesh from part 8 face 11 (surface 2)
+      Meshed part 11 face 4 (surface 7) by copying mesh from part 8 face 12 (surface 2)
+      Meshed part 11 face 14 (surface 7) by copying mesh from part 15 face 1 (surface 2)
+      Meshed part 11 face 15 (surface 7) by copying mesh from part 15 face 2 (surface 2)
+      Meshed part 11 face 16 (surface 7) by copying mesh from part 15 face 3 (surface 2)
+      Meshed part 11 face 17 (surface 7) by copying mesh from part 15 face 4 (surface 2)
+      Meshed part 11 face 24 (surface 10) by copying mesh from part 12 face 1 (surface 2)
+      Meshed part 11 face 25 (surface 10) by copying mesh from part 12 face 2 (surface 2)
+      Meshed part 11 face 26 (surface 10) by copying mesh from part 12 face 3 (surface 2)
+      Meshed part 11 face 27 (surface 10) by copying mesh from part 12 face 4 (surface 2)
+ 1364 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.079 seconds; Execution time:    0.563 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 59 ...
+      Meshed part 59 face 1 (surface 10) by copying mesh from part 57 face 3 (surface 2)
+      Meshed part 59 face 2 (surface 10) by copying mesh from part 57 face 4 (surface 2)
+      Meshed part 59 face 3 (surface 10) by copying mesh from part 57 face 5 (surface 2)
+      Meshed part 59 face 4 (surface 10) by copying mesh from part 57 face 6 (surface 2)
+      Meshed part 59 face 14 (surface 7) by copying mesh from part 61 face 5 (surface 2)
+      Meshed part 59 face 15 (surface 7) by copying mesh from part 61 face 6 (surface 2)
+      Meshed part 59 face 16 (surface 7) by copying mesh from part 61 face 7 (surface 2)
+      Meshed part 59 face 17 (surface 7) by copying mesh from part 61 face 8 (surface 2)
+      Meshed part 59 face 18 (surface 7) by copying mesh from part 62 face 3 (surface 2)
+      Meshed part 59 face 19 (surface 7) by copying mesh from part 62 face 4 (surface 2)
+      Meshed part 59 face 28 (surface 12) by copying mesh from part 60 face 6 (surface 6)
+ 1715 elements, 13 surfaces, 29 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.084 seconds; Execution time:    0.601 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 25 ...
+      Meshed part 25 face 1 (surface 7) by copying mesh from part 21 face 9 (surface 2)
+      Meshed part 25 face 2 (surface 7) by copying mesh from part 21 face 10 (surface 2)
+      Meshed part 25 face 3 (surface 7) by copying mesh from part 21 face 11 (surface 2)
+      Meshed part 25 face 4 (surface 7) by copying mesh from part 21 face 12 (surface 2)
+      Meshed part 25 face 5 (surface 7) by copying mesh from part 23 face 9 (surface 2)
+      Meshed part 25 face 6 (surface 7) by copying mesh from part 23 face 10 (surface 2)
+      Meshed part 25 face 7 (surface 7) by copying mesh from part 23 face 11 (surface 2)
+      Meshed part 25 face 8 (surface 7) by copying mesh from part 23 face 12 (surface 2)
+      Meshed part 25 face 24 (surface 10) by copying mesh from part 29 face 1 (surface 2)
+      Meshed part 25 face 25 (surface 10) by copying mesh from part 29 face 2 (surface 2)
+      Meshed part 25 face 26 (surface 10) by copying mesh from part 29 face 3 (surface 2)
+      Meshed part 25 face 27 (surface 10) by copying mesh from part 29 face 4 (surface 2)
+      Meshed part 25 face 30 (surface 12) by copying mesh from part 31 face 1 (surface 15)
+ 1741 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.060 seconds; Execution time:    0.640 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 26 ...
+      Meshed part 26 face 1 (surface 7) by copying mesh from part 22 face 9 (surface 2)
+      Meshed part 26 face 2 (surface 7) by copying mesh from part 22 face 10 (surface 2)
+      Meshed part 26 face 3 (surface 7) by copying mesh from part 22 face 11 (surface 2)
+      Meshed part 26 face 4 (surface 7) by copying mesh from part 22 face 12 (surface 2)
+      Meshed part 26 face 5 (surface 7) by copying mesh from part 24 face 7 (surface 2)
+      Meshed part 26 face 6 (surface 7) by copying mesh from part 24 face 8 (surface 2)
+      Meshed part 26 face 7 (surface 7) by copying mesh from part 24 face 9 (surface 2)
+      Meshed part 26 face 8 (surface 7) by copying mesh from part 24 face 10 (surface 2)
+      Meshed part 26 face 24 (surface 10) by copying mesh from part 30 face 1 (surface 2)
+      Meshed part 26 face 25 (surface 10) by copying mesh from part 30 face 2 (surface 2)
+      Meshed part 26 face 26 (surface 10) by copying mesh from part 30 face 3 (surface 2)
+      Meshed part 26 face 27 (surface 10) by copying mesh from part 30 face 4 (surface 2)
+      Meshed part 26 face 30 (surface 12) by copying mesh from part 32 face 1 (surface 15)
+ 1700 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.135 seconds; Execution time:    0.669 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 27 ...
+      Meshed part 27 face 5 (surface 10) by copying mesh from part 23 face 13 (surface 2)
+      Meshed part 27 face 6 (surface 10) by copying mesh from part 23 face 14 (surface 2)
+      Meshed part 27 face 7 (surface 10) by copying mesh from part 23 face 15 (surface 2)
+      Meshed part 27 face 8 (surface 10) by copying mesh from part 23 face 16 (surface 2)
+ 1338 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.094 seconds; Execution time:    0.495 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 18 ...
+      Meshed part 18 face 1 (surface 7) by copying mesh from part 16 face 9 (surface 2)
+      Meshed part 18 face 2 (surface 7) by copying mesh from part 16 face 10 (surface 2)
+      Meshed part 18 face 3 (surface 7) by copying mesh from part 16 face 11 (surface 2)
+      Meshed part 18 face 4 (surface 7) by copying mesh from part 16 face 12 (surface 2)
+      Meshed part 18 face 14 (surface 7) by copying mesh from part 35 face 1 (surface 2)
+      Meshed part 18 face 15 (surface 7) by copying mesh from part 35 face 2 (surface 2)
+      Meshed part 18 face 16 (surface 7) by copying mesh from part 35 face 3 (surface 2)
+      Meshed part 18 face 17 (surface 7) by copying mesh from part 35 face 4 (surface 2)
+      Meshed part 18 face 24 (surface 10) by copying mesh from part 22 face 1 (surface 2)
+      Meshed part 18 face 25 (surface 10) by copying mesh from part 22 face 2 (surface 2)
+      Meshed part 18 face 26 (surface 10) by copying mesh from part 22 face 3 (surface 2)
+      Meshed part 18 face 27 (surface 10) by copying mesh from part 22 face 4 (surface 2)
+ 1409 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.097 seconds; Execution time:    0.567 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 10 ...
+      Meshed part 10 face 1 (surface 7) by copying mesh from part 9 face 9 (surface 2)
+      Meshed part 10 face 2 (surface 7) by copying mesh from part 9 face 10 (surface 2)
+      Meshed part 10 face 3 (surface 7) by copying mesh from part 9 face 11 (surface 2)
+      Meshed part 10 face 4 (surface 7) by copying mesh from part 9 face 12 (surface 2)
+      Meshed part 10 face 14 (surface 7) by copying mesh from part 16 face 1 (surface 2)
+      Meshed part 10 face 15 (surface 7) by copying mesh from part 16 face 2 (surface 2)
+      Meshed part 10 face 16 (surface 7) by copying mesh from part 16 face 3 (surface 2)
+      Meshed part 10 face 17 (surface 7) by copying mesh from part 16 face 4 (surface 2)
+      Meshed part 10 face 20 (surface 10) by copying mesh from part 13 face 1 (surface 2)
+      Meshed part 10 face 21 (surface 10) by copying mesh from part 13 face 2 (surface 2)
+      Meshed part 10 face 22 (surface 10) by copying mesh from part 13 face 3 (surface 2)
+      Meshed part 10 face 23 (surface 10) by copying mesh from part 13 face 4 (surface 2)
+ 1320 elements, 13 surfaces, 27 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.089 seconds; Execution time:    0.521 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 38 ...
+      Meshed part 38 face 1 (surface 7) by copying mesh from part 35 face 9 (surface 2)
+      Meshed part 38 face 2 (surface 7) by copying mesh from part 35 face 10 (surface 2)
+      Meshed part 38 face 3 (surface 7) by copying mesh from part 35 face 11 (surface 2)
+      Meshed part 38 face 4 (surface 7) by copying mesh from part 35 face 12 (surface 2)
+      Meshed part 38 face 14 (surface 7) by copying mesh from part 43 face 1 (surface 2)
+      Meshed part 38 face 15 (surface 7) by copying mesh from part 43 face 2 (surface 2)
+      Meshed part 38 face 16 (surface 7) by copying mesh from part 43 face 3 (surface 2)
+      Meshed part 38 face 17 (surface 7) by copying mesh from part 43 face 4 (surface 2)
+      Meshed part 38 face 20 (surface 10) by copying mesh from part 40 face 1 (surface 2)
+      Meshed part 38 face 21 (surface 10) by copying mesh from part 40 face 2 (surface 2)
+      Meshed part 38 face 22 (surface 10) by copying mesh from part 40 face 3 (surface 2)
+      Meshed part 38 face 23 (surface 10) by copying mesh from part 40 face 4 (surface 2)
+ 1314 elements, 13 surfaces, 27 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.121 seconds; Execution time:    0.530 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 53 ...
+      Meshed part 53 face 10 (surface 7) by copying mesh from part 54 face 5 (surface 2)
+      Meshed part 53 face 11 (surface 7) by copying mesh from part 54 face 6 (surface 2)
+      Meshed part 53 face 12 (surface 7) by copying mesh from part 54 face 7 (surface 2)
+      Meshed part 53 face 13 (surface 7) by copying mesh from part 54 face 8 (surface 2)
+      Meshed part 53 face 14 (surface 7) by copying mesh from part 55 face 5 (surface 2)
+      Meshed part 53 face 15 (surface 7) by copying mesh from part 55 face 6 (surface 2)
+      Meshed part 53 face 16 (surface 7) by copying mesh from part 55 face 7 (surface 2)
+      Meshed part 53 face 17 (surface 7) by copying mesh from part 55 face 8 (surface 2)
+      Meshed part 53 face 24 (surface 10) by copying mesh from part 56 face 1 (surface 2)
+      Meshed part 53 face 25 (surface 10) by copying mesh from part 56 face 2 (surface 2)
+      Meshed part 53 face 26 (surface 10) by copying mesh from part 56 face 3 (surface 2)
+      Meshed part 53 face 27 (surface 10) by copying mesh from part 56 face 4 (surface 2)
+      Meshed part 53 face 30 (surface 12) by copying mesh from part 58 face 1 (surface 6)
+ 1721 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.111 seconds; Execution time:    0.617 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 28 ...
+      Meshed part 28 face 5 (surface 10) by copying mesh from part 24 face 11 (surface 2)
+      Meshed part 28 face 6 (surface 10) by copying mesh from part 24 face 12 (surface 2)
+      Meshed part 28 face 7 (surface 10) by copying mesh from part 24 face 13 (surface 2)
+      Meshed part 28 face 8 (surface 10) by copying mesh from part 24 face 14 (surface 2)
+ 1358 elements, 13 surfaces, 31 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.091 seconds; Execution time:    0.503 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 51 ...
+      Meshed part 51 face 1 (surface 2) by copying mesh from part 27 face 18 (surface 7)
+      Meshed part 51 face 2 (surface 2) by copying mesh from part 27 face 19 (surface 7)
+      Meshed part 51 face 3 (surface 2) by copying mesh from part 27 face 20 (surface 7)
+      Meshed part 51 face 4 (surface 2) by copying mesh from part 27 face 21 (surface 7)
+ 967 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (358.25 %)  
+ Turnaround time:    0.082 seconds; Execution time:    0.266 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 19 ...
+      Meshed part 19 face 9 (surface 2) by copying mesh from part 27 face 1 (surface 7)
+      Meshed part 19 face 10 (surface 2) by copying mesh from part 27 face 2 (surface 7)
+      Meshed part 19 face 11 (surface 2) by copying mesh from part 27 face 3 (surface 7)
+      Meshed part 19 face 12 (surface 2) by copying mesh from part 27 face 4 (surface 7)
+ 970 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (307.61 %)  
+ Turnaround time:    0.055 seconds; Execution time:    0.289 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 20 ...
+      Meshed part 20 face 9 (surface 2) by copying mesh from part 28 face 1 (surface 7)
+      Meshed part 20 face 10 (surface 2) by copying mesh from part 28 face 2 (surface 7)
+      Meshed part 20 face 11 (surface 2) by copying mesh from part 28 face 3 (surface 7)
+      Meshed part 20 face 12 (surface 2) by copying mesh from part 28 face 4 (surface 7)
+ 1010 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (474.03 %)  
+ Turnaround time:    0.101 seconds; Execution time:    0.287 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 52 ...
+      Meshed part 52 face 1 (surface 2) by copying mesh from part 28 face 18 (surface 7)
+      Meshed part 52 face 2 (surface 2) by copying mesh from part 28 face 19 (surface 7)
+      Meshed part 52 face 3 (surface 2) by copying mesh from part 28 face 20 (surface 7)
+      Meshed part 52 face 4 (surface 2) by copying mesh from part 28 face 21 (surface 7)
+ 967 elements, 4 surfaces, 14 faces, Mesh size = 0.203789 (344.90 %)  
+ Turnaround time:    0.050 seconds; Execution time:    0.274 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 1 ...
+      Meshed part 1 face 20 (surface 12) by copying mesh from part 4 face 1 (surface 2)
+      Meshed part 1 face 21 (surface 12) by copying mesh from part 4 face 2 (surface 2)
+      Meshed part 1 face 22 (surface 12) by copying mesh from part 4 face 3 (surface 2)
+      Meshed part 1 face 23 (surface 12) by copying mesh from part 4 face 4 (surface 2)
+      Meshed part 1 face 28 (surface 16) by copying mesh from part 8 face 1 (surface 2)
+      Meshed part 1 face 29 (surface 16) by copying mesh from part 8 face 2 (surface 2)
+      Meshed part 1 face 30 (surface 16) by copying mesh from part 8 face 3 (surface 2)
+      Meshed part 1 face 31 (surface 16) by copying mesh from part 8 face 4 (surface 2)
+      Meshed part 1 face 35 (surface 19) by copying mesh from part 62 face 1 (surface 2)
+      Meshed part 1 face 36 (surface 19) by copying mesh from part 62 face 2 (surface 2)
+ 1713 elements, 21 surfaces, 39 faces, Mesh size = 0.146682 (139.70 %)  
+ Turnaround time:    0.120 seconds; Execution time:    1.897 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 44 ...
+      Meshed part 44 face 1 (surface 19) by copying mesh from part 42 face 9 (surface 2)
+      Meshed part 44 face 2 (surface 19) by copying mesh from part 42 face 10 (surface 2)
+      Meshed part 44 face 3 (surface 19) by copying mesh from part 42 face 11 (surface 2)
+      Meshed part 44 face 4 (surface 19) by copying mesh from part 42 face 12 (surface 2)
+	Fatal error 113 when meshing face 18 (surface 11).
+      Meshed part 44 face 24 (surface 12) by copying mesh from part 49 face 1 (surface 2)
+      Meshed part 44 face 25 (surface 12) by copying mesh from part 49 face 2 (surface 2)
+      Meshed part 44 face 26 (surface 12) by copying mesh from part 49 face 3 (surface 2)
+      Meshed part 44 face 27 (surface 12) by copying mesh from part 49 face 4 (surface 2)
+      Meshed part 44 face 32 (surface 16) by copying mesh from part 55 face 1 (surface 2)
+      Meshed part 44 face 33 (surface 16) by copying mesh from part 55 face 2 (surface 2)
+      Meshed part 44 face 34 (surface 16) by copying mesh from part 55 face 3 (surface 2)
+      Meshed part 44 face 35 (surface 16) by copying mesh from part 55 face 4 (surface 2)
+ 1666 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.043 seconds; Execution time:    1.392 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 2 ...
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 16 (surface 11).
+      Meshed part 2 face 20 (surface 12) by copying mesh from part 3 face 1 (surface 2)
+      Meshed part 2 face 21 (surface 12) by copying mesh from part 3 face 2 (surface 2)
+      Meshed part 2 face 22 (surface 12) by copying mesh from part 3 face 3 (surface 2)
+      Meshed part 2 face 23 (surface 12) by copying mesh from part 3 face 4 (surface 2)
+      Meshed part 2 face 28 (surface 16) by copying mesh from part 61 face 1 (surface 2)
+      Meshed part 2 face 29 (surface 16) by copying mesh from part 61 face 2 (surface 2)
+      Meshed part 2 face 30 (surface 16) by copying mesh from part 61 face 3 (surface 2)
+      Meshed part 2 face 31 (surface 16) by copying mesh from part 61 face 4 (surface 2)
+      Meshed part 2 face 35 (surface 19) by copying mesh from part 9 face 1 (surface 2)
+      Meshed part 2 face 36 (surface 19) by copying mesh from part 9 face 2 (surface 2)
+      Meshed part 2 face 37 (surface 19) by copying mesh from part 9 face 3 (surface 2)
+      Meshed part 2 face 38 (surface 19) by copying mesh from part 9 face 4 (surface 2)
+ 1648 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.085 seconds; Execution time:    1.369 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 45 ...
+      Meshed part 45 face 1 (surface 16) by copying mesh from part 43 face 9 (surface 2)
+      Meshed part 45 face 2 (surface 16) by copying mesh from part 43 face 10 (surface 2)
+      Meshed part 45 face 3 (surface 16) by copying mesh from part 43 face 11 (surface 2)
+      Meshed part 45 face 4 (surface 16) by copying mesh from part 43 face 12 (surface 2)
+	Fatal error 113 when meshing face 19 (surface 11).
+      Meshed part 45 face 24 (surface 12) by copying mesh from part 48 face 1 (surface 2)
+      Meshed part 45 face 25 (surface 12) by copying mesh from part 48 face 2 (surface 2)
+      Meshed part 45 face 26 (surface 12) by copying mesh from part 48 face 3 (surface 2)
+      Meshed part 45 face 27 (surface 12) by copying mesh from part 48 face 4 (surface 2)
+      Meshed part 45 face 35 (surface 19) by copying mesh from part 54 face 1 (surface 2)
+      Meshed part 45 face 36 (surface 19) by copying mesh from part 54 face 2 (surface 2)
+      Meshed part 45 face 37 (surface 19) by copying mesh from part 54 face 3 (surface 2)
+      Meshed part 45 face 38 (surface 19) by copying mesh from part 54 face 4 (surface 2)
+ 1652 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.062 seconds; Execution time:    1.850 seconds 
+    DIMENSION_BASED_MESHING_SURFACE
+
+Meshing part 47 ...
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+ First time failed at meshing face 15 (surface 11) with mesh size 0.144078.
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+ Retry 1 failed at meshing face 15 (surface 11) with mesh size 0.061410. 
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+ Retry 2 failed at meshing face 15 (surface 11) with mesh size 0.046057. 
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 105 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+	Fatal error 113 when meshing face 15 (surface 11).
+ Retry 3 failed at meshing face 15 (surface 11) with mesh size 0.034543. 
+ 27396 elements, 21 surfaces, 43 faces, Mesh size = 0.0259073 (24.67 %)  (Retry 4) 
+ Turnaround time:    0.087 seconds; Execution time:   12.335 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 46 ...
+	Fatal error 113 when meshing face 14 (surface 11).
+	Fatal error 105 when meshing face 14 (surface 11).
+	Fatal error 113 when meshing face 14 (surface 11).
+	Fatal error 113 when meshing face 14 (surface 11).
+ First time failed at meshing face 14 (surface 11) with mesh size 0.144078.
+	Fatal error 113 when meshing face 14 (surface 11).
+      Meshed part 46 face 20 (surface 12) by copying mesh from part 48 face 5 (surface 2)
+      Meshed part 46 face 21 (surface 12) by copying mesh from part 48 face 6 (surface 2)
+      Meshed part 46 face 23 (surface 12) by copying mesh from part 48 face 8 (surface 2)
+      Meshed part 46 face 38 (surface 19) by copying mesh from part 52 face 6 (surface 2)
+      Meshed part 46 face 39 (surface 19) by copying mesh from part 52 face 7 (surface 2)
+ 5190 elements, 21 surfaces, 43 faces, Mesh size = 0.0614098 (58.49 %)  (Retry 1) 
+ Turnaround time:    0.066 seconds; Execution time:    2.602 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 6 ...
+      Meshed part 6 face 1 (surface 12) by copying mesh from part 4 face 9 (surface 2)
+      Meshed part 6 face 2 (surface 12) by copying mesh from part 4 face 10 (surface 2)
+      Meshed part 6 face 3 (surface 12) by copying mesh from part 4 face 11 (surface 2)
+      Meshed part 6 face 4 (surface 12) by copying mesh from part 4 face 12 (surface 2)
+	Fatal error 105 when meshing face 18 (surface 11).
+	Fatal error 113 when meshing face 20 (surface 11).
+      Meshed part 6 face 28 (surface 16) by copying mesh from part 7 face 5 (surface 2)
+      Meshed part 6 face 29 (surface 16) by copying mesh from part 7 face 6 (surface 2)
+      Meshed part 6 face 30 (surface 16) by copying mesh from part 7 face 7 (surface 2)
+      Meshed part 6 face 31 (surface 16) by copying mesh from part 7 face 8 (surface 2)
+      Meshed part 6 face 35 (surface 19) by copying mesh from part 19 face 1 (surface 2)
+      Meshed part 6 face 36 (surface 19) by copying mesh from part 19 face 2 (surface 2)
+      Meshed part 6 face 37 (surface 19) by copying mesh from part 19 face 3 (surface 2)
+      Meshed part 6 face 38 (surface 19) by copying mesh from part 19 face 4 (surface 2)
+ 1519 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.084 seconds; Execution time:    0.985 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 5 ...
+      Meshed part 5 face 1 (surface 12) by copying mesh from part 3 face 9 (surface 2)
+      Meshed part 5 face 2 (surface 12) by copying mesh from part 3 face 10 (surface 2)
+      Meshed part 5 face 3 (surface 12) by copying mesh from part 3 face 11 (surface 2)
+      Meshed part 5 face 4 (surface 12) by copying mesh from part 3 face 12 (surface 2)
+	Fatal error 105 when meshing face 18 (surface 11).
+	Fatal error 113 when meshing face 19 (surface 11).
+      Meshed part 5 face 28 (surface 16) by copying mesh from part 20 face 1 (surface 2)
+      Meshed part 5 face 29 (surface 16) by copying mesh from part 20 face 2 (surface 2)
+      Meshed part 5 face 30 (surface 16) by copying mesh from part 20 face 3 (surface 2)
+      Meshed part 5 face 31 (surface 16) by copying mesh from part 20 face 4 (surface 2)
+      Meshed part 5 face 35 (surface 19) by copying mesh from part 7 face 1 (surface 2)
+      Meshed part 5 face 36 (surface 19) by copying mesh from part 7 face 2 (surface 2)
+      Meshed part 5 face 37 (surface 19) by copying mesh from part 7 face 3 (surface 2)
+      Meshed part 5 face 38 (surface 19) by copying mesh from part 7 face 4 (surface 2)
+ 1554 elements, 21 surfaces, 41 faces, Mesh size = 0.144912 (138.01 %)  
+ Turnaround time:    0.052 seconds; Execution time:    1.169 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 41 ...
+      Meshed part 41 face 1 (surface 7) by copying mesh from part 39 face 9 (surface 2)
+      Meshed part 41 face 2 (surface 7) by copying mesh from part 39 face 10 (surface 2)
+      Meshed part 41 face 3 (surface 7) by copying mesh from part 39 face 11 (surface 2)
+      Meshed part 41 face 4 (surface 7) by copying mesh from part 39 face 12 (surface 2)
+      Meshed part 41 face 5 (surface 7) by copying mesh from part 40 face 11 (surface 2)
+      Meshed part 41 face 6 (surface 7) by copying mesh from part 40 face 12 (surface 2)
+      Meshed part 41 face 7 (surface 7) by copying mesh from part 40 face 13 (surface 2)
+      Meshed part 41 face 8 (surface 7) by copying mesh from part 40 face 14 (surface 2)
+ 1349 elements, 13 surfaces, 25 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.110 seconds; Execution time:    0.506 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 14 ...
+      Meshed part 14 face 1 (surface 7) by copying mesh from part 12 face 9 (surface 2)
+      Meshed part 14 face 2 (surface 7) by copying mesh from part 12 face 10 (surface 2)
+      Meshed part 14 face 3 (surface 7) by copying mesh from part 12 face 11 (surface 2)
+      Meshed part 14 face 4 (surface 7) by copying mesh from part 12 face 12 (surface 2)
+      Meshed part 14 face 5 (surface 7) by copying mesh from part 13 face 11 (surface 2)
+      Meshed part 14 face 6 (surface 7) by copying mesh from part 13 face 12 (surface 2)
+      Meshed part 14 face 7 (surface 7) by copying mesh from part 13 face 13 (surface 2)
+      Meshed part 14 face 8 (surface 7) by copying mesh from part 13 face 14 (surface 2)
+ 1349 elements, 13 surfaces, 25 faces, Mesh size = 0.147623 (164.03 %)  
+ Turnaround time:    0.081 seconds; Execution time:    0.561 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Meshing part 71 ...
+      Meshed part 71 face 5 (surface 5) by copying mesh from part 72 face 1 (surface 5)
+ 1518 elements, 11 surfaces, 11 faces, Mesh size = 0.153296 (161.36 %)  
+ Turnaround time:    0.115 seconds; Execution time:    0.281 seconds 
+    PART_BY_PART_MESHING_WITH_VCADMODEL
+
+Total time: 59 seconds. 07/30/13 15:33:20. TSMESH V2013.0, 28-Feb-2012.
+=========================================================================
+
