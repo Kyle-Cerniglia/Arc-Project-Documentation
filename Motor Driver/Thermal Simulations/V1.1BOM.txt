@@ -1,0 +1,16 @@
+1:	31X42 Circuit board
+1:	3D Print Fan mount
+1:	10X40X40 12V PC Fan
+2:	1X2 Terminal Block
+4:	Heat sink
+4:	Heat sink mounting screw
+4:	Heat sink mounting nut
+4:	1/2" 4-40 Screw
+4:	BUV26 Transistor
+2:	EC2-5NU Relay
+4:	470 Ohm resistor
+2:	Green 3mm LED
+1:	Red 3mm LED
+1:	Yellow 3mm LED
+2:	10pf Ceramic capacitor
+1:	1X4 Right angle male header
