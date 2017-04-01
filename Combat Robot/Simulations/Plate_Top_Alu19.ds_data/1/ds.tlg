@@ -1,0 +1,15 @@
+﻿TSX2TSY Version 2016.0 09-Mar-2015
+Copyright (c) 2015, Autodesk, Inc. All rights reserved.
+
+    Time:	07/02/15 00:21:38
+
+    Input : C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Plate_Top_Alu19.fem
+    Output: C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Plate_Top_Alu19.fem
+
+    Command Line: "-a=100" C:\Users\Kyle\Documents\Project documentation\Combat Robot\CAD\V1.0\Plate_Top_Alu19.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.031900 / 0.239325
+    Node matching tolerance: 0.000638
+    Found 0 matched corner node pairs.
+
+    Duration: 0 seconds
+
